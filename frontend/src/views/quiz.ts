@@ -213,6 +213,30 @@ export function runQuiz(root: HTMLElement, session: Session, opts: QuizOptions):
     e.preventDefault();
     submit();
   });
+
+  // Enter submits even when typing through a system Japanese IME. There the first Enter just
+  // confirms the IME's text, so submit as soon as that confirmation lands. Chrome sends keydown
+  // (isComposing) then compositionend; Safari sends compositionend first, then keydown (229).
+  let composing = false;
+  let submitAfterIme = false;
+  input.addEventListener('compositionstart', () => (composing = true));
+  input.addEventListener('compositionend', () => {
+    composing = false;
+    if (submitAfterIme) {
+      submitAfterIme = false;
+      setTimeout(submit, 0);
+    }
+  });
+  input.addEventListener('keydown', (e) => {
+    if (e.key !== 'Enter') return;
+    if (e.isComposing || composing) {
+      submitAfterIme = true; // Chrome: let the IME commit, then submit on compositionend
+      return;
+    }
+    e.preventDefault(); // a plain Enter, or Safari's Enter right after the IME committed
+    e.stopPropagation(); // the document-level "Enter = next" handler must not see this same press
+    submit();
+  });
   $('[data-next]').addEventListener('click', advance);
   $('[data-info]').addEventListener('click', () => (infoPanel.hidden ? showInfo() : (infoPanel.hidden = true)));
   rightBtn.addEventListener('click', overrule);
