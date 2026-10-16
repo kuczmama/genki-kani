@@ -1,0 +1,942 @@
+{
+ "v13": [
+  {
+   "ja": "隣[となり]の家[いえ]に{赤[あか]ちゃん}が生[う]まれました。",
+   "en": "A baby was born in the house next door."
+  },
+  {
+   "ja": "{赤[あか]ちゃん}が泣[な]いているので、母[はは]はミルクをあげています。",
+   "en": "The baby is crying, so Mother is giving it milk."
+  }
+ ],
+ "v51": [
+  {
+   "ja": "夜[よる]一人[ひとり]で歩[ある]くのは{危[あぶ]ない}です。",
+   "en": "Walking alone at night is dangerous."
+  },
+  {
+   "ja": "{危[あぶ]ない}！車[くるま]が来[き]ますよ。",
+   "en": "Watch out! A car is coming."
+  }
+ ],
+ "v144": [
+  {
+   "ja": "お茶[ちゃ]を{入[い]れました}から、どうぞ。",
+   "en": "I made tea, so please have some."
+  },
+  {
+   "ja": "コーヒーを{入[い]れて}もらえますか。",
+   "en": "Could you make me some coffee?"
+  }
+ ],
+ "v170": [
+  {
+   "ja": "旅行[りょこう]に行[い]ったんですか。{うらやましい}です。",
+   "en": "You went on a trip? I'm envious."
+  },
+  {
+   "ja": "{うらやましい}なあ。私[わたし]も行[い]きたい。",
+   "en": "I'm so envious. I want to go too."
+  }
+ ],
+ "v196": [
+  {
+   "ja": "メニューから好[す]きな料理[りょうり]を{選[えら]んで}ください。",
+   "en": "Please choose a dish you like from the menu."
+  },
+  {
+   "ja": "プレゼントを{選[えら]ぶ}のは難[むずか]しいです。",
+   "en": "Choosing a present is hard."
+  }
+ ],
+ "v203": [
+  {
+   "ja": "お正月[しょうがつ]に神社[じんじゃ]で{お祈[いの]りしました}。",
+   "en": "At New Year I prayed at a shrine."
+  },
+  {
+   "ja": "試験[しけん]に合格[ごうかく]できるように、{お祈[いの]りします}。",
+   "en": "I'll pray that I can pass the exam."
+  }
+ ],
+ "v218": [
+  {
+   "ja": "店[みせ]に{お客[きゃく]さん}がたくさん来[き]ました。",
+   "en": "Lots of customers came to the shop."
+  },
+  {
+   "ja": "今晩[こんばん]、{お客[きゃく]さん}が来[く]るので、掃除[そうじ]しました。",
+   "en": "Guests are coming tonight, so I cleaned."
+  }
+ ],
+ "v291": [
+  {
+   "ja": "ご結婚[けっこん]、{おめでとうございます}！",
+   "en": "Congratulations on your marriage!"
+  },
+  {
+   "ja": "合格[ごうかく]しましたか。{おめでとうございます}。",
+   "en": "You passed? Congratulations."
+  }
+ ],
+ "v303": [
+  {
+   "ja": "カップラーメンに{お湯[ゆ]}を入[い]れて、三分[さんぷん]待[ま]ちました。",
+   "en": "I poured hot water into the cup ramen and waited three minutes."
+  },
+  {
+   "ja": "お風呂[ふろ]の{お湯[ゆ]}が熱[あつ]すぎます。",
+   "en": "The bath water is too hot."
+  }
+ ],
+ "v305": [
+  {
+   "ja": "お茶[ちゃ]を飲[の]むために、{お湯[ゆ]を沸[わ]かします}。",
+   "en": "I boil water in order to drink tea."
+  },
+  {
+   "ja": "やかんで{お湯[ゆ]を沸[わ]かして}ください。",
+   "en": "Please boil water in the kettle."
+  }
+ ],
+ "v342": [
+  {
+   "ja": "家[いえ]の{鍵[かぎ]}をなくしました。",
+   "en": "I lost my house key."
+  },
+  {
+   "ja": "机[つくえ]の上[うえ]に{鍵[かぎ]}がありました。",
+   "en": "There was a key on the desk."
+  }
+ ],
+ "v343": [
+  {
+   "ja": "出[で]かける前[まえ]に、ドアの{鍵[かぎ]をかけました}。",
+   "en": "I locked the door before going out."
+  },
+  {
+   "ja": "寝[ね]る前[まえ]に、必[かなら]ず{鍵[かぎ]をかけ}ます。",
+   "en": "I always lock up before going to bed."
+  }
+ ],
+ "v352": [
+  {
+   "ja": "車[くるま]のドアに鍵[かぎ]を{かけました}か。",
+   "en": "Did you lock the car door?"
+  },
+  {
+   "ja": "鍵[かぎ]を{かけ}ないで出[で]かけてしまいました。",
+   "en": "I went out without locking up."
+  }
+ ],
+ "v358": [
+  {
+   "ja": "昨日[きのう]の夜[よる]、近[ちか]くで{火事[かじ]}がありました。",
+   "en": "There was a fire nearby last night."
+  },
+  {
+   "ja": "{火事[かじ]}のとき、エレベーターを使[つか]ってはいけません。",
+   "en": "You must not use the elevator in a fire."
+  }
+ ],
+ "v384": [
+  {
+   "ja": "明日[あした]は晴[は]れる{かなあ}。",
+   "en": "I wonder if it will be sunny tomorrow."
+  },
+  {
+   "ja": "これ、おいしい{かな}。",
+   "en": "I wonder if this is tasty."
+  }
+ ],
+ "v399": [
+  {
+   "ja": "{紙[かみ]}に名前[なまえ]を書[か]いてください。",
+   "en": "Please write your name on the paper."
+  },
+  {
+   "ja": "{紙[かみ]}がなくなったので、買[か]ってきます。",
+   "en": "We're out of paper, so I'll go buy some."
+  }
+ ],
+ "v402": [
+  {
+   "ja": "朝[あさ]、起[お]きて{髪[かみ]をとかします}。",
+   "en": "In the morning I get up and comb my hair."
+  },
+  {
+   "ja": "{髪[かみ]をとかして}から、学校[がっこう]に行[い]きなさい。",
+   "en": "Comb your hair and then go to school."
+  }
+ ],
+ "v475": [
+  {
+   "ja": "この会社[かいしゃ]は{給料[きゅうりょう]}が高[たか]いです。",
+   "en": "This company's salary is high."
+  },
+  {
+   "ja": "先月[せんげつ]の{給料[きゅうりょう]}で、新[あたら]しいパソコンを買[か]いました。",
+   "en": "I bought a new computer with last month's salary."
+  }
+ ],
+ "v546": [
+  {
+   "ja": "母[はは]は毎朝[まいあさ]三十分[さんじゅっぷん]{化粧[けしょう]します}。",
+   "en": "My mother puts on makeup for thirty minutes every morning."
+  },
+  {
+   "ja": "デートの前[まえ]に、きれいに{化粧[けしょう]しました}。",
+   "en": "Before the date, I put on makeup nicely."
+  }
+ ],
+ "v642": [
+  {
+   "ja": "目[め]が悪[わる]いので、{コンタクトレンズ}をしています。",
+   "en": "My eyes are bad, so I wear contact lenses."
+  },
+  {
+   "ja": "{コンタクト}を落[お]としてしまいました。",
+   "en": "I dropped my contact lens."
+  }
+ ],
+ "v656": [
+  {
+   "ja": "今日[きょう]は雨[あめ]で、電車[でんしゃ]も遅[おく]れて、{最悪[さいあく]}でした。",
+   "en": "Today it rained and the trains were late; it was the worst."
+  },
+  {
+   "ja": "{最悪[さいあく]}な一日[いちにち]でした。",
+   "en": "It was the worst day."
+  }
+ ],
+ "v685": [
+  {
+   "ja": "父[ちち]は{サラリーマン}です。",
+   "en": "My father is a salaryman."
+  },
+  {
+   "ja": "朝[あさ]の電車[でんしゃ]は{サラリーマン}でいっぱいです。",
+   "en": "Morning trains are full of office workers."
+  }
+ ],
+ "v691": [
+  {
+   "ja": "今日[きょう]は{残業[ざんぎょう]}があるので、遅[おそ]くなります。",
+   "en": "I have overtime today, so I'll be late."
+  },
+  {
+   "ja": "{残業[ざんぎょう]}はあまり好[す]きではありません。",
+   "en": "I don't really like overtime work."
+  }
+ ],
+ "v741": [
+  {
+   "ja": "{自分[じぶん]}の部屋[へや]を掃除[そうじ]しなさい。",
+   "en": "Clean your own room."
+  },
+  {
+   "ja": "{自分[じぶん]}のことをよく知[し]っていますか。",
+   "en": "Do you know yourself well?"
+  }
+ ],
+ "v771": [
+  {
+   "ja": "来年[らいねん]、銀行[ぎんこう]に{就職[しゅうしょく]します}。",
+   "en": "Next year I'll get a job at a bank."
+  },
+  {
+   "ja": "卒業[そつぎょう]したら、東京[とうきょう]の会社[かいしゃ]に{就職[しゅうしょく]したい}です。",
+   "en": "After graduating, I want to get a job at a Tokyo company."
+  }
+ ],
+ "v793": [
+  {
+   "ja": "{首相[しゅしょう]}がテレビで話[はな]していました。",
+   "en": "The prime minister was speaking on TV."
+  },
+  {
+   "ja": "日本[にほん]の{首相[しゅしょう]}に会[あ]ったことがありますか。",
+   "en": "Have you ever met Japan's prime minister?"
+  }
+ ],
+ "v802": [
+  {
+   "ja": "旅行[りょこう]の{準備[じゅんび]}はもうできましたか。",
+   "en": "Have you finished preparing for the trip yet?"
+  },
+  {
+   "ja": "パーティーの{準備[じゅんび]}で、忙[いそが]しいです。",
+   "en": "I'm busy with party preparations."
+  }
+ ],
+ "v822": [
+  {
+   "ja": "新[あたら]しい{ショッピングモール}ができました。",
+   "en": "A new shopping mall opened."
+  },
+  {
+   "ja": "週末[しゅうまつ]は{ショッピングモール}で買[か]い物[もの]をします。",
+   "en": "On weekends I shop at the shopping mall."
+  }
+ ],
+ "v848": [
+  {
+   "ja": "{ずいぶん}日本語[にほんご]が上手[じょうず]になりましたね。",
+   "en": "Your Japanese has gotten very good."
+  },
+  {
+   "ja": "今日[きょう]は{ずいぶん}寒[さむ]いですね。",
+   "en": "It's very cold today."
+  }
+ ],
+ "v857": [
+  {
+   "ja": "この町[まち]は公園[こうえん]が{少[すく]ない}です。",
+   "en": "This town has few parks."
+  },
+  {
+   "ja": "今年[ことし]は雪[ゆき]が{少[すく]なかった}です。",
+   "en": "There was little snow this year."
+  }
+ ],
+ "v871": [
+  {
+   "ja": "{スプーン}でスープを飲[の]みます。",
+   "en": "I drink soup with a spoon."
+  },
+  {
+   "ja": "{スプーン}をもう一[ひと]つください。",
+   "en": "Please give me one more spoon."
+  }
+ ],
+ "v881": [
+  {
+   "ja": "今日[きょう]は、赤[あか]いネクタイを{しています}。",
+   "en": "Today I'm wearing a red necktie."
+  },
+  {
+   "ja": "彼女[かのじょ]は素敵[すてき]な時計[とけい]を{している}。",
+   "en": "She is wearing a nice watch."
+  }
+ ],
+ "v924": [
+  {
+   "ja": "{そうか}、明日[あした]は休[やす]みだったね。",
+   "en": "I see, tomorrow is a day off."
+  },
+  {
+   "ja": "{そうか}、わかった。ありがとう。",
+   "en": "I see, got it. Thanks."
+  }
+ ],
+ "v978": [
+  {
+   "ja": "{宝[たから]くじ}を買[か]いましたが、はずれでした。",
+   "en": "I bought a lottery ticket, but it was a loser."
+  },
+  {
+   "ja": "{宝[たから]くじ}で一億円[いちおくえん]当[あ]たったらどうしますか。",
+   "en": "What would you do if you won 100 million yen in the lottery?"
+  }
+ ],
+ "v979": [
+  {
+   "ja": "もし{宝[たから]くじに当[あ]たったら}、世界[せかい]を旅行[りょこう]したいです。",
+   "en": "If I won the lottery, I'd like to travel the world."
+  },
+  {
+   "ja": "{宝[たから]くじに当[あ]たった}人[ひと]は、仕事[しごと]をやめました。",
+   "en": "The person who won the lottery quit their job."
+  }
+ ],
+ "v1015": [
+  {
+   "ja": "お金[かね]が{足[た]りません}。",
+   "en": "I don't have enough money."
+  },
+  {
+   "ja": "一万円[いちまんえん]あれば{足[た]りる}でしょう。",
+   "en": "10,000 yen should be enough."
+  }
+ ],
+ "v1028": [
+  {
+   "ja": "日本語[にほんご]と英語[えいご]の{違[ちが]い}を教[おし]えてください。",
+   "en": "Please tell me the difference between Japanese and English."
+  },
+  {
+   "ja": "二[ふた]つの{違[ちが]い}がわかりません。",
+   "en": "I can't tell the difference between the two."
+  }
+ ],
+ "v1075": [
+  {
+   "ja": "明日[あした]は{都合[つごう]が悪[わる]い}ので、行[い]けません。",
+   "en": "Tomorrow is inconvenient, so I can't go."
+  },
+  {
+   "ja": "来週[らいしゅう]の月曜日[げつようび]は{都合[つごう]が悪[わる]い}ですか。",
+   "en": "Is next Monday inconvenient for you?"
+  }
+ ],
+ "v1082": [
+  {
+   "ja": "父[ちち]はお酒[さけ]に{強[つよ]い}です。",
+   "en": "My father can hold his liquor well."
+  },
+  {
+   "ja": "今日[きょう]は風[かぜ]が{強[つよ]くて}、傘[かさ]が壊[こわ]れました。",
+   "en": "The wind was strong today and my umbrella broke."
+  }
+ ],
+ "v1125": [
+  {
+   "ja": "{電子[でんし]レンジ}でご飯[はん]をあたためます。",
+   "en": "I warm rice in the microwave."
+  },
+  {
+   "ja": "{電子[でんし]レンジ}に金属[きんぞく]を入[い]れてはいけません。",
+   "en": "You must not put metal in a microwave."
+  }
+ ],
+ "v1230": [
+  {
+   "ja": "新[あたら]しい生活[せいかつ]に{慣[な]れました}か。",
+   "en": "Have you gotten used to your new life?"
+  },
+  {
+   "ja": "日本[にほん]の食[た]べ物[もの]にだんだん{慣[な]れて}きました。",
+   "en": "I've gradually gotten used to Japanese food."
+  }
+ ],
+ "v1240": [
+  {
+   "ja": "去年[きょねん]{に比[くら]べて}、今年[ことし]は暑[あつ]いです。",
+   "en": "Compared with last year, this year is hot."
+  },
+  {
+   "ja": "東京[とうきょう]{に比[くら]べて}、私[わたし]の町[まち]は静[しず]かです。",
+   "en": "Compared with Tokyo, my town is quiet."
+  }
+ ],
+ "v1261": [
+  {
+   "ja": "毎朝[まいあさ]、テレビで{ニュース}を見[み]ます。",
+   "en": "Every morning I watch the news on TV."
+  },
+  {
+   "ja": "今日[きょう]の{ニュース}を聞[き]きましたか。",
+   "en": "Did you hear today's news?"
+  }
+ ],
+ "v1262": [
+  {
+   "ja": "天気予報[てんきよほう]{によると}、明日[あした]は雨[あめ]です。",
+   "en": "According to the weather forecast, it'll rain tomorrow."
+  },
+  {
+   "ja": "友達[ともだち]{によると}、あのレストランはおいしいそうです。",
+   "en": "According to my friend, that restaurant is delicious."
+  }
+ ],
+ "v1268": [
+  {
+   "ja": "家[いえ]に入[はい]る前[まえ]に、靴[くつ]を{脱[ぬ]ぎます}。",
+   "en": "I take off my shoes before entering the house."
+  },
+  {
+   "ja": "暑[あつ]いので、コートを{脱[ぬ]いで}もいいですか。",
+   "en": "It's hot, so may I take off my coat?"
+  }
+ ],
+ "v1366": [
+  {
+   "ja": "上野[うえの]動物園[どうぶつえん]で{パンダ}を見[み]ました。",
+   "en": "I saw a panda at Ueno Zoo."
+  },
+  {
+   "ja": "{パンダ}は竹[たけ]を食[た]べます。",
+   "en": "Pandas eat bamboo."
+  }
+ ],
+ "v1373": [
+  {
+   "ja": "寒[さむ]いので、{ヒーター}をつけました。",
+   "en": "It's cold, so I turned on the heater."
+  },
+  {
+   "ja": "この部屋[へや]には{ヒーター}がありません。",
+   "en": "This room has no heater."
+  }
+ ],
+ "v1380": [
+  {
+   "ja": "父[ちち]は{ひげ}を生[は]やしています。",
+   "en": "My father has grown a beard."
+  },
+  {
+   "ja": "あの{ひげ}の人[ひと]は誰[だれ]ですか。",
+   "en": "Who is that man with the beard?"
+  }
+ ],
+ "v1381": [
+  {
+   "ja": "毎朝[まいあさ]{ひげをそります}。",
+   "en": "I shave every morning."
+  },
+  {
+   "ja": "{ひげをそって}から、会社[かいしゃ]に行[い]きます。",
+   "en": "I shave and then go to the office."
+  }
+ ],
+ "v1419": [
+  {
+   "ja": "冬[ふゆ]は{ブーツ}をはきます。",
+   "en": "I wear boots in winter."
+  },
+  {
+   "ja": "新[あたら]しい{ブーツ}を買[か]いたいです。",
+   "en": "I want to buy new boots."
+  }
+ ],
+ "v1523": [
+  {
+   "ja": "寝[ね]る{前[まえ]}に、歯[は]をみがきます。",
+   "en": "I brush my teeth before sleeping."
+  },
+  {
+   "ja": "食事[しょくじ]の{前[まえ]}に、手[て]を洗[あら]いましょう。",
+   "en": "Let's wash our hands before meals."
+  }
+ ],
+ "v1668": [
+  {
+   "ja": "{やっぱり}、この店[みせ]のラーメンが一番[いちばん]おいしいです。",
+   "en": "After all, this shop's ramen is the best."
+  },
+  {
+   "ja": "行[い]かないと言[い]ったけど、{やっぱり}行[い]きます。",
+   "en": "I said I wouldn't go, but I'll go after all."
+  }
+ ],
+ "v1674": [
+  {
+   "ja": "{湯[ゆ]}が冷[さ]めてしまいました。",
+   "en": "The hot water has gone cold."
+  },
+  {
+   "ja": "カップに{湯[ゆ]}を入[い]れてください。",
+   "en": "Please pour hot water into the cup."
+  }
+ ],
+ "v1726": [
+  {
+   "ja": "あの二人[ふたり]は去年[きょねん]{離婚[りこん]しました}。",
+   "en": "Those two got divorced last year."
+  },
+  {
+   "ja": "{離婚[りこん]する}人[ひと]が増[ふ]えています。",
+   "en": "The number of people getting divorced is increasing."
+  }
+ ],
+ "v1731": [
+  {
+   "ja": "大学[だいがく]の{寮[りょう]}に住[す]んでいます。",
+   "en": "I live in the university dormitory."
+  },
+  {
+   "ja": "{寮[りょう]}は駅[えき]から近[ちか]いです。",
+   "en": "The dormitory is close to the station."
+  }
+ ],
+ "v1738": [
+  {
+   "ja": "{旅行会社[りょこうがいしゃ]}でチケットを買[か]いました。",
+   "en": "I bought a ticket at a travel agency."
+  },
+  {
+   "ja": "姉[あね]は{旅行会社[りょこうがいしゃ]}で働[はたら]いています。",
+   "en": "My older sister works at a travel agency."
+  }
+ ],
+ "v353": [
+  {
+   "ja": "昨日[きのう]、美容院[びよういん]でパーマを{かけました}。",
+   "en": "Yesterday I got a perm at the hair salon."
+  },
+  {
+   "ja": "パーマを{かけた}ら、髪形[かみがた]が変[か]わりました。",
+   "en": "After I got a perm, my hairstyle changed."
+  }
+ ],
+ "v380": [
+  {
+   "ja": "美容院[びよういん]で{カット}をしてもらいました。",
+   "en": "I had my hair cut at the salon."
+  },
+  {
+   "ja": "{カット}は四千円[よんせんえん]です。",
+   "en": "A cut is 4,000 yen."
+  }
+ ],
+ "v400": [
+  {
+   "ja": "新[あたら]しい{髪形[かみがた]}はどうですか。",
+   "en": "How do you like my new hairstyle?"
+  },
+  {
+   "ja": "その{髪形[かみがた]}、よく似合[にあ]いますね。",
+   "en": "That hairstyle suits you well."
+  }
+ ],
+ "v408": [
+  {
+   "ja": "{カラー}とカットをお願[ねが]いします。",
+   "en": "Color and cut, please."
+  },
+  {
+   "ja": "今日[きょう]は{カラー}をしたいんですが。",
+   "en": "I'd like to get my hair colored today."
+  }
+ ],
+ "v415": [
+  {
+   "ja": "髪[かみ]を短[みじか]く{刈[か]ってください}。",
+   "en": "Please crop my hair short."
+  },
+  {
+   "ja": "父[ちち]は庭[にわ]の草[くさ]を{刈[か]りました}。",
+   "en": "My father cut the grass in the garden."
+  }
+ ],
+ "v758": [
+  {
+   "ja": "{シャンプー}は毎日[まいにち]しますか。",
+   "en": "Do you shampoo every day?"
+  },
+  {
+   "ja": "この{シャンプー}はいいにおいがします。",
+   "en": "This shampoo smells good."
+  }
+ ],
+ "v855": [
+  {
+   "ja": "髪[かみ]が多[おお]いので、少[すこ]し{すいて}ください。",
+   "en": "I have a lot of hair, so please thin it out a little."
+  },
+  {
+   "ja": "髪[かみ]を{すいて}もらって、軽[かる]くなりました。",
+   "en": "I had my hair thinned and it feels lighter."
+  }
+ ],
+ "v905": [
+  {
+   "ja": "髪[かみ]の{セット}もお願[ねが]いします。",
+   "en": "Please do a styling set too."
+  },
+  {
+   "ja": "結婚式[けっこんしき]の前[まえ]に、髪[かみ]を{セット}してもらいました。",
+   "en": "Before the wedding I had my hair set."
+  }
+ ],
+ "v942": [
+  {
+   "ja": "髪[かみ]を茶色[ちゃいろ]に{染[そ]めました}。",
+   "en": "I dyed my hair brown."
+  },
+  {
+   "ja": "髪[かみ]を黒[くろ]く{染[そ]めたい}です。",
+   "en": "I want to dye my hair black."
+  }
+ ],
+ "v944": [
+  {
+   "ja": "ひげを{そって}ください。",
+   "en": "Please shave my beard."
+  },
+  {
+   "ja": "顔[かお]を{そって}もらいました。",
+   "en": "I had my face shaved."
+  }
+ ],
+ "v950": [
+  {
+   "ja": "毛先[けさき]を少[すこ]し{そろえて}ください。",
+   "en": "Please trim the ends a little."
+  },
+  {
+   "ja": "前髪[まえがみ]を{そろえて}もらいました。",
+   "en": "I had my bangs trimmed evenly."
+  }
+ ],
+ "v1300": [
+  {
+   "ja": "{パーマ}をかけると、時間[じかん]がかかります。",
+   "en": "Getting a perm takes time."
+  },
+  {
+   "ja": "{パーマ}は好[す]きではありません。",
+   "en": "I don't like perms."
+  }
+ ],
+ "v1301": [
+  {
+   "ja": "来月[らいげつ]、{パーマをかけ}ようと思[おも]っています。",
+   "en": "I'm thinking of getting a perm next month."
+  },
+  {
+   "ja": "{パーマをかけて}から、毎朝[まいあさ]が楽[らく]になりました。",
+   "en": "Since getting a perm, mornings have become easier."
+  }
+ ],
+ "v1452": [
+  {
+   "ja": "カットのあと、{ブロー}をしてもらいました。",
+   "en": "After the cut I had a blow-dry."
+  },
+  {
+   "ja": "{ブロー}は自分[じぶん]では難[むずか]しいです。",
+   "en": "Blow-drying is hard to do by myself."
+  }
+ ],
+ "v184": [
+  {
+   "ja": "日本[にほん]の文化[ぶんか]は中国[ちゅうごく]から{影響[えいきょう]を受[う]けました}。",
+   "en": "Japanese culture was influenced by China."
+  },
+  {
+   "ja": "子供[こども]は親[おや]の{影響[えいきょう]を受[う]けます}。",
+   "en": "Children are influenced by their parents."
+  }
+ ],
+ "v299": [
+  {
+   "ja": "私[わたし]は{主[おも]に}週末[しゅうまつ]にバイトをします。",
+   "en": "I mainly work part-time on weekends."
+  },
+  {
+   "ja": "朝[あさ]は{主[おも]に}パンを食[た]べます。",
+   "en": "In the morning I mainly eat bread."
+  }
+ ],
+ "v367": [
+  {
+   "ja": "子供[こども]は十[じゅう]まで{数[かぞ]えられます}。",
+   "en": "The child can count up to ten."
+  },
+  {
+   "ja": "お金[かね]を{数[かぞ]えて}ください。",
+   "en": "Please count the money."
+  }
+ ],
+ "v432": [
+  {
+   "ja": "新[あたら]しい駅[えき]が来年[らいねん]{完成[かんせい]します}。",
+   "en": "The new station will be completed next year."
+  },
+  {
+   "ja": "やっと家[いえ]が{完成[かんせい]しました}。",
+   "en": "The house was finally completed."
+  }
+ ],
+ "v516": [
+  {
+   "ja": "空[そら]に白[しろ]い{雲[くも]}が浮[う]かんでいます。",
+   "en": "White clouds are floating in the sky."
+  },
+  {
+   "ja": "{雲[くも]}が多[おお]いから、雨[あめ]が降[ふ]るかもしれません。",
+   "en": "There are many clouds, so it might rain."
+  }
+ ],
+ "v537": [
+  {
+   "ja": "私[わたし]は{芸術[げいじゅつ]}に興味[きょうみ]があります。",
+   "en": "I'm interested in art."
+  },
+  {
+   "ja": "パリは{芸術[げいじゅつ]}の町[まち]です。",
+   "en": "Paris is a city of art."
+  }
+ ],
+ "v663": [
+  {
+   "ja": "この画家[がか]の{作品[さくひん]}が好[す]きです。",
+   "en": "I like this painter's works."
+  },
+  {
+   "ja": "展覧会[てんらんかい]で、いろいろな{作品[さくひん]}を見[み]ました。",
+   "en": "I saw various works at the exhibition."
+  }
+ ],
+ "v700": [
+  {
+   "ja": "高校[こうこう]のとき、{詩[し]}を書[か]いていました。",
+   "en": "In high school I used to write poems."
+  },
+  {
+   "ja": "この{詩[し]}はとてもきれいです。",
+   "en": "This poem is very beautiful."
+  }
+ ],
+ "v709": [
+  {
+   "ja": "日本語[にほんご]は難[むずか]しいです。{しかし}、おもしろいです。",
+   "en": "Japanese is difficult. However, it's interesting."
+  },
+  {
+   "ja": "行[い]きたかったです。{しかし}、時間[じかん]がありませんでした。",
+   "en": "I wanted to go. However, I didn't have time."
+  }
+ ],
+ "v774": [
+  {
+   "ja": "その事件[じけん]で、男[おとこ]の人[ひと]が{銃[じゅう]で撃[う]たれました}。",
+   "en": "In that incident a man was shot."
+  },
+  {
+   "ja": "{銃[じゅう]で撃[う]たれた}人[ひと]は病院[びょういん]に運[はこ]ばれました。",
+   "en": "The person who was shot was taken to the hospital."
+  }
+ ],
+ "v799": [
+  {
+   "ja": "父[ちち]は会社[かいしゃ]をやめて、{主夫[しゅふ]}になりました。",
+   "en": "My father quit his company and became a house husband."
+  },
+  {
+   "ja": "{主夫[しゅふ]}の仕事[しごと]は大変[たいへん]です。",
+   "en": "A house husband's work is hard."
+  }
+ ],
+ "v911": [
+  {
+   "ja": "{1960年代[ねんだい]}にビートルズが人気[にんき]でした。",
+   "en": "The Beatles were popular in the 1960s."
+  },
+  {
+   "ja": "祖父[そふ]は{1960年代[ねんだい]}に東京[とうきょう]に来[き]ました。",
+   "en": "My grandfather came to Tokyo in the 1960s."
+  }
+ ],
+ "v939": [
+  {
+   "ja": "大学[だいがく]を卒業[そつぎょう]しました。{その後[ご]}、銀行[ぎんこう]で働[はたら]きました。",
+   "en": "I graduated from university. After that I worked at a bank."
+  },
+  {
+   "ja": "映画[えいが]を見[み]て、{その後[ご]}、食事[しょくじ]をしました。",
+   "en": "We watched a movie, and after that had a meal."
+  }
+ ],
+ "v969": [
+  {
+   "ja": "その映画[えいが]は{大[だい]ヒット}しました。",
+   "en": "That movie was a big hit."
+  },
+  {
+   "ja": "彼[かれ]の新[あたら]しい歌[うた]は{大[だい]ヒット}になりました。",
+   "en": "His new song became a big hit."
+  }
+ ],
+ "v1124": [
+  {
+   "ja": "この部屋[へや]は{天井[てんじょう]}が高[たか]いです。",
+   "en": "This room has a high ceiling."
+  },
+  {
+   "ja": "{天井[てんじょう]}に虫[むし]がいます。",
+   "en": "There's a bug on the ceiling."
+  }
+ ],
+ "v1129": [
+  {
+   "ja": "先週[せんしゅう]、{展覧会[てんらんかい]}に行[い]きました。",
+   "en": "Last week I went to an exhibition."
+  },
+  {
+   "ja": "来月[らいげつ]、ピカソの{展覧会[てんらんかい]}があります。",
+   "en": "Next month there's a Picasso exhibition."
+  }
+ ],
+ "v1225": [
+  {
+   "ja": "犬[いぬ]に「ポチ」という{名前[なまえ]をつけました}。",
+   "en": "I named my dog \"Pochi.\""
+  },
+  {
+   "ja": "赤[あか]ちゃんに{名前[なまえ]をつける}のは楽[たの]しいです。",
+   "en": "Naming a baby is fun."
+  }
+ ],
+ "v1234": [
+  {
+   "ja": "この映画[えいが]は{何度[なんど]も}見[み]ました。",
+   "en": "I've watched this movie many times."
+  },
+  {
+   "ja": "{何度[なんど]も}電話[でんわ]したのに、出[で]ませんでした。",
+   "en": "I called many times, but he didn't answer."
+  }
+ ],
+ "v1284": [
+  {
+   "ja": "健康[けんこう]{のための}運動[うんどう]を始[はじ]めました。",
+   "en": "I started exercising for the sake of my health."
+  },
+  {
+   "ja": "家族[かぞく]{のための}プレゼントを選[えら]びました。",
+   "en": "I picked out a present for my family."
+  }
+ ],
+ "v1304": [
+  {
+   "ja": "{俳句[はいく]}は五[ご]・七[しち]・五[ご]でできています。",
+   "en": "A haiku is made of 5-7-5."
+  },
+  {
+   "ja": "授業[じゅぎょう]で{俳句[はいく]}を作[つく]りました。",
+   "en": "I made a haiku in class."
+  }
+ ],
+ "v1315": [
+  {
+   "ja": "{はしご}で屋根[やね]に上[のぼ]りました。",
+   "en": "I climbed up to the roof with a ladder."
+  },
+  {
+   "ja": "{はしご}が倒[たお]れて、危[あぶ]なかったです。",
+   "en": "The ladder fell over and it was dangerous."
+  }
+ ],
+ "v1460": [
+  {
+   "ja": "どの{分野[ぶんや]}を勉強[べんきょう]していますか。",
+   "en": "What field are you studying?"
+  },
+  {
+   "ja": "彼[かれ]はコンピューターの{分野[ぶんや]}で有名[ゆうめい]です。",
+   "en": "He is famous in the field of computers."
+  }
+ ],
+ "v1598": [
+  {
+   "ja": "{虫[むし]めがね}で小[ちい]さい字[じ]を読[よ]みました。",
+   "en": "I read small characters with a magnifying glass."
+  },
+  {
+   "ja": "おじいさんは{虫[むし]めがね}を使[つか]って新聞[しんぶん]を読[よ]みます。",
+   "en": "Grandpa reads the newspaper using a magnifying glass."
+  }
+ ],
+ "v1633": [
+  {
+   "ja": "この{文字[もじ]}は何[なん]と読[よ]みますか。",
+   "en": "How do you read this character?"
+  },
+  {
+   "ja": "{文字[もじ]}が小[ちい]さくて、読[よ]めません。",
+   "en": "The letters are small and I can't read them."
+  }
+ ]
+}

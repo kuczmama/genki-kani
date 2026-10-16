@@ -1,0 +1,712 @@
+{
+ "v14": [
+  {
+   "ja": "この部屋[へや]は{明[あか]るい}ですね。",
+   "en": "This room is bright, isn't it?"
+  },
+  {
+   "ja": "朝[あさ]になって、空[そら]が{明[あか]るく}なりました。",
+   "en": "Morning came and the sky became bright."
+  }
+ ],
+ "v18": [
+  {
+   "ja": "この窓[まど]は{開[あ]きません}。",
+   "en": "This window won't open."
+  },
+  {
+   "ja": "あの店[みせ]は十時[じゅうじ]に{開[あ]きます}。",
+   "en": "That shop opens at ten."
+  }
+ ],
+ "v39": [
+  {
+   "ja": "{後[あと]}は私[わたし]がやりますから、帰[かえ]ってください。",
+   "en": "I'll do the rest, so please go home."
+  },
+  {
+   "ja": "ケーキは{後[あと]}二[ふた]つしかありません。",
+   "en": "There are only two pieces of cake left."
+  }
+ ],
+ "v61": [
+  {
+   "ja": "友[とも]だちに{謝[あやま]りました}。",
+   "en": "I apologized to my friend."
+  },
+  {
+   "ja": "遅[おく]れたので、先生[せんせい]に{謝[あやま]らなければ}なりません。",
+   "en": "I was late, so I have to apologize to the teacher."
+  }
+ ],
+ "v136": [
+  {
+   "ja": "{今[いま]すぐ}来[き]てください。",
+   "en": "Please come right away."
+  },
+  {
+   "ja": "疲[つか]れていますが、{今[いま]すぐ}宿題[しゅくだい]をします。",
+   "en": "I'm tired, but I'll do my homework right now."
+  }
+ ],
+ "v214": [
+  {
+   "ja": "先生[せんせい]の{おかげで}、試験[しけん]に合格[ごうかく]しました。",
+   "en": "Thanks to my teacher, I passed the exam."
+  },
+  {
+   "ja": "友[とも]だちが手伝[てつだ]ってくれた{おかげで}、早[はや]く終[お]わりました。",
+   "en": "Thanks to my friend helping me, I finished early."
+  }
+ ],
+ "v231": [
+  {
+   "ja": "五時[ごじ]ですね。それでは、{お先[さき]に失礼[しつれい]します}。",
+   "en": "It's five o'clock. Well then, see you (I'll be leaving ahead of you)."
+  },
+  {
+   "ja": "今日[きょう]は用事[ようじ]があるので、{お先[さき]に失礼[しつれい]します}。",
+   "en": "I have something to do today, so I'll be leaving ahead of you."
+  }
+ ],
+ "v243": [
+  {
+   "ja": "このボタンを{押[お]してください}。",
+   "en": "Please press this button."
+  },
+  {
+   "ja": "ドアを{押[お]します}か、引[ひ]きますか。",
+   "en": "Do you push the door, or pull it?"
+  }
+ ],
+ "v252": [
+  {
+   "ja": "財布[さいふ]が{落[お]ちました}よ。",
+   "en": "Your wallet fell!"
+  },
+  {
+   "ja": "りんごが木[き]から{落[お]ちて}います。",
+   "en": "Apples are falling from the tree."
+  }
+ ],
+ "v253": [
+  {
+   "ja": "みなさん、{お疲[つか]れ様[さま]でした}。",
+   "en": "Thank you for your hard work, everyone."
+  },
+  {
+   "ja": "今日[きょう]も{お疲[つか]れ様[さま]でした}。また明日[あした]。",
+   "en": "Good work today too. See you tomorrow."
+  }
+ ],
+ "v262": [
+  {
+   "ja": "携帯[けいたい]を{落[お]として}しまいました。",
+   "en": "I dropped my cell phone."
+  },
+  {
+   "ja": "お皿[さら]を{落[お]とさない}ように気[き]をつけてください。",
+   "en": "Please be careful not to drop the plate."
+  }
+ ],
+ "v304": [
+  {
+   "ja": "お湯[ゆ]が{沸[わ]いて}います。火[ひ]を消[け]してください。",
+   "en": "The water is boiling. Please turn off the heat."
+  },
+  {
+   "ja": "{お湯[ゆ]が沸[わ]く}まで、テレビを見[み]ましょう。",
+   "en": "Let's watch TV until the water boils."
+  }
+ ],
+ "v319": [
+  {
+   "ja": "{カーテン}を開[あ]けてください。",
+   "en": "Please open the curtains."
+  },
+  {
+   "ja": "新[あたら]しい{カーテン}を買[か]いました。",
+   "en": "I bought new curtains."
+  }
+ ],
+ "v372": [
+  {
+   "ja": "昨日[きのう]、部屋[へや]を{片付[かたづ]けました}。",
+   "en": "I tidied up my room yesterday."
+  },
+  {
+   "ja": "食[た]べたら、すぐに{片付[かたづ]けて}ください。",
+   "en": "When you finish eating, please tidy up right away."
+  }
+ ],
+ "v425": [
+  {
+   "ja": "将来[しょうらい]について{考[かんが]えて}います。",
+   "en": "I'm thinking about my future."
+  },
+  {
+   "ja": "もう少[すこ]し{考[かんが]えさせて}ください。",
+   "en": "Please let me think about it a little more."
+  }
+ ],
+ "v440": [
+  {
+   "ja": "急[きゅう]に電気[でんき]が{消[き]えました}。",
+   "en": "The lights suddenly went off."
+  },
+  {
+   "ja": "ろうそくの火[ひ]が{消[き]えて}います。",
+   "en": "The candle's flame is out."
+  }
+ ],
+ "v518": [
+  {
+   "ja": "外[そと]は{暗[くら]い}ですから、気[き]をつけてください。",
+   "en": "It's dark outside, so please be careful."
+  },
+  {
+   "ja": "{暗[くら]く}なる前[まえ]に帰[かえ]りましょう。",
+   "en": "Let's go home before it gets dark."
+  }
+ ],
+ "v538": [
+  {
+   "ja": "{携帯[けいたい]電話[でんわ]}を家[いえ]に忘[わす]れました。",
+   "en": "I forgot my cell phone at home."
+  },
+  {
+   "ja": "{携帯[けいたい]}で友[とも]だちに電話[でんわ]しました。",
+   "en": "I called my friend on my cell phone."
+  }
+ ],
+ "v633": [
+  {
+   "ja": "道[みち]で{転[ころ]びました}。",
+   "en": "I fell down on the road."
+  },
+  {
+   "ja": "雪[ゆき]の日[ひ]は{転[ころ]ばない}ように気[き]をつけます。",
+   "en": "On snowy days I'm careful not to fall."
+  }
+ ],
+ "v635": [
+  {
+   "ja": "兄[あに]がパソコンを{壊[こわ]しました}。",
+   "en": "My older brother broke the computer."
+  },
+  {
+   "ja": "このコップを{壊[こわ]さない}でください。",
+   "en": "Please don't break this glass."
+  }
+ ],
+ "v636": [
+  {
+   "ja": "時計[とけい]が{壊[こわ]れました}。",
+   "en": "My watch broke."
+  },
+  {
+   "ja": "冷蔵庫[れいぞうこ]が{壊[こわ]れて}いるので、買[か]い換[か]えます。",
+   "en": "The refrigerator is broken, so I'll replace it."
+  }
+ ],
+ "v662": [
+  {
+   "ja": "春[はる]になると、花[はな]が{咲[さ]きます}。",
+   "en": "When spring comes, flowers bloom."
+  },
+  {
+   "ja": "桜[さくら]はもう{咲[さ]いて}いますか。",
+   "en": "Are the cherry blossoms already in bloom?"
+  }
+ ],
+ "v665": [
+  {
+   "ja": "{桜[さくら]}がきれいですね。",
+   "en": "The cherry blossoms are beautiful, aren't they?"
+  },
+  {
+   "ja": "春[はる]に友[とも]だちと{桜[さくら]}を見[み]に行[い]きます。",
+   "en": "In spring I'm going to see the cherry blossoms with my friends."
+  }
+ ],
+ "v744": [
+  {
+   "ja": "ドアが{閉[し]まりません}。",
+   "en": "The door won't close."
+  },
+  {
+   "ja": "銀行[ぎんこう]は三時[さんじ]に{閉[し]まります}。",
+   "en": "The bank closes at three."
+  }
+ ],
+ "v815": [
+  {
+   "ja": "魚[さかな]に{しょう油[ゆ]}をかけます。",
+   "en": "I put soy sauce on the fish."
+  },
+  {
+   "ja": "{しょう油[ゆ]}を取[と]ってください。",
+   "en": "Please pass me the soy sauce."
+  }
+ ],
+ "v847": [
+  {
+   "ja": "{スイッチ}はどこですか。",
+   "en": "Where is the switch?"
+  },
+  {
+   "ja": "この{スイッチ}を押[お]すと、電気[でんき]がつきます。",
+   "en": "If you press this switch, the light comes on."
+  }
+ ],
+ "v851": [
+  {
+   "ja": "寒[さむ]いので、温[あたた]かい{スープ}を飲[の]みました。",
+   "en": "It was cold, so I had some warm soup."
+  },
+  {
+   "ja": "母[はは]が作[つく]った{スープ}はおいしいです。",
+   "en": "The soup my mother made is delicious."
+  }
+ ],
+ "v852": [
+  {
+   "ja": "新[あたら]しい{スカート}を買[か]いました。",
+   "en": "I bought a new skirt."
+  },
+  {
+   "ja": "妹[いもうと]は赤[あか]い{スカート}をはいています。",
+   "en": "My younger sister is wearing a red skirt."
+  }
+ ],
+ "v937": [
+  {
+   "ja": "{外[そと]}は雨[あめ]ですよ。",
+   "en": "It's raining outside!"
+  },
+  {
+   "ja": "天気[てんき]がいいから、{外[そと]}で遊[あそ]びましょう。",
+   "en": "The weather is nice, so let's play outside."
+  }
+ ],
+ "v941": [
+  {
+   "ja": "昨日[きのう]は{ソファ}で寝[ね]てしまいました。",
+   "en": "Yesterday I ended up sleeping on the sofa."
+  },
+  {
+   "ja": "新[あたら]しい{ソファ}が欲[ほ]しいです。",
+   "en": "I want a new sofa."
+  }
+ ],
+ "v965": [
+  {
+   "ja": "これは母[はは]からもらった{大切[たいせつ]な}時計[とけい]です。",
+   "en": "This is a precious watch I got from my mother."
+  },
+  {
+   "ja": "健康[けんこう]が一番[いちばん]{大切[たいせつ]}だと思[おも]います。",
+   "en": "I think health is the most important thing."
+  }
+ ],
+ "v975": [
+  {
+   "ja": "{タオル}を貸[か]してください。",
+   "en": "Please lend me a towel."
+  },
+  {
+   "ja": "お風呂[ふろ]の後[あと]、{タオル}で体[からだ]をふきます。",
+   "en": "After the bath, I dry myself with a towel."
+  }
+ ],
+ "v986": [
+  {
+   "ja": "手伝[てつだ]ってくれて、{助[たす]かりました}。",
+   "en": "Thanks for helping me. It was a great help."
+  },
+  {
+   "ja": "道[みち]を教[おし]えてもらって{助[たす]かった}。",
+   "en": "You told me the way, and that saved me."
+  }
+ ],
+ "v1003": [
+  {
+   "ja": "友[とも]だちに宿題[しゅくだい]を手伝[てつだ]ってくれるように{頼[たの]みました}。",
+   "en": "I asked my friend to help me with my homework."
+  },
+  {
+   "ja": "先生[せんせい]に手紙[てがみ]を書[か]いてもらうように{頼[たの]みます}。",
+   "en": "I will ask the teacher to write me a letter."
+  }
+ ],
+ "v1017": [
+  {
+   "ja": "あの人[ひと]は学生[がくせい]{だろう}。",
+   "en": "That person is probably a student."
+  },
+  {
+   "ja": "彼[かれ]は今日[きょう]は来[こ]ない{んだろう}。",
+   "en": "He's probably not coming today."
+  }
+ ],
+ "v1049": [
+  {
+   "ja": "ピザを{注文[ちゅうもん]しました}。",
+   "en": "I ordered a pizza."
+  },
+  {
+   "ja": "何[なに]を{注文[ちゅうもん]する}か決[き]めましたか。",
+   "en": "Have you decided what to order?"
+  }
+ ],
+ "v1071": [
+  {
+   "ja": "電気[でんき]が{つきません}。",
+   "en": "The light won't turn on."
+  },
+  {
+   "ja": "部屋[へや]に入[はい]ると、テレビが{ついて}いました。",
+   "en": "When I entered the room, the TV was on."
+  }
+ ],
+ "v1143": [
+  {
+   "ja": "財布[さいふ]を忘[わす]れた。{どうしよう}。",
+   "en": "I forgot my wallet. What should I do?"
+  },
+  {
+   "ja": "電車[でんしゃ]に遅[おく]れる！{どうしよう}！",
+   "en": "I'm going to miss the train! What should I do?!"
+  }
+ ],
+ "v1253": [
+  {
+   "ja": "毎日[まいにち]{日記[にっき]}を書[か]いています。",
+   "en": "I write in my diary every day."
+  },
+  {
+   "ja": "英語[えいご]で{日記[にっき]}を書[か]きます。",
+   "en": "I write my diary in English."
+  }
+ ],
+ "v1324": [
+  {
+   "ja": "間違[まちが]えて、とても{恥[は]ずかしかった}です。",
+   "en": "I made a mistake and was very embarrassed."
+  },
+  {
+   "ja": "大[おお]きい声[こえ]で歌[うた]うのは{恥[は]ずかしい}です。",
+   "en": "Singing in a loud voice is embarrassing."
+  }
+ ],
+ "v1345": [
+  {
+   "ja": "朝[あさ]ご飯[はん]に{バナナ}を食[た]べました。",
+   "en": "I ate a banana for breakfast."
+  },
+  {
+   "ja": "{バナナ}を三本[さんぼん]買[か]いました。",
+   "en": "I bought three bananas."
+  }
+ ],
+ "v1417": [
+  {
+   "ja": "日本[にほん]に来[く]る前[まえ]は、{不安[ふあん]な}気持[きも]ちでした。",
+   "en": "Before coming to Japan, I felt anxious."
+  },
+  {
+   "ja": "試験[しけん]の前[まえ]は{不安[ふあん]}になります。",
+   "en": "I get anxious before exams."
+  }
+ ],
+ "v1501": [
+  {
+   "ja": "映画[えいが]を見[み]ながら{ポップコーン}を食[た]べます。",
+   "en": "I eat popcorn while watching a movie."
+  },
+  {
+   "ja": "{ポップコーン}は好[す]きですか。",
+   "en": "Do you like popcorn?"
+  }
+ ],
+ "v1529": [
+  {
+   "ja": "{まず}手[て]を洗[あら]ってください。",
+   "en": "First of all, please wash your hands."
+  },
+  {
+   "ja": "{まず}、先生[せんせい]に聞[き]いてみます。",
+   "en": "First of all, I'll try asking the teacher."
+  }
+ ],
+ "v1545": [
+  {
+   "ja": "金曜日[きんようび]{までに}レポートを出[だ]してください。",
+   "en": "Please hand in the report by Friday."
+  },
+  {
+   "ja": "五時[ごじ]{までに}帰[かえ]ります。",
+   "en": "I'll be back by five o'clock."
+  }
+ ],
+ "v1596": [
+  {
+   "ja": "部屋[へや]に{虫[むし]}がいます。",
+   "en": "There is an insect in the room."
+  },
+  {
+   "ja": "夏[なつ]は{虫[むし]}が多[おお]いです。",
+   "en": "There are lots of insects in summer."
+  }
+ ],
+ "v1605": [
+  {
+   "ja": "一人[ひとり]で全部[ぜんぶ]やるのは{無理[むり]です}。",
+   "en": "It's impossible to do it all by myself."
+  },
+  {
+   "ja": "明日[あした]までなんて、{無理[むり]な}お願[ねが]いですよ。",
+   "en": "Asking for it by tomorrow is an unreasonable request."
+  }
+ ],
+ "v1665": [
+  {
+   "ja": "{家賃[やちん]}は毎月[まいつき]二十五日[にじゅうごにち]に払[はら]います。",
+   "en": "I pay the rent on the 25th of every month."
+  },
+  {
+   "ja": "この部屋[へや]の{家賃[やちん]}は高[たか]いです。",
+   "en": "The rent for this room is expensive."
+  }
+ ],
+ "v1675": [
+  {
+   "ja": "{夕方[ゆうがた]}、友[とも]だちに会[あ]います。",
+   "en": "I'm meeting a friend in the evening."
+  },
+  {
+   "ja": "{夕方[ゆうがた]}から雨[あめ]になりました。",
+   "en": "It started raining in the evening."
+  }
+ ],
+ "v1699": [
+  {
+   "ja": "机[つくえ]を{汚[よご]さない}でください。",
+   "en": "Please don't make the desk dirty."
+  },
+  {
+   "ja": "新[あたら]しい服[ふく]を{汚[よご]して}しまいました。",
+   "en": "I got my new clothes dirty."
+  }
+ ],
+ "v1700": [
+  {
+   "ja": "シャツが{汚[よご]れました}。",
+   "en": "My shirt got dirty."
+  },
+  {
+   "ja": "部屋[へや]が{汚[よご]れて}いますね。",
+   "en": "The room is dirty, isn't it?"
+  }
+ ],
+ "v1746": [
+  {
+   "ja": "牛乳[ぎゅうにゅう]は{冷蔵庫[れいぞうこ]}に入[い]れました。",
+   "en": "I put the milk in the refrigerator."
+  },
+  {
+   "ja": "{冷蔵庫[れいぞうこ]}にケーキがありますよ。",
+   "en": "There's cake in the refrigerator!"
+  }
+ ],
+ "v1754": [
+  {
+   "ja": "ケーキに{ろうそく}を立[た]てました。",
+   "en": "I put candles on the cake."
+  },
+  {
+   "ja": "停電[ていでん]なので、{ろうそく}をつけました。",
+   "en": "There's a power outage, so I lit a candle."
+  }
+ ],
+ "v94": [
+  {
+   "ja": "二十歳[はたち]{以上[いじょう]}の人[ひと]はお酒[さけ]が飲[の]めます。",
+   "en": "People aged twenty or more can drink alcohol."
+  },
+  {
+   "ja": "一時間[いちじかん]{以上[いじょう]}待[ま]ちました。",
+   "en": "I waited for more than an hour."
+  }
+ ],
+ "v382": [
+  {
+   "ja": "兄[あに]は{家庭教師[かていきょうし]}のアルバイトをしています。",
+   "en": "My older brother has a part-time job as a tutor."
+  },
+  {
+   "ja": "{家庭教師[かていきょうし]}に英語[えいご]を教[おそ]わっています。",
+   "en": "I'm learning English from a tutor."
+  }
+ ],
+ "v724": [
+  {
+   "ja": "{親[した]しい}友[とも]だちに相談[そうだん]しました。",
+   "en": "I talked it over with a close friend."
+  },
+  {
+   "ja": "あの人[ひと]とはあまり{親[した]しくありません}。",
+   "en": "I'm not very close with that person."
+  }
+ ],
+ "v781": [
+  {
+   "ja": "私[わたし]の{収入[しゅうにゅう]}は多[おお]くありません。",
+   "en": "My income is not large."
+  },
+  {
+   "ja": "アルバイトの{収入[しゅうにゅう]}で旅行[りょこう]に行[い]きました。",
+   "en": "I went on a trip with my part-time job income."
+  }
+ ],
+ "v820": [
+  {
+   "ja": "毎月[まいつき]の{食費[しょくひ]}は三万円[さんまんえん]ぐらいです。",
+   "en": "My food cost every month is about 30,000 yen."
+  },
+  {
+   "ja": "{食費[しょくひ]}を減[へ]らしたいです。",
+   "en": "I want to reduce my food expenses."
+  }
+ ],
+ "v821": [
+  {
+   "ja": "私[わたし]のクラスには{女子学生[じょしがくせい]}が多[おお]いです。",
+   "en": "There are many female students in my class."
+  },
+  {
+   "ja": "あの{女子学生[じょしがくせい]}は留学生[りゅうがくせい]です。",
+   "en": "That female student is an international student."
+  }
+ ],
+ "v887": [
+  {
+   "ja": "アルバイトをしないと、{生活[せいかつ]のゆとり}がありません。",
+   "en": "If I don't work part-time, I have no extra money to spare."
+  },
+  {
+   "ja": "収入[しゅうにゅう]が増[ふ]えて、{生活[せいかつ]のゆとり}ができました。",
+   "en": "My income went up, and I now have some extra money."
+  }
+ ],
+ "v888": [
+  {
+   "ja": "東京[とうきょう]は{生活費[せいかつひ]}が高[たか]いです。",
+   "en": "The cost of living is high in Tokyo."
+  },
+  {
+   "ja": "親[おや]が{生活費[せいかつひ]}を送[おく]ってくれます。",
+   "en": "My parents send me money for living expenses."
+  }
+ ],
+ "v1020": [
+  {
+   "ja": "クラスに{男子学生[だんしがくせい]}が三人[さんにん]います。",
+   "en": "There are three male students in the class."
+  },
+  {
+   "ja": "あの{男子学生[だんしがくせい]}はバスケットボール部[ぶ]です。",
+   "en": "That male student is on the basketball team."
+  }
+ ],
+ "v1032": [
+  {
+   "ja": "兄[あに]は{力仕事[ちからしごと]}をしています。",
+   "en": "My older brother does physical labor."
+  },
+  {
+   "ja": "{力仕事[ちからしごと]}は疲[つか]れます。",
+   "en": "Physical labor is tiring."
+  }
+ ],
+ "v1053": [
+  {
+   "ja": "毎月[まいつき]一万円[いちまんえん]{貯金[ちょきん]します}。",
+   "en": "I save 10,000 yen every month."
+  },
+  {
+   "ja": "旅行[りょこう]のために{貯金[ちょきん]して}います。",
+   "en": "I'm saving money for a trip."
+  }
+ ],
+ "v1318": [
+  {
+   "ja": "{初[はじ]めは}日本語[にほんご]が全然[ぜんぜん]わかりませんでした。",
+   "en": "At first I didn't understand Japanese at all."
+  },
+  {
+   "ja": "{初[はじ]めは}この仕事[しごと]が難[むずか]しいと思[おも]いました。",
+   "en": "At first I thought this job was difficult."
+  }
+ ],
+ "v1391": [
+  {
+   "ja": "来月[らいげつ]、{引[ひ]っ越[こ]し}をします。",
+   "en": "I'm moving next month."
+  },
+  {
+   "ja": "{引[ひ]っ越[こ]し}は大変[たいへん]です。",
+   "en": "Moving is hard work."
+  }
+ ],
+ "v1519": [
+  {
+   "ja": "{毎月[まいつき]}、友[とも]だちに手紙[てがみ]を書[か]きます。",
+   "en": "I write a letter to my friend every month."
+  },
+  {
+   "ja": "バイト代[だい]は{毎月[まいつき]}十日[とおか]にもらいます。",
+   "en": "I get my part-time pay on the 10th of every month."
+  }
+ ],
+ "v1582": [
+  {
+   "ja": "十八歳[じゅうはっさい]{未満[みまん]}の人[ひと]は入[はい]れません。",
+   "en": "People under eighteen cannot enter."
+  },
+  {
+   "ja": "千円[せんえん]{未満[みまん]}の本[ほん]を買[か]いました。",
+   "en": "I bought a book that cost less than 1,000 yen."
+  }
+ ],
+ "v1631": [
+  {
+   "ja": "日本[にほん]に来[き]た{目的[もくてき]}は何[なん]ですか。",
+   "en": "What was your purpose in coming to Japan?"
+  },
+  {
+   "ja": "旅行[りょこう]の{目的[もくてき]}は日本語[にほんご]の勉強[べんきょう]です。",
+   "en": "The purpose of my trip is to study Japanese."
+  }
+ ],
+ "v1692": [
+  {
+   "ja": "{洋服[ようふく]}を買[か]いに行[い]きます。",
+   "en": "I'm going to buy clothes."
+  },
+  {
+   "ja": "毎日[まいにち]違[ちが]う{洋服[ようふく]}を着[き]ています。",
+   "en": "She wears different clothes every day."
+  }
+ ],
+ "v1774": [
+  {
+   "ja": "{ワンルームマンション}に住[す]んでいます。",
+   "en": "I live in a studio apartment."
+  },
+  {
+   "ja": "{ワンルームマンション}は狭[せま]いけど安[やす]いです。",
+   "en": "Studio apartments are small but cheap."
+  }
+ ]
+}

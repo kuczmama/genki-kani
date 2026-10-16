@@ -1,0 +1,652 @@
+{
+ "v6": [
+  {
+   "ja": "結婚[けっこん]の{相手[あいて]}はどんな人[ひと]ですか。",
+   "en": "What kind of person is your marriage partner?"
+  },
+  {
+   "ja": "テニスの{相手[あいて]}がいなくて、さびしいです。",
+   "en": "I don't have a tennis partner, so I'm lonely."
+  }
+ ],
+ "v154": [
+  {
+   "ja": "{受付[うけつけ]}で名前[なまえ]を書[か]いてください。",
+   "en": "Please write your name at the reception desk."
+  },
+  {
+   "ja": "会社[かいしゃ]の{受付[うけつけ]}にきれいな人[ひと]がいます。",
+   "en": "There is a pretty person at the company's reception desk."
+  }
+ ],
+ "v173": [
+  {
+   "ja": "隣[となり]の部屋[へや]の音楽[おんがく]が{うるさい}です。",
+   "en": "The music from the next room is noisy."
+  },
+  {
+   "ja": "「{うるさい}！勉強[べんきょう]しているんだから、静[しず]かにして！」",
+   "en": "\"Be quiet! I'm studying, so keep it down!\""
+  }
+ ],
+ "v182": [
+  {
+   "ja": "毎週[まいしゅう]{英会話[えいかいわ]}のクラスに行[い]っています。",
+   "en": "I go to an English conversation class every week."
+  },
+  {
+   "ja": "{英会話[えいかいわ]}が上手[じょうず]になりたいです。",
+   "en": "I want to get good at English conversation."
+  }
+ ],
+ "v240": [
+  {
+   "ja": "田中[たなか]さんの{お嬢[じょう]さん}は大学生[だいがくせい]ですか。",
+   "en": "Is Mr. Tanaka's daughter a university student?"
+  },
+  {
+   "ja": "先生[せんせい]の{お嬢[じょう]さん}にお会[あ]いしました。",
+   "en": "I met my teacher's daughter."
+  }
+ ],
+ "v275": [
+  {
+   "ja": "友達[ともだち]に宿題[しゅくだい]の手伝[てつだ]いを{お願[ねが]いしました}。",
+   "en": "I asked my friend for help with my homework."
+  },
+  {
+   "ja": "ちょっと{お願[ねが]いしたい}ことがあるんですが。",
+   "en": "There's something I'd like to ask of you."
+  }
+ ],
+ "v359": [
+  {
+   "ja": "私[わたし]は{家事[かじ]}があまり好[す]きじゃありません。",
+   "en": "I don't like housework very much."
+  },
+  {
+   "ja": "夫[おっと]は{家事[かじ]}を手伝[てつだ]ってくれます。",
+   "en": "My husband helps me with the housework."
+  }
+ ],
+ "v363": [
+  {
+   "ja": "今日[きょう]は{風[かぜ]}が強[つよ]いですね。",
+   "en": "The wind is strong today, isn't it?"
+  },
+  {
+   "ja": "{風[かぜ]}で帽子[ぼうし]が飛[と]んでしまいました。",
+   "en": "My hat blew away in the wind."
+  }
+ ],
+ "v365": [
+  {
+   "ja": "春[はる]になると、強[つよ]い{風[かぜ]が吹[ふ]きます}。",
+   "en": "When spring comes, strong winds blow."
+  },
+  {
+   "ja": "{風[かぜ]が吹[ふ]いている}ので、今日[きょう]は寒[さむ]いです。",
+   "en": "The wind is blowing, so it's cold today."
+  }
+ ],
+ "v374": [
+  {
+   "ja": "昨日[きのう]の試合[しあい]で{勝[か]ちました}。",
+   "en": "I won yesterday's match."
+  },
+  {
+   "ja": "私[わたし]のチームが{勝[か]つ}といいですね。",
+   "en": "I hope my team wins."
+  }
+ ],
+ "v401": [
+  {
+   "ja": "{神様[かみさま]}にお祈[いの]りしました。",
+   "en": "I prayed to God."
+  },
+  {
+   "ja": "日本[にほん]にはたくさんの{神様[かみさま]}がいると言[い]われています。",
+   "en": "It is said that Japan has many gods."
+  }
+ ],
+ "v438": [
+  {
+   "ja": "庭[にわ]に大[おお]きい{木[き]}があります。",
+   "en": "There is a big tree in the garden."
+  },
+  {
+   "ja": "{木[き]}の下[した]で本[ほん]を読[よ]みました。",
+   "en": "I read a book under a tree."
+  }
+ ],
+ "v531": [
+  {
+   "ja": "夏休[なつやす]みの旅行[りょこう]の{計画[けいかく]を立[た]てました}。",
+   "en": "I made a plan for my summer vacation trip."
+  },
+  {
+   "ja": "毎日[まいにち]勉強[べんきょう]するために、{計画[けいかく]を立[た]てた}ほうがいいですよ。",
+   "en": "In order to study every day, you should make a plan."
+  }
+ ],
+ "v580": [
+  {
+   "ja": "会社[かいしゃ]の{後輩[こうはい]}に仕事[しごと]を教[おし]えました。",
+   "en": "I taught my junior colleague at the company the job."
+  },
+  {
+   "ja": "{後輩[こうはい]}と一緒[いっしょ]にごはんを食[た]べに行[い]きました。",
+   "en": "I went to eat with my junior."
+  }
+ ],
+ "v619": [
+  {
+   "ja": "会議[かいぎ]の前[まえ]に、書類[しょるい]の{コピーを取[と]ってください}。",
+   "en": "Please make a copy of the documents before the meeting."
+  },
+  {
+   "ja": "先生[せんせい]に{コピーを取[と]る}ように言[い]われました。",
+   "en": "I was told by my teacher to make photocopies."
+  }
+ ],
+ "v646": [
+  {
+   "ja": "「{こんなふう}に書[か]いてください。」",
+   "en": "\"Please write it like this.\""
+  },
+  {
+   "ja": "{こんなふう}に毎日[まいにち]忙[いそが]しいと、疲[つか]れます。",
+   "en": "If I'm busy like this every day, I get tired."
+  }
+ ],
+ "v686": [
+  {
+   "ja": "動物園[どうぶつえん]で{猿[さる]}を見[み]ました。",
+   "en": "I saw monkeys at the zoo."
+  },
+  {
+   "ja": "日本[にほん]の山[やま]には{猿[さる]}がいます。",
+   "en": "There are monkeys in the mountains of Japan."
+  }
+ ],
+ "v694": [
+  {
+   "ja": "私[わたし]はその意見[いけん]に{賛成[さんせい]します}。",
+   "en": "I agree with that opinion."
+  },
+  {
+   "ja": "みんなが{賛成[さんせい]した}ので、旅行[りょこう]に行[い]くことになりました。",
+   "en": "Since everyone agreed, it was decided that we would go on the trip."
+  }
+ ],
+ "v729": [
+  {
+   "ja": "試験[しけん]に{失敗[しっぱい]しました}。",
+   "en": "I failed the exam."
+  },
+  {
+   "ja": "料理[りょうり]に{失敗[しっぱい]して}、塩[しお]を入[い]れすぎてしまいました。",
+   "en": "I failed at cooking and put in too much salt."
+  }
+ ],
+ "v759": [
+  {
+   "ja": "私[わたし]は{自由[じゆう]}が大好[だいす]きです。",
+   "en": "I love freedom."
+  },
+  {
+   "ja": "親[おや]から離[はな]れて、{自由[じゆう]}になりました。",
+   "en": "I left my parents and became free."
+  }
+ ],
+ "v777": [
+  {
+   "ja": "この図書館[としょかん]の本[ほん]は{自由[じゆう]に}使[つか]えます。",
+   "en": "You can use the books in this library freely."
+  },
+  {
+   "ja": "子供[こども]には{自由[じゆう]に}遊[あそ]ばせたいです。",
+   "en": "I want to let my child play freely."
+  }
+ ],
+ "v790": [
+  {
+   "ja": "弟[おとうと]は毎日[まいにち]{塾[じゅく]}に行[い]っています。",
+   "en": "My younger brother goes to cram school every day."
+  },
+  {
+   "ja": "高校[こうこう]の時[とき]、{塾[じゅく]}で数学[すうがく]を勉強[べんきょう]しました。",
+   "en": "In high school, I studied math at a cram school."
+  }
+ ],
+ "v823": [
+  {
+   "ja": "机[つくえ]の上[うえ]に{書類[しょるい]}がたくさんあります。",
+   "en": "There are a lot of documents on the desk."
+  },
+  {
+   "ja": "この{書類[しょるい]}に名前[なまえ]と住所[じゅうしょ]を書[か]いてください。",
+   "en": "Please write your name and address on this document."
+  }
+ ],
+ "v864": [
+  {
+   "ja": "昨日[きのう]は{ずっと}家[いえ]で寝[ね]ていました。",
+   "en": "Yesterday I was sleeping at home all the time."
+  },
+  {
+   "ja": "私[わたし]は{ずっと}日本[にほん]に行[い]きたかったです。",
+   "en": "I have wanted to go to Japan for a long time."
+  }
+ ],
+ "v934": [
+  {
+   "ja": "祖母[そぼ]は庭[にわ]で野菜[やさい]を{育[そだ]てて}います。",
+   "en": "My grandmother is growing vegetables in the garden."
+  },
+  {
+   "ja": "子供[こども]を{育[そだ]てる}のは大変[たいへん]です。",
+   "en": "Raising children is hard."
+  }
+ ],
+ "v953": [
+  {
+   "ja": "「私[わたし]は頭[あたま]が悪[わる]い。」「{そんなことない}よ。」",
+   "en": "\"I'm not smart.\" \"I don't think so!\""
+  },
+  {
+   "ja": "「あの人[ひと]は冷[つめ]たいですね。」「{そんなことはない}と思[おも]います。」",
+   "en": "\"That person is cold, isn't he?\" \"I don't think so.\""
+  }
+ ],
+ "v1043": [
+  {
+   "ja": "「ゆうき{ちゃん}、こっちに来[き]て！」",
+   "en": "\"Yuki-chan, come over here!\""
+  },
+  {
+   "ja": "妹[いもうと]は友達[ともだち]に「あや{ちゃん}」と呼[よ]ばれています。",
+   "en": "My little sister is called \"Aya-chan\" by her friends."
+  }
+ ],
+ "v1107": [
+  {
+   "ja": "試験[しけん]の前[まえ]の日[ひ]、{徹夜[てつや]しました}。",
+   "en": "The day before the exam, I stayed up all night."
+  },
+  {
+   "ja": "昨日[きのう]は{徹夜[てつや]して}レポートを書[か]きました。",
+   "en": "Yesterday I stayed up all night and wrote a report."
+  }
+ ],
+ "v1158": [
+  {
+   "ja": "休[やす]みの日[ひ]は、映画[えいが]を見[み]る{とか}、買[か]い物[もの]に行[い]くとかします。",
+   "en": "On my days off, I do things like watch movies or go shopping."
+  },
+  {
+   "ja": "果物[くだもの]は、りんご{とか}バナナとかが好[す]きです。",
+   "en": "As for fruit, I like things such as apples and bananas."
+  }
+ ],
+ "v1313": [
+  {
+   "ja": "重[おも]い荷物[にもつ]を二階[にかい]に{運[はこ]びました}。",
+   "en": "I carried the heavy luggage upstairs."
+  },
+  {
+   "ja": "手伝[てつだ]うから、その箱[はこ]を{運[はこ]ぼう}。",
+   "en": "I'll help, so let's carry that box."
+  }
+ ],
+ "v1367": [
+  {
+   "ja": "両親[りょうしん]は私[わたし]の留学[りゅうがく]に{反対[はんたい]しました}。",
+   "en": "My parents objected to my studying abroad."
+  },
+  {
+   "ja": "その計画[けいかく]に{反対[はんたい]する}人[ひと]はいますか。",
+   "en": "Is there anyone who objects to that plan?"
+  }
+ ],
+ "v1399": [
+  {
+   "ja": "大学[だいがく]に入[はい]ってから、{一人[ひとり]暮[く]らし}を始[はじ]めました。",
+   "en": "After entering university, I started living alone."
+  },
+  {
+   "ja": "{一人[ひとり]暮[く]らし}は自由[じゆう]ですが、ときどきさびしいです。",
+   "en": "Living alone is free, but sometimes it's lonely."
+  }
+ ],
+ "v1412": [
+  {
+   "ja": "道[みち]で財布[さいふ]を{拾[ひろ]いました}。",
+   "en": "I picked up a wallet on the street."
+  },
+  {
+   "ja": "公園[こうえん]でごみを{拾[ひろ]いました}。",
+   "en": "I picked up trash in the park."
+  }
+ ],
+ "v1414": [
+  {
+   "ja": "学生[がくせい]の時[とき]は{貧乏[びんぼう]}でした。",
+   "en": "I was poor when I was a student."
+  },
+  {
+   "ja": "{貧乏[びんぼう]な}生活[せいかつ]でも、幸[しあわ]せな人[ひと]もいます。",
+   "en": "Even in a poor lifestyle, some people are happy."
+  }
+ ],
+ "v1421": [
+  {
+   "ja": "課長[かちょう]は{部下[ぶか]}にやさしいです。",
+   "en": "The section chief is kind to his subordinates."
+  },
+  {
+   "ja": "{部下[ぶか]}が失敗[しっぱい]したので、私[わたし]が謝[あやま]りました。",
+   "en": "My subordinate made a mistake, so I apologized."
+  }
+ ],
+ "v1423": [
+  {
+   "ja": "毎日[まいにち]、授業[じゅぎょう]の{復習[ふくしゅう]}をしています。",
+   "en": "I review the lesson every day."
+  },
+  {
+   "ja": "テストの前[まえ]に{復習[ふくしゅう]}したほうがいいですよ。",
+   "en": "You should review before the test."
+  }
+ ],
+ "v1453": [
+  {
+   "ja": "今[いま]、新[あたら]しい{プロジェクト}で忙[いそが]しいです。",
+   "en": "I'm busy with a new project now."
+  },
+  {
+   "ja": "{プロジェクト}のメンバーは五人[ごにん]です。",
+   "en": "There are five members in the project."
+  }
+ ],
+ "v1471": [
+  {
+   "ja": "田中[たなか]さんは英語[えいご]が{ぺらぺら}です。",
+   "en": "Mr. Tanaka is fluent in English."
+  },
+  {
+   "ja": "日本語[にほんご]が{ぺらぺらに}なりたいです。",
+   "en": "I want to become fluent in Japanese."
+  }
+ ],
+ "v1483": [
+  {
+   "ja": "弟[おとうと]が怒[おこ]っているので、しばらく{放[ほう]っておきました}。",
+   "en": "My brother was angry, so I left him alone for a while."
+  },
+  {
+   "ja": "部屋[へや]の掃除[そうじ]を{放[ほう]っておいた}ので、汚[きたな]くなりました。",
+   "en": "I neglected cleaning my room, so it got dirty."
+  }
+ ],
+ "v1488": [
+  {
+   "ja": "子供[こども]たちが公園[こうえん]で{ボール}で遊[あそ]んでいます。",
+   "en": "The children are playing with a ball in the park."
+  },
+  {
+   "ja": "その{ボール}を私[わたし]に投[な]げてください。",
+   "en": "Please throw that ball to me."
+  }
+ ],
+ "v1514": [
+  {
+   "ja": "この小説[しょうせつ]を日本語[にほんご]に{翻訳[ほんやく]しました}。",
+   "en": "I translated this novel into Japanese."
+  },
+  {
+   "ja": "英語[えいご]の手紙[てがみ]を{翻訳[ほんやく]して}もらいました。",
+   "en": "I had someone translate the English letter for me."
+  }
+ ],
+ "v1526": [
+  {
+   "ja": "昨日[きのう]のサッカーの試合[しあい]に{負[ま]けました}。",
+   "en": "We lost yesterday's soccer match."
+  },
+  {
+   "ja": "弟[おとうと]とゲームをして、また{負[ま]けて}しまいました。",
+   "en": "I played a game with my brother and lost again."
+  }
+ ],
+ "v1547": [
+  {
+   "ja": "急[いそ]げば、電車[でんしゃ]に{間[ま]に合[あ]います}。",
+   "en": "If we hurry, we'll make it in time for the train."
+  },
+  {
+   "ja": "九時[くじ]の授業[じゅぎょう]に{間[ま]に合[あ]わなかった}。",
+   "en": "I wasn't in time for the nine o'clock class."
+  }
+ ],
+ "v1601": [
+  {
+   "ja": "毎月[まいつき]のお金[かね]の{無駄[むだ]遣[づか]い}はやめたいです。",
+   "en": "I want to stop wasting money every month."
+  },
+  {
+   "ja": "コンビニでたくさん買[か]うのは{無駄[むだ]遣[づか]い}だと思[おも]います。",
+   "en": "I think buying a lot at the convenience store is a waste of money."
+  }
+ ],
+ "v1621": [
+  {
+   "ja": "十八歳[じゅうはっさい]になって、車[くるま]の{免許[めんきょ]}を取[と]りました。",
+   "en": "I turned eighteen and got my driver's license."
+  },
+  {
+   "ja": "運転[うんてん]{免許[めんきょ]}を持[も]っていますか。",
+   "en": "Do you have a driver's license?"
+  }
+ ],
+ "v1629": [
+  {
+   "ja": "{もう少[すこ]し}待[ま]ってください。",
+   "en": "Please wait a little longer."
+  },
+  {
+   "ja": "{もう少[すこ]し}安[やす]いのはありませんか。",
+   "en": "Don't you have one that's a little cheaper?"
+  }
+ ],
+ "v1693": [
+  {
+   "ja": "来年[らいねん]、{ヨーロッパ}を旅行[りょこう]したいです。",
+   "en": "I want to travel around Europe next year."
+  },
+  {
+   "ja": "{ヨーロッパ}には行[い]ったことがありません。",
+   "en": "I have never been to Europe."
+  }
+ ],
+ "v1702": [
+  {
+   "ja": "授業[じゅぎょう]の前[まえ]に{予習[よしゅう]}をします。",
+   "en": "I prepare before class."
+  },
+  {
+   "ja": "{予習[よしゅう]}をしていなかったので、先生[せんせい]の質問[しつもん]に答[こた]えられませんでした。",
+   "en": "I hadn't prepared, so I couldn't answer the teacher's question."
+  }
+ ],
+ "v1722": [
+  {
+   "ja": "この仕事[しごと]は{楽[らく]}です。",
+   "en": "This job is easy."
+  },
+  {
+   "ja": "新[あたら]しい靴[くつ]は{楽[らく]な}ので、毎日[まいにち]はいています。",
+   "en": "My new shoes are comfortable, so I wear them every day."
+  }
+ ],
+ "v1": [
+  {
+   "ja": "田中[たなか]さんは{相変[あいか]わらず}元気[げんき]です。",
+   "en": "Mr. Tanaka is as energetic as ever."
+  },
+  {
+   "ja": "{相変[あいか]わらず}忙[いそが]しいですか。",
+   "en": "Are you busy as usual?"
+  }
+ ],
+ "v165": [
+  {
+   "ja": "日本語[にほんご]で{うまく}話[はな]せません。",
+   "en": "I can't speak well in Japanese."
+  },
+  {
+   "ja": "今日[きょう]の発表[はっぴょう]は{うまく}できました。",
+   "en": "I did today's presentation well."
+  }
+ ],
+ "v166": [
+  {
+   "ja": "仕事[しごと]が{うまくいって}います。",
+   "en": "Work is going well."
+  },
+  {
+   "ja": "面接[めんせつ]が{うまくいく}といいですね。",
+   "en": "I hope the interview goes well."
+  }
+ ],
+ "v171": [
+  {
+   "ja": "友達[ともだち]は私[わたし]の新[あたら]しいかばんを{うらやましがって}いました。",
+   "en": "My friend was envious of my new bag."
+  },
+  {
+   "ja": "弟[おとうと]は兄[あに]が海外[かいがい]に行[い]くのを{うらやましがります}。",
+   "en": "My little brother is envious of my older brother going abroad."
+  }
+ ],
+ "v423": [
+  {
+   "ja": "母[はは]の{代[か]わりに}、私[わたし]が買[か]い物[もの]に行[い]きました。",
+   "en": "I went shopping instead of my mother."
+  },
+  {
+   "ja": "肉[にく]の{代[か]わりに}、魚[さかな]を食[た]べました。",
+   "en": "I ate fish instead of meat."
+  }
+ ],
+ "v710": [
+  {
+   "ja": "雨[あめ]が降[ふ]っているから、行[い]けなくても{しかたがない}です。",
+   "en": "It's raining, so it can't be helped if we can't go."
+  },
+  {
+   "ja": "「バスが遅[おく]れたのだから、{しかたがない}ですよ。」",
+   "en": "\"The bus was late, so it can't be helped.\""
+  }
+ ],
+ "v844": [
+  {
+   "ja": "彼女[かのじょ]は私[わたし]の{親友[しんゆう]}です。",
+   "en": "She is my best friend."
+  },
+  {
+   "ja": "{親友[しんゆう]}と毎週[まいしゅう]電話[でんわ]で話[はな]します。",
+   "en": "I talk with my best friend on the phone every week."
+  }
+ ],
+ "v970": [
+  {
+   "ja": "どんな{タイプ}の人[ひと]が好[す]きですか。",
+   "en": "What type of person do you like?"
+  },
+  {
+   "ja": "私[わたし]は静[しず]かな{タイプ}です。",
+   "en": "I'm a quiet type."
+  }
+ ],
+ "v998": [
+  {
+   "ja": "子供[こども]たちは{楽[たの]しそうに}遊[あそ]んでいます。",
+   "en": "The children are playing joyfully."
+  },
+  {
+   "ja": "彼[かれ]は{楽[たの]しそうに}笑[わら]っていました。",
+   "en": "He was laughing happily."
+  }
+ ],
+ "v1232": [
+  {
+   "ja": "{なんだか}頭[あたま]が痛[いた]いです。",
+   "en": "Somehow my head hurts."
+  },
+  {
+   "ja": "{なんだか}今日[きょう]は元気[げんき]が出[で]ません。",
+   "en": "Somehow I don't have any energy today."
+  }
+ ],
+ "v1241": [
+  {
+   "ja": "犬[いぬ]を見[み]て、猫[ねこ]が{逃[に]げました}。",
+   "en": "The cat saw the dog and ran away."
+  },
+  {
+   "ja": "火事[かじ]のとき、すぐ{逃[に]げて}ください。",
+   "en": "In a fire, please escape right away."
+  }
+ ],
+ "v1436": [
+  {
+   "ja": "{二日間[ふつかかん]}、学校[がっこう]を休[やす]みました。",
+   "en": "I was absent from school for two days."
+  },
+  {
+   "ja": "京都[きょうと]に{二日間[ふつかかん]}泊[と]まりました。",
+   "en": "I stayed in Kyoto for two days."
+  }
+ ],
+ "v1485": [
+  {
+   "ja": "電車[でんしゃ]は三番線[さんばんせん]の{ホーム}に来[き]ます。",
+   "en": "The train comes to platform number three."
+  },
+  {
+   "ja": "{ホーム}で友達[ともだち]を待[ま]っています。",
+   "en": "I'm waiting for my friend on the platform."
+  }
+ ],
+ "v1540": [
+  {
+   "ja": "夏休[なつやす]みが{待[ま]ち遠[どお]しい}です。",
+   "en": "I'm eagerly waiting for summer vacation."
+  },
+  {
+   "ja": "旅行[りょこう]の日[ひ]が{待[ま]ち遠[どお]しくて}、よく寝[ね]られません。",
+   "en": "I'm so eager for the day of the trip that I can't sleep well."
+  }
+ ],
+ "v1617": [
+  {
+   "ja": "友達[ともだち]に{メッセージ}を送[おく]りました。",
+   "en": "I sent my friend a message."
+  },
+  {
+   "ja": "田中[たなか]さんから{メッセージ}が来[き]ています。",
+   "en": "A message has come from Mr. Tanaka."
+  }
+ ],
+ "v1676": [
+  {
+   "ja": "先生[せんせい]に質問[しつもん]する{勇気[ゆうき]}がありませんでした。",
+   "en": "I didn't have the courage to ask the teacher a question."
+  },
+  {
+   "ja": "彼[かれ]は{勇気[ゆうき]}のある人[ひと]です。",
+   "en": "He is a person with courage."
+  }
+ ]
+}

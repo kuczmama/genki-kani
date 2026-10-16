@@ -1,0 +1,449 @@
+{
+ "v140": [
+  "to be (honorific)",
+  "to go (honorific)",
+  "to come (honorific)",
+  "honorific go",
+  "honorific come",
+  "honorific be",
+  "to go",
+  "to come"
+ ],
+ "v200": [
+  "to refrain",
+  "to hold back",
+  "to be reserved",
+  "to decline politely",
+  "to hesitate"
+ ],
+ "v221": [
+  "wife",
+  "your wife",
+  "someone's wife"
+ ],
+ "v224": [
+  "to see off",
+  "to escort",
+  "to accompany",
+  "to drive someone",
+  "to walk someone",
+  "to give a ride"
+ ],
+ "v225": [
+  "to be late",
+  "late",
+  "to run late"
+ ],
+ "v226": [
+  "child",
+  "your child",
+  "someone's child"
+ ],
+ "v254": [
+  "to say (honorific)",
+  "to say",
+  "honorific say",
+  "to speak (honorific)"
+ ],
+ "v263": [
+  "2 days ago",
+  "two days ago"
+ ],
+ "v302": [
+  "to sleep (honorific)",
+  "to sleep",
+  "honorific sleep",
+  "to go to bed (honorific)"
+ ],
+ "v309": [
+  "thanks",
+  "gratitude",
+  "thank you",
+  "appreciation"
+ ],
+ "v350": [
+  "to sit",
+  "sit",
+  "to take a seat",
+  "to be seated"
+ ],
+ "v462": [
+  "to be settled",
+  "to be determined",
+  "to be fixed",
+  "decided"
+ ],
+ "v509": [
+  "to give (honorific)",
+  "to give",
+  "honorific give"
+ ],
+ "v533": [
+  "honorifics",
+  "honorific",
+  "respectful language",
+  "polite language"
+ ],
+ "v604": [
+  "to treat",
+  "to treat to a meal",
+  "to invite to a meal",
+  "to buy someone a meal",
+  "to invite"
+ ],
+ "v606": [
+  "this way",
+  "this (polite)",
+  "here (polite)",
+  "here",
+  "this person (polite)"
+ ],
+ "v626": [
+  "to see (honorific)",
+  "to look (honorific)",
+  "to watch (honorific)",
+  "honorific see",
+  "to see",
+  "to look",
+  "to watch"
+ ],
+ "v801": [
+  "kind",
+  "sort",
+  "type",
+  "variety"
+ ],
+ "v810": [
+  "a moment",
+  "just a moment",
+  "one moment",
+  "a little while",
+  "a second"
+ ],
+ "v826": [
+  "to become acquainted",
+  "to get to know",
+  "to meet",
+  "to get acquainted"
+ ],
+ "v884": [
+  "character",
+  "nature",
+  "disposition",
+  "temperament"
+ ],
+ "v947": [
+  "so",
+  "and so",
+  "because of that",
+  "for that reason",
+  "thus"
+ ],
+ "v1046": [
+  "junior high student",
+  "middle school student",
+  "junior high schooler",
+  "middle schooler"
+ ],
+ "v1092": [
+  "to be doing (honorific)",
+  "is doing (honorific)",
+  "honorific ている",
+  "honorific teiru",
+  "to be (honorific)",
+  "is (honorific)"
+ ],
+ "v1171": [
+  "which (polite)",
+  "which way",
+  "which one (polite)",
+  "where (polite)"
+ ],
+ "v1205": [
+  "to get along",
+  "to get along well",
+  "get along well",
+  "on good terms",
+  "on close terms",
+  "to be close",
+  "to be friendly"
+ ],
+ "v1210": [
+  "to do (honorific)",
+  "to do",
+  "honorific do"
+ ],
+ "v1226": [
+  "lazybones",
+  "lazy",
+  "slacker",
+  "idler",
+  "layabout"
+ ],
+ "v1325": [
+  "shy",
+  "shy type",
+  "bashful person",
+  "timid person"
+ ],
+ "v1343": [
+  "to talk",
+  "to chat",
+  "to have a chat",
+  "to speak",
+  "to have a conversation"
+ ],
+ "v1357": [
+  "to clear up",
+  "to be sunny",
+  "to clear",
+  "sunny",
+  "to become clear",
+  "to be fine"
+ ],
+ "v1392": [
+  "to move",
+  "to move house",
+  "to relocate",
+  "to move out",
+  "to change residence"
+ ],
+ "v1431": [
+  "manager",
+  "department head",
+  "department chief",
+  "head of department",
+  "division manager",
+  "department director"
+ ],
+ "v1512": [
+  "actually",
+  "really",
+  "to tell the truth",
+  "truth is",
+  "truthfully"
+ ],
+ "v1528": [
+  "serious",
+  "sober",
+  "diligent",
+  "earnest",
+  "hardworking",
+  "hard-working",
+  "honest",
+  "sincere"
+ ],
+ "v1533": [
+  "yet",
+  "not yet"
+ ],
+ "v1538": [
+  "mistake",
+  "error",
+  "blunder"
+ ],
+ "v1609": [
+  "party of",
+  "people",
+  "number of people (polite)",
+  "number of people",
+  "persons",
+  "guests",
+  "counter for people (polite)",
+  "people (polite)"
+ ],
+ "v1614": [
+  "to eat (honorific)",
+  "to drink (honorific)",
+  "to eat",
+  "to drink",
+  "to eat or drink (honorific)",
+  "honorific eat",
+  "honorific drink",
+  "to have (honorific)"
+ ],
+ "v1642": [
+  "to be popular",
+  "popular",
+  "popular with the opposite sex",
+  "to be liked"
+ ],
+ "v1707": [
+  "to call",
+  "to invite",
+  "to summon",
+  "to send for",
+  "to call out"
+ ],
+ "v1712": [
+  "to drop by",
+  "to stop by",
+  "to drop in",
+  "to visit",
+  "to swing by"
+ ],
+ "v1714": [
+  "give my regards",
+  "please give my regards",
+  "please say hello",
+  "best regards",
+  "please say hi",
+  "say hello to",
+  "send my regards",
+  "please send my regards"
+ ],
+ "v87": [
+  "how",
+  "how about",
+  "how is",
+  "what about"
+ ],
+ "v155": [
+  "to take",
+  "to take an exam",
+  "to sit an exam",
+  "to sit an examination",
+  "to take a test",
+  "to undergo"
+ ],
+ "v244": [
+  "to be in care",
+  "to be cared for",
+  "to be taken care of",
+  "to be indebted",
+  "thank you for your help"
+ ],
+ "v293": [
+  "to remember",
+  "to recollect",
+  "to call to mind",
+  "to think of"
+ ],
+ "v586": [
+  "worldwide",
+  "global"
+ ],
+ "v731": [
+  "inquiry",
+  "query"
+ ],
+ "v808": [
+  "shogi",
+  "Japanese chess",
+  "chess"
+ ],
+ "v948": [
+  "well",
+  "then",
+  "so",
+  "in that case",
+  "if so",
+  "now then"
+ ],
+ "v966": [
+  "to cherish",
+  "to value",
+  "to take care of",
+  "to treat well",
+  "to look after",
+  "to care for",
+  "to treasure"
+ ],
+ "v972": [
+  "very",
+  "very much",
+  "extremely",
+  "a lot",
+  "terribly",
+  "greatly",
+  "really"
+ ],
+ "v992": [
+  "to pass",
+  "to elapse",
+  "time passes",
+  "to go by",
+  "to pass by",
+  "to pass (time)"
+ ],
+ "v1044": [
+  "during",
+  "in the middle of",
+  "while",
+  "in the process of"
+ ],
+ "v1121": [
+  "electric engineering",
+  "electronic engineering"
+ ],
+ "v1146": [
+  "thank you in advance",
+  "thanks in advance",
+  "I appreciate your help",
+  "please treat me well",
+  "I ask for your help",
+  "please take care of this"
+ ],
+ "v1174": [
+  "all of a sudden",
+  "abruptly",
+  "unexpectedly",
+  "out of the blue"
+ ],
+ "v1214": [
+  "to miss",
+  "to long for",
+  "nostalgic",
+  "to feel nostalgic",
+  "to yearn for"
+ ],
+ "v1282": [
+  "through introduction by",
+  "introduced by",
+  "thanks to the introduction of",
+  "through the introduction of",
+  "through the introduction by",
+  "via the introduction of"
+ ],
+ "v1283": [
+  "for",
+  "for the sake of",
+  "in order to",
+  "for the benefit of"
+ ],
+ "v1578": [
+  "everybody (polite)",
+  "everyone",
+  "everybody",
+  "all of you",
+  "everyone (polite)",
+  "ladies and gentlemen"
+ ],
+ "v1625": [
+  "applying",
+  "sign up",
+  "registration",
+  "signing up"
+ ],
+ "v1626": [
+  "I'm sorry",
+  "my apologies",
+  "I apologize",
+  "apologies",
+  "I'm very sorry",
+  "sorry",
+  "I'm terribly sorry",
+  "I am very sorry"
+ ],
+ "v1634": [
+  "if",
+  "in case",
+  "supposing",
+  "suppose",
+  "if then"
+ ],
+ "v1679": [
+  "friend",
+  "pal"
+ ]
+}

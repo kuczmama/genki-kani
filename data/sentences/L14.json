@@ -1,0 +1,642 @@
+{
+ "v17": [
+  {
+   "ja": "せっかく始[はじ]めたから、{あきらめない}でがんばります。",
+   "en": "Since I went to the trouble of starting, I won't give up and will do my best."
+  },
+  {
+   "ja": "彼[かれ]は「もう{あきらめた}」と言[い]いました。",
+   "en": "He said, \"I've given up already.\""
+  }
+ ],
+ "v20": [
+  {
+   "ja": "友達[ともだち]の誕生日[たんじょうび]に本[ほん]を{あげました}。",
+   "en": "I gave my friend a book for his birthday."
+  },
+  {
+   "ja": "母[はは]にスカーフを{あげたい}です。",
+   "en": "I want to give my mother a scarf."
+  }
+ ],
+ "v199": [
+  {
+   "ja": "{鉛筆[えんぴつ]}を貸[か]してくれませんか。",
+   "en": "Could you lend me a pencil?"
+  },
+  {
+   "ja": "テストは{鉛筆[えんぴつ]}で書[か]いてください。",
+   "en": "Please write the test in pencil."
+  }
+ ],
+ "v210": [
+  {
+   "ja": "{大家[おおや]さん}は親切[しんせつ]な人[ひと]です。",
+   "en": "My landlord is a kind person."
+  },
+  {
+   "ja": "{大家[おおや]さん}に家賃[やちん]を払[はら]いました。",
+   "en": "I paid the rent to the landlord."
+  }
+ ],
+ "v212": [
+  {
+   "ja": "もらったチョコレートの{お返[かえ]し}にクッキーをあげました。",
+   "en": "I gave cookies in return for the chocolate I received."
+  },
+  {
+   "ja": "誕生日[たんじょうび]のプレゼントの{お返[かえ]し}は何[なに]がいいですか。",
+   "en": "What would be a good gift in return for the birthday present?"
+  }
+ ],
+ "v222": [
+  {
+   "ja": "先生[せんせい]の{奥[おく]さん}はピアノの先生[せんせい]です。",
+   "en": "The teacher's wife is a piano teacher."
+  },
+  {
+   "ja": "{奥[おく]さん}はお元気[げんき]ですか。",
+   "en": "Is your wife doing well?"
+  }
+ ],
+ "v223": [
+  {
+   "ja": "母[はは]に荷物[にもつ]を{送[おく]りました}。",
+   "en": "I sent a package to my mother."
+  },
+  {
+   "ja": "友達[ともだち]にメールを{送[おく]ります}。",
+   "en": "I will send an email to my friend."
+  }
+ ],
+ "v233": [
+  {
+   "ja": "{お皿[さら]}を洗[あら]ってください。",
+   "en": "Please wash the dishes."
+  },
+  {
+   "ja": "テーブルに{お皿[さら]}を並[なら]べました。",
+   "en": "I set the plates out on the table."
+  }
+ ],
+ "v236": [
+  {
+   "ja": "{おじさん}はいつも面白[おもしろ]い話[はなし]をします。",
+   "en": "My uncle always tells funny stories."
+  },
+  {
+   "ja": "あそこにいる{おじさん}はだれですか。",
+   "en": "Who is that middle-aged man over there?"
+  }
+ ],
+ "v238": [
+  {
+   "ja": "彼女[かのじょ]はいつも{おしゃれ}な服[ふく]を着[き]ています。",
+   "en": "She always wears stylish clothes."
+  },
+  {
+   "ja": "この店[みせ]は{おしゃれ}ですね。",
+   "en": "This shop is stylish, isn't it?"
+  }
+ ],
+ "v277": [
+  {
+   "ja": "{おばさん}は京都[きょうと]に住[す]んでいます。",
+   "en": "My aunt lives in Kyoto."
+  },
+  {
+   "ja": "あの{おばさん}は私[わたし]の隣[となり]に住[す]んでいます。",
+   "en": "That woman lives next door to me."
+  }
+ ],
+ "v470": [
+  {
+   "ja": "{急[きゅう]に}雨[あめ]が降[ふ]ってきました。",
+   "en": "It suddenly started to rain."
+  },
+  {
+   "ja": "{急[きゅう]に}友達[ともだち]が来[き]ました。",
+   "en": "A friend came over suddenly."
+  }
+ ],
+ "v523": [
+  {
+   "ja": "{クリスマス}には家族[かぞく]とケーキを食[た]べます。",
+   "en": "At Christmas I eat cake with my family."
+  },
+  {
+   "ja": "{クリスマス}プレゼントに何[なに]がほしいですか。",
+   "en": "What do you want for a Christmas present?"
+  }
+ ],
+ "v528": [
+  {
+   "ja": "友達[ともだち]が誕生日[たんじょうび]にセーターを{くれました}。",
+   "en": "My friend gave me a sweater for my birthday."
+  },
+  {
+   "ja": "母[はは]は私[わたし]にお金[かね]を{くれました}。",
+   "en": "My mother gave me some money."
+  }
+ ],
+ "v530": [
+  {
+   "ja": "田中[たなか]{君[くん]}、ちょっと来[き]て。",
+   "en": "Tanaka, come here for a second."
+  },
+  {
+   "ja": "先生[せんせい]は「山田[やまだ]{君[くん]}、よくできましたね」と言[い]いました。",
+   "en": "The teacher said, \"Yamada, you did well.\""
+  }
+ ],
+ "v547": [
+  {
+   "ja": "{化粧品[けしょうひん]}を買[か]いに行[い]きます。",
+   "en": "I am going to buy cosmetics."
+  },
+  {
+   "ja": "この{化粧品[けしょうひん]}は高[たか]いですが、いいですよ。",
+   "en": "These cosmetics are expensive, but they are good."
+  }
+ ],
+ "v549": [
+  {
+   "ja": "彼[かれ]は{けち}だから、ごちそうしてくれません。",
+   "en": "He is stingy, so he won't treat me."
+  },
+  {
+   "ja": "{けち}な人[ひと]は好[す]きじゃありません。",
+   "en": "I don't like stingy people."
+  }
+ ],
+ "v567": [
+  {
+   "ja": "りんごを三[さん]{個[こ]}買[か]いました。",
+   "en": "I bought three apples."
+  },
+  {
+   "ja": "卵[たまご]を六[ろく]{個[こ]}ください。",
+   "en": "Please give me six eggs."
+  }
+ ],
+ "v597": [
+  {
+   "ja": "{ご主人[しゅじん]}はどんな仕事[しごと]をしていますか。",
+   "en": "What kind of work does your husband do?"
+  },
+  {
+   "ja": "山田[やまだ]さんの{ご主人[しゅじん]}はやさしいです。",
+   "en": "Ms. Yamada's husband is kind."
+  }
+ ],
+ "v645": [
+  {
+   "ja": "{こんな}おいしいケーキは初[はじ]めてです。",
+   "en": "This is the first time I've had such a delicious cake."
+  },
+  {
+   "ja": "{こんな}天気[てんき]の日[ひ]は出[で]かけたくないです。",
+   "en": "I don't want to go out on a day with weather like this."
+  }
+ ],
+ "v652": [
+  {
+   "ja": "「あの人[ひと]はだれですか。」「{さあ}、わかりません。」",
+   "en": "\"Who is that person?\" \"Hmm, I don't know.\""
+  },
+  {
+   "ja": "「明日[あした]は雨[あめ]ですか。」「{さあ}、どうでしょう。」",
+   "en": "\"Will it rain tomorrow?\" \"Well, I wonder.\""
+  }
+ ],
+ "v671": [
+  {
+   "ja": "本[ほん]を三[さん]{冊[さつ]}借[か]りました。",
+   "en": "I borrowed three books."
+  },
+  {
+   "ja": "ノートを二[に]{冊[さつ]}買[か]いました。",
+   "en": "I bought two notebooks."
+  }
+ ],
+ "v681": [
+  {
+   "ja": "大[おお]きい{皿[さら]}にサラダを入[い]れました。",
+   "en": "I put the salad on a big plate."
+  },
+  {
+   "ja": "この{皿[さら]}はきれいですね。",
+   "en": "This plate is pretty, isn't it?"
+  }
+ ],
+ "v754": [
+  {
+   "ja": "新[あたら]しい{シャツ}を買[か]いました。",
+   "en": "I bought a new shirt."
+  },
+  {
+   "ja": "父[ちち]は毎日[まいにち]{シャツ}にネクタイをします。",
+   "en": "My father wears a shirt and tie every day."
+  }
+ ],
+ "v928": [
+  {
+   "ja": "先生[せんせい]に進路[しんろ]について{相談[そうだん]しました}。",
+   "en": "I consulted my teacher about my future path."
+  },
+  {
+   "ja": "友達[ともだち]に{相談[そうだん]して}から決[き]めます。",
+   "en": "I will decide after consulting my friend."
+  }
+ ],
+ "v955": [
+  {
+   "ja": "車[くるま]を二[に]{台[だい]}持[も]っています。",
+   "en": "I have two cars."
+  },
+  {
+   "ja": "この店[みせ]でパソコンを一[いち]{台[だい]}買[か]いました。",
+   "en": "I bought one computer at this store."
+  }
+ ],
+ "v991": [
+  {
+   "ja": "私[わたし]の友達[ともだち]{たち}は皆[みんな]学生[がくせい]です。",
+   "en": "My friends are all students."
+  },
+  {
+   "ja": "子[こ]ども{たち}が公園[こうえん]で遊[あそ]んでいます。",
+   "en": "The children are playing in the park."
+  }
+ ],
+ "v1045": [
+  {
+   "ja": "先生[せんせい]は学生[がくせい]に遅刻[ちこく]しないように{注意[ちゅうい]しました}。",
+   "en": "The teacher warned the students not to be late."
+  },
+  {
+   "ja": "車[くるま]に{注意[ちゅうい]して}ください。",
+   "en": "Please watch out for cars."
+  }
+ ],
+ "v1052": [
+  {
+   "ja": "{ちょうど}今[いま]、家[いえ]に着[つ]きました。",
+   "en": "I just got home now."
+  },
+  {
+   "ja": "今[いま]は{ちょうど}三時[さんじ]です。",
+   "en": "It is exactly three o'clock now."
+  }
+ ],
+ "v1054": [
+  {
+   "ja": "友達[ともだち]に{チョコレート}をあげました。",
+   "en": "I gave my friend some chocolate."
+  },
+  {
+   "ja": "私[わたし]は{チョコレート}が大好[だいす]きです。",
+   "en": "I love chocolate."
+  }
+ ],
+ "v1097": [
+  {
+   "ja": "駅[えき]の前[まえ]に新[あたら]しいデパートが{できました}。",
+   "en": "A new department store was built in front of the station."
+  },
+  {
+   "ja": "このお酒[さけ]は米[こめ]から{できて}います。",
+   "en": "This sake is made from rice."
+  }
+ ],
+ "v1141": [
+  {
+   "ja": "日本語[にほんご]がわからないとき、{どうしたらいい}ですか。",
+   "en": "What should I do when I don't understand Japanese?"
+  },
+  {
+   "ja": "宿題[しゅくだい]が終[お]わらない。{どうしたらいい}かな。",
+   "en": "I can't finish my homework. What should I do?"
+  }
+ ],
+ "v1195": [
+  {
+   "ja": "寒[さむ]いから{トレーナー}を着[き]ます。",
+   "en": "It's cold, so I will wear a sweatshirt."
+  },
+  {
+   "ja": "弟[おとうと]に{トレーナー}をあげました。",
+   "en": "I gave my younger brother a sweatshirt."
+  }
+ ],
+ "v1235": [
+  {
+   "ja": "その赤[あか]いシャツはあなたによく{似合[にあ]います}。",
+   "en": "That red shirt looks good on you."
+  },
+  {
+   "ja": "田中[たなか]さんにはこの帽子[ぼうし]が{似合[にあ]う}と思[おも]います。",
+   "en": "I think this hat will look good on Ms. Tanaka."
+  }
+ ],
+ "v1267": [
+  {
+   "ja": "妹[いもうと]に{ぬいぐるみ}をあげました。",
+   "en": "I gave my little sister a stuffed animal."
+  },
+  {
+   "ja": "ベッドの上[うえ]に大[おお]きい{ぬいぐるみ}があります。",
+   "en": "There is a big stuffed animal on the bed."
+  }
+ ],
+ "v1271": [
+  {
+   "ja": "父[ちち]に{ネクタイ}をあげるつもりです。",
+   "en": "I plan to give my father a necktie."
+  },
+  {
+   "ja": "面接[めんせつ]に{ネクタイ}をして行[い]きました。",
+   "en": "I went to the interview wearing a tie."
+  }
+ ],
+ "v1298": [
+  {
+   "ja": "私[わたし]の{パートナー}は料理[りょうり]が上手[じょうず]です。",
+   "en": "My partner is good at cooking."
+  },
+  {
+   "ja": "ダンスの{パートナー}を探[さが]しています。",
+   "en": "I am looking for a dance partner."
+  }
+ ],
+ "v1358": [
+  {
+   "ja": "{バレンタインデー}に彼[かれ]にチョコレートをあげました。",
+   "en": "I gave him chocolate on Valentine's Day."
+  },
+  {
+   "ja": "日本[にほん]では{バレンタインデー}に女[おんな]の人[ひと]が男[おとこ]の人[ひと]にチョコをあげます。",
+   "en": "In Japan, women give chocolate to men on Valentine's Day."
+  }
+ ],
+ "v1377": [
+  {
+   "ja": "うちには犬[いぬ]が一[いっ]{匹[ぴき]}います。",
+   "en": "We have one dog at home."
+  },
+  {
+   "ja": "池[いけ]に魚[さかな]が三[さん]{匹[びき]}いました。",
+   "en": "There were three fish in the pond."
+  }
+ ],
+ "v1455": [
+  {
+   "ja": "彼[かれ]は彼女[かのじょ]に{プロポーズしました}。",
+   "en": "He proposed to his girlfriend."
+  },
+  {
+   "ja": "いつか{プロポーズしたい}です。",
+   "en": "I want to propose someday."
+  }
+ ],
+ "v1496": [
+  {
+   "ja": "新[あたら]しいパソコンが{ほしい}です。",
+   "en": "I want a new computer."
+  },
+  {
+   "ja": "何[なに]か{ほしい}ものがありますか。",
+   "en": "Is there anything you want?"
+  }
+ ],
+ "v1506": [
+  {
+   "ja": "三月[さんがつ]十四日[じゅうよんにち]は{ホワイトデー}です。",
+   "en": "March 14th is White Day."
+  },
+  {
+   "ja": "{ホワイトデー}にクッキーのお返[かえ]しをしました。",
+   "en": "I gave cookies back on White Day."
+  }
+ ],
+ "v1508": [
+  {
+   "ja": "鉛筆[えんぴつ]を三[さん]{本[ぼん]}買[か]いました。",
+   "en": "I bought three pencils."
+  },
+  {
+   "ja": "ペンを二[に]{本[ほん]}貸[か]してください。",
+   "en": "Please lend me two pens."
+  }
+ ],
+ "v1548": [
+  {
+   "ja": "寒[さむ]いから{マフラー}をしていきます。",
+   "en": "It's cold, so I'll wear a scarf."
+  },
+  {
+   "ja": "母[はは]に赤[あか]い{マフラー}を送[おく]りました。",
+   "en": "I sent my mother a red scarf."
+  }
+ ],
+ "v1551": [
+  {
+   "ja": "毎週[まいしゅう]{漫画[まんが]}を読[よ]みます。",
+   "en": "I read comics every week."
+  },
+  {
+   "ja": "兄[あに]は{漫画[まんが]}をたくさん持[も]っています。",
+   "en": "My older brother has a lot of comic books."
+  }
+ ],
+ "v1558": [
+  {
+   "ja": "冬[ふゆ]は{みかん}をよく食[た]べます。",
+   "en": "I often eat mandarin oranges in winter."
+  },
+  {
+   "ja": "こたつで{みかん}を食[た]べました。",
+   "en": "I ate mandarin oranges at the kotatsu."
+  }
+ ],
+ "v1579": [
+  {
+   "ja": "{皆[みな]さん}、おはようございます。",
+   "en": "Good morning, everyone."
+  },
+  {
+   "ja": "{皆[みな]さん}は日本語[にほんご]の勉強[べんきょう]が好[す]きですか。",
+   "en": "Do all of you like studying Japanese?"
+  }
+ ],
+ "v1686": [
+  {
+   "ja": "彼[かれ]に{指輪[ゆびわ]}をもらいました。",
+   "en": "I got a ring from him."
+  },
+  {
+   "ja": "母[はは]は金[きん]の{指輪[ゆびわ]}をしています。",
+   "en": "My mother wears a gold ring."
+  }
+ ],
+ "v1697": [
+  {
+   "ja": "日本語[にほんご]が{よく}わかりません。",
+   "en": "I don't understand Japanese well."
+  },
+  {
+   "ja": "昨日[きのう]は{よく}寝[ね]ました。",
+   "en": "I slept well last night."
+  }
+ ],
+ "v1725": [
+  {
+   "ja": "車[くるま]の中[なか]で{ラジオ}を聞[き]きます。",
+   "en": "I listen to the radio in the car."
+  },
+  {
+   "ja": "祖父[そふ]は毎朝[まいあさ]{ラジオ}を聞[き]いています。",
+   "en": "My grandfather listens to the radio every morning."
+  }
+ ],
+ "v1733": [
+  {
+   "ja": "{両親[りょうしん]}は大阪[おおさか]に住[す]んでいます。",
+   "en": "My parents live in Osaka."
+  },
+  {
+   "ja": "{両親[りょうしん]}に電話[でんわ]をかけました。",
+   "en": "I called my parents."
+  }
+ ],
+ "v1740": [
+  {
+   "ja": "アルバイトのために{履歴書[りれきしょ]}を書[か]きました。",
+   "en": "I wrote a resume for a part-time job."
+  },
+  {
+   "ja": "{履歴書[りれきしょ]}に写真[しゃしん]をはってください。",
+   "en": "Please attach a photo to your resume."
+  }
+ ],
+ "v1767": [
+  {
+   "ja": "{私[わたし]たち}は大学[だいがく]の友達[ともだち]です。",
+   "en": "We are friends from college."
+  },
+  {
+   "ja": "{私[わたし]たち}は来月[らいげつ]日本[にほん]へ行[い]きます。",
+   "en": "We are going to Japan next month."
+  }
+ ],
+ "v3": [
+  {
+   "ja": "彼[かれ]は妻[つま]を{愛[あい]して}います。",
+   "en": "He loves his wife."
+  },
+  {
+   "ja": "彼[かれ]は「一生[いっしょう]君[きみ]を{愛[あい]す}」と言[い]いました。",
+   "en": "He said, \"I will love you for the rest of my life.\""
+  }
+ ],
+ "v42": [
+  {
+   "ja": "先生[せんせい]に{アドバイス}をもらいました。",
+   "en": "I got advice from my teacher."
+  },
+  {
+   "ja": "何[なに]か{アドバイス}をください。",
+   "en": "Please give me some advice."
+  }
+ ],
+ "v723": [
+  {
+   "ja": "学生[がくせい]{時代[じだい]}は毎日[まいにち]忙[いそが]しかったです。",
+   "en": "I was busy every day in my student days."
+  },
+  {
+   "ja": "今[いま]はインターネットの{時代[じだい]}です。",
+   "en": "Now is the age of the internet."
+  }
+ ],
+ "v796": [
+  {
+   "ja": "来週[らいしゅう]、大阪[おおさか]へ{出張[しゅっちょう]}します。",
+   "en": "I am going on a business trip to Osaka next week."
+  },
+  {
+   "ja": "父[ちち]は{出張[しゅっちょう]}が多[おお]いです。",
+   "en": "My father has many business trips."
+  }
+ ],
+ "v919": [
+  {
+   "ja": "会社[かいしゃ]の{先輩[せんぱい]}にごちそうしてもらいました。",
+   "en": "A senior colleague at work treated me."
+  },
+  {
+   "ja": "{先輩[せんぱい]}は私[わたし]にいろいろ教[おし]えてくれます。",
+   "en": "My senior teaches me many things."
+  }
+ ],
+ "v1038": [
+  {
+   "ja": "私[わたし]の{父親[ちちおや]}は医者[いしゃ]です。",
+   "en": "My father is a doctor."
+  },
+  {
+   "ja": "{父親[ちちおや]}になるのは大変[たいへん]です。",
+   "en": "Becoming a father is hard."
+  }
+ ],
+ "v1067": [
+  {
+   "ja": "彼女[かのじょ]と三年間[さんねんかん]{付[つ]き合[あ]って}います。",
+   "en": "I have been dating her for three years."
+  },
+  {
+   "ja": "まだ誰[だれ]とも{付[つ]き合[あ]った}ことがありません。",
+   "en": "I have never dated anyone yet."
+  }
+ ],
+ "v1227": [
+  {
+   "ja": "{悩[なや]み}があったら、話[はな]してください。",
+   "en": "If you have a worry, please tell me."
+  },
+  {
+   "ja": "友達[ともだち]の{悩[なや]み}を聞[き]きました。",
+   "en": "I listened to my friend's worries."
+  }
+ ],
+ "v1278": [
+  {
+   "ja": "日本[にほん]に三[さん]{年間[ねんかん]}住[す]んでいました。",
+   "en": "I lived in Japan for three years."
+  },
+  {
+   "ja": "五[ご]{年間[ねんかん]}ピアノを習[なら]いました。",
+   "en": "I took piano lessons for five years."
+  }
+ ],
+ "v1296": [
+  {
+   "ja": "雨[あめ]の{場合[ばあい]}は、試合[しあい]はありません。",
+   "en": "In case of rain, there will be no game."
+  },
+  {
+   "ja": "遅[おく]れる{場合[ばあい]}は、電話[でんわ]してください。",
+   "en": "If you are going to be late, please call."
+  }
+ ],
+ "v1511": [
+  {
+   "ja": "{本当[ほんとう]に}ありがとうございます。",
+   "en": "Thank you very much, really."
+  },
+  {
+   "ja": "この映画[えいが]は{本当[ほんとう]に}おもしろかったです。",
+   "en": "This movie was really interesting."
+  }
+ ]
+}

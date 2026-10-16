@@ -1,0 +1,952 @@
+{
+ "v112": [
+  {
+   "ja": "昨日[きのう]は{一日中[いちにちじゅう]}雨[あめ]でした。",
+   "en": "It rained all day yesterday."
+  },
+  {
+   "ja": "{一日中[いちにちじゅう]}ゲームをしました。",
+   "en": "I played games all day long."
+  }
+ ],
+ "v113": [
+  {
+   "ja": "旅行[りょこう]の{一日目[いちにちめ]}は京都[きょうと]に行[い]きました。",
+   "en": "On the first day of the trip, I went to Kyoto."
+  },
+  {
+   "ja": "{一日目[いちにちめ]}は疲[つか]れて早[はや]く寝[ね]ました。",
+   "en": "I was tired on the first day and went to bed early."
+  }
+ ],
+ "v148": [
+  {
+   "ja": "{インターネット}で調[しら]べました。",
+   "en": "I looked it up on the internet."
+  },
+  {
+   "ja": "うちの{インターネット}は遅[おそ]いです。",
+   "en": "The internet at my place is slow."
+  }
+ ],
+ "v172": [
+  {
+   "ja": "この店[みせ]では古[ふる]い本[ほん]を{売[う]って}います。",
+   "en": "This store sells old books."
+  },
+  {
+   "ja": "車[くるま]を{売[う]る}つもりです。",
+   "en": "I plan to sell my car."
+  }
+ ],
+ "v179": [
+  {
+   "ja": "壁[かべ]に{絵[え]}をかけました。",
+   "en": "I hung a picture on the wall."
+  },
+  {
+   "ja": "姉[あね]は{絵[え]}が上手[じょうず]です。",
+   "en": "My older sister is good at drawing."
+  }
+ ],
+ "v183": [
+  {
+   "ja": "週末[しゅうまつ]に{映画館[えいがかん]}で映画[えいが]を見[み]ました。",
+   "en": "I watched a movie at the movie theater on the weekend."
+  },
+  {
+   "ja": "この町[まち]には{映画館[えいがかん]}が二[ふた]つあります。",
+   "en": "There are two movie theaters in this town."
+  }
+ ],
+ "v311": [
+  {
+   "ja": "銀行[ぎんこう]でお金[かね]を{下[お]ろしました}。",
+   "en": "I withdrew money at the bank."
+  },
+  {
+   "ja": "一万円[いちまんえん]{下[お]ろして}から、買[か]い物[もの]に行[い]きます。",
+   "en": "After withdrawing 10,000 yen, I will go shopping."
+  }
+ ],
+ "v326": [
+  {
+   "ja": "日本[にほん]に{外国人[がいこくじん]}がたくさん来[き]ています。",
+   "en": "Many foreigners are coming to Japan."
+  },
+  {
+   "ja": "私[わたし]のクラスには{外国人[がいこくじん]}が多[おお]いです。",
+   "en": "There are many foreigners in my class."
+  }
+ ],
+ "v345": [
+  {
+   "ja": "子[こ]どもの頃[ころ]、よく絵[え]を{描[か]きました}。",
+   "en": "When I was a child, I often drew pictures."
+  },
+  {
+   "ja": "山[やま]の絵[え]を{描[か]いて}います。",
+   "en": "I am painting a picture of a mountain."
+  }
+ ],
+ "v346": [
+  {
+   "ja": "新[あたら]しい{家具[かぐ]}を買[か]いたいです。",
+   "en": "I want to buy new furniture."
+  },
+  {
+   "ja": "この{家具[かぐ]}は木[き]でできています。",
+   "en": "This furniture is made of wood."
+  }
+ ],
+ "v381": [
+  {
+   "ja": "大学[だいがく]でいろいろな{活動[かつどう]}をしています。",
+   "en": "I do various activities at university."
+  },
+  {
+   "ja": "クラブ{活動[かつどう]}は楽[たの]しいです。",
+   "en": "Club activities are fun."
+  }
+ ],
+ "v427": [
+  {
+   "ja": "京都[きょうと]で{観光[かんこう]しました}。",
+   "en": "I went sightseeing in Kyoto."
+  },
+  {
+   "ja": "夏休[なつやす]みに北海道[ほっかいどう]を{観光[かんこう]したい}です。",
+   "en": "I want to go sightseeing in Hokkaido during summer vacation."
+  }
+ ],
+ "v479": [
+  {
+   "ja": "{教室[きょうしつ]}に傘[かさ]を忘[わす]れました。",
+   "en": "I left my umbrella in the classroom."
+  },
+  {
+   "ja": "{教室[きょうしつ]}は三階[さんがい]です。",
+   "en": "The classroom is on the third floor."
+  }
+ ],
+ "v491": [
+  {
+   "ja": "道[みち]が滑[すべ]りやすいから、{気[き]をつけて}ください。",
+   "en": "The road is slippery, so please be careful."
+  },
+  {
+   "ja": "車[くるま]に{気[き]をつけます}。",
+   "en": "I will watch out for cars."
+  }
+ ],
+ "v532": [
+  {
+   "ja": "私[わたし]はアルバイトの{経験[けいけん]}があります。",
+   "en": "I have experience with part-time jobs."
+  },
+  {
+   "ja": "いい{経験[けいけん]}になりました。",
+   "en": "It was a good experience."
+  }
+ ],
+ "v552": [
+  {
+   "ja": "来月[らいげつ]、友達[ともだち]の{結婚式[けっこんしき]}があります。",
+   "en": "Next month there is a friend's wedding."
+  },
+  {
+   "ja": "{結婚式[けっこんしき]}で歌[うた]を歌[うた]いました。",
+   "en": "I sang a song at the wedding."
+  }
+ ],
+ "v555": [
+  {
+   "ja": "日本語[にほんご]は難[むずか]しい{けど}、おもしろいです。",
+   "en": "Japanese is difficult, but it is interesting."
+  },
+  {
+   "ja": "明日[あした]パーティーがある{けど}、来[き]ませんか。",
+   "en": "There's a party tomorrow, so won't you come?"
+  }
+ ],
+ "v657": [
+  {
+   "ja": "{最近[さいきん]}忙[いそが]しいです。",
+   "en": "I have been busy lately."
+  },
+  {
+   "ja": "{最近[さいきん]}、映画[えいが]を見[み]ていません。",
+   "en": "I haven't seen a movie recently."
+  }
+ ],
+ "v660": [
+  {
+   "ja": "新[あたら]しいアパートを{探[さが]して}います。",
+   "en": "I am looking for a new apartment."
+  },
+  {
+   "ja": "かぎを{探[さが]しました}が、ありませんでした。",
+   "en": "I looked for my key, but it wasn't there."
+  }
+ ],
+ "v669": [
+  {
+   "ja": "友達[ともだち]をパーティーに{誘[さそ]いました}。",
+   "en": "I invited my friend to the party."
+  },
+  {
+   "ja": "日曜日[にちようび]に映画[えいが]に{誘[さそ]って}もいいですか。",
+   "en": "May I invite you to a movie on Sunday?"
+  }
+ ],
+ "v689": [
+  {
+   "ja": "来週[らいしゅう]の会議[かいぎ]に{参加[さんか]します}。",
+   "en": "I will participate in next week's meeting."
+  },
+  {
+   "ja": "スピーチコンテストに{参加[さんか]した}ことがあります。",
+   "en": "I have participated in a speech contest before."
+  }
+ ],
+ "v717": [
+  {
+   "ja": "{辞書[じしょ]}で意味[いみ]を調[しら]べました。",
+   "en": "I looked up the meaning in a dictionary."
+  },
+  {
+   "ja": "電子[でんし]{辞書[じしょ]}を持[も]っています。",
+   "en": "I have an electronic dictionary."
+  }
+ ],
+ "v718": [
+  {
+   "ja": "昨日[きのう]、大[おお]きい{地震[じしん]}がありました。",
+   "en": "There was a big earthquake yesterday."
+  },
+  {
+   "ja": "日本[にほん]は{地震[じしん]}が多[おお]いです。",
+   "en": "Japan has many earthquakes."
+  }
+ ],
+ "v745": [
+  {
+   "ja": "レポートの{締[し]め切[き]り}は金曜日[きんようび]です。",
+   "en": "The report deadline is Friday."
+  },
+  {
+   "ja": "{締[し]め切[き]り}に間[ま]に合[あ]いませんでした。",
+   "en": "I didn't make the deadline."
+  }
+ ],
+ "v751": [
+  {
+   "ja": "寒[さむ]いから{ジャケット}を着[き]ました。",
+   "en": "It was cold, so I put on a jacket."
+  },
+  {
+   "ja": "黒[くろ]い{ジャケット}がほしいです。",
+   "en": "I want a black jacket."
+  }
+ ],
+ "v755": [
+  {
+   "ja": "友達[ともだち]と二時間[にじかん]{しゃべりました}。",
+   "en": "I chatted with my friend for two hours."
+  },
+  {
+   "ja": "カフェでお茶[ちゃ]を飲[の]みながら{しゃべって}います。",
+   "en": "We are chatting while drinking tea at a cafe."
+  }
+ ],
+ "v765": [
+  {
+   "ja": "日本[にほん]の{習慣[しゅうかん]}を勉強[べんきょう]しています。",
+   "en": "I am studying Japanese customs."
+  },
+  {
+   "ja": "朝[あさ]ジョギングするのが{習慣[しゅうかん]}です。",
+   "en": "Jogging in the morning is my habit."
+  }
+ ],
+ "v824": [
+  {
+   "ja": "電車[でんしゃ]の時間[じかん]を{調[しら]べました}。",
+   "en": "I checked the train times."
+  },
+  {
+   "ja": "宿題[しゅくだい]のために、図書館[としょかん]で{調[しら]べて}います。",
+   "en": "I am researching at the library for my homework."
+  }
+ ],
+ "v879": [
+  {
+   "ja": "私[わたし]はラーメンに{します}。",
+   "en": "I'll have ramen."
+  },
+  {
+   "ja": "デザートはケーキに{しました}。",
+   "en": "I chose cake for dessert."
+  }
+ ],
+ "v889": [
+  {
+   "ja": "日本[にほん]の{税金[ぜいきん]}は高[たか]いと思[おも]います。",
+   "en": "I think taxes in Japan are high."
+  },
+  {
+   "ja": "毎年[まいとし]{税金[ぜいきん]}を払[はら]います。",
+   "en": "I pay taxes every year."
+  }
+ ],
+ "v935": [
+  {
+   "ja": "来月[らいげつ]、{卒業式[そつぎょうしき]}があります。",
+   "en": "There is a graduation ceremony next month."
+  },
+  {
+   "ja": "{卒業式[そつぎょうしき]}に着物[きもの]を着[き]ます。",
+   "en": "I will wear a kimono to the graduation ceremony."
+  }
+ ],
+ "v936": [
+  {
+   "ja": "来年[らいねん]、大学[だいがく]を{卒業[そつぎょう]します}。",
+   "en": "I will graduate from college next year."
+  },
+  {
+   "ja": "兄[あに]は去年[きょねん]{卒業[そつぎょう]しました}。",
+   "en": "My older brother graduated last year."
+  }
+ ],
+ "v940": [
+  {
+   "ja": "昼[ひる]ごはんに{そば}を食[た]べました。",
+   "en": "I ate soba for lunch."
+  },
+  {
+   "ja": "冷[つめ]たい{そば}が好[す]きです。",
+   "en": "I like cold soba."
+  }
+ ],
+ "v995": [
+  {
+   "ja": "あの高[たか]い{建物[たてもの]}は何[なん]ですか。",
+   "en": "What is that tall building?"
+  },
+  {
+   "ja": "古[ふる]い{建物[たてもの]}がたくさんあります。",
+   "en": "There are many old buildings."
+  }
+ ],
+ "v1000": [
+  {
+   "ja": "来週[らいしゅう]のコンサートが{楽[たの]しみです}。",
+   "en": "I am looking forward to next week's concert."
+  },
+  {
+   "ja": "夏休[なつやす]みの旅行[りょこう]が{楽[たの]しみです}ね。",
+   "en": "I can't wait for the summer vacation trip."
+  }
+ ],
+ "v1036": [
+  {
+   "ja": "{地図[ちず]}を見[み]ながら歩[ある]きました。",
+   "en": "I walked while looking at a map."
+  },
+  {
+   "ja": "{地図[ちず]}を持[も]っていますか。",
+   "en": "Do you have a map?"
+  }
+ ],
+ "v1070": [
+  {
+   "ja": "九時[くじ]に東京[とうきょう]に{着[つ]きました}。",
+   "en": "I arrived in Tokyo at nine o'clock."
+  },
+  {
+   "ja": "ホテルに{着[つ]いたら}、電話[でんわ]します。",
+   "en": "When I arrive at the hotel, I will call."
+  }
+ ],
+ "v1126": [
+  {
+   "ja": "リモコンの{電池[でんち]}がなくなりました。",
+   "en": "The remote's batteries ran out."
+  },
+  {
+   "ja": "コンビニで{電池[でんち]}を買[か]います。",
+   "en": "I will buy batteries at the convenience store."
+  }
+ ],
+ "v1263": [
+  {
+   "ja": "祖母[そぼ]の家[いえ]には大[おお]きい{庭[にわ]}があります。",
+   "en": "My grandmother's house has a big garden."
+  },
+  {
+   "ja": "{庭[にわ]}に花[はな]を植[う]えました。",
+   "en": "I planted flowers in the garden."
+  }
+ ],
+ "v1338": [
+  {
+   "ja": "授業[じゅぎょう]で日本[にほん]の文化[ぶんか]について{発表[はっぴょう]しました}。",
+   "en": "I gave a presentation about Japanese culture in class."
+  },
+  {
+   "ja": "来週[らいしゅう]、研究[けんきゅう]を{発表[はっぴょう]します}。",
+   "en": "I will present my research next week."
+  }
+ ],
+ "v1420": [
+  {
+   "ja": "夏[なつ]は{プール}で泳[およ]ぎます。",
+   "en": "In summer I swim at the pool."
+  },
+  {
+   "ja": "うちの近[ちか]くに{プール}があります。",
+   "en": "There is a pool near my home."
+  }
+ ],
+ "v1467": [
+  {
+   "ja": "うちでは{ペット}に猫[ねこ]を飼[か]っています。",
+   "en": "We keep a cat as a pet."
+  },
+  {
+   "ja": "{ペット}を飼[か]ってもいいアパートを探[さが]しています。",
+   "en": "I am looking for an apartment where pets are allowed."
+  }
+ ],
+ "v1493": [
+  {
+   "ja": "旅行[りょこう]の{保険[ほけん]}はいくらですか。",
+   "en": "How much is travel insurance?"
+  },
+  {
+   "ja": "車[くるま]の{保険[ほけん]}は高[たか]いです。",
+   "en": "Car insurance is expensive."
+  }
+ ],
+ "v1495": [
+  {
+   "ja": "先月[せんげつ]、{保険[ほけん]に入[はい]りました}。",
+   "en": "I bought insurance last month."
+  },
+  {
+   "ja": "海外[かいがい]へ行[い]く前[まえ]に、{保険[ほけん]に入[はい]った}ほうがいいです。",
+   "en": "You should buy insurance before going overseas."
+  }
+ ],
+ "v1505": [
+  {
+   "ja": "週末[しゅうまつ]に{ボランティア}をしています。",
+   "en": "I do volunteer work on weekends."
+  },
+  {
+   "ja": "{ボランティア}の経験[けいけん]がありますか。",
+   "en": "Do you have volunteer experience?"
+  }
+ ],
+ "v1555": [
+  {
+   "ja": "部屋[へや]から海[うみ]が{見[み]えます}。",
+   "en": "I can see the sea from my room."
+  },
+  {
+   "ja": "今日[きょう]は富士山[ふじさん]がよく{見[み]えます}ね。",
+   "en": "Mt. Fuji is clearly visible today, isn't it?"
+  }
+ ],
+ "v1607": [
+  {
+   "ja": "右[みぎ]から三[みっ]つ{目[め]}の部屋[へや]です。",
+   "en": "It is the third room from the right."
+  },
+  {
+   "ja": "京都[きょうと]に行[い]くのは二回[にかい]{目[め]}です。",
+   "en": "This is my second time going to Kyoto."
+  }
+ ],
+ "v1624": [
+  {
+   "ja": "{もう一度[いちど]}言[い]ってください。",
+   "en": "Please say it one more time."
+  },
+  {
+   "ja": "{もう一度[いちど]}やってみます。",
+   "en": "I will try once more."
+  }
+ ],
+ "v1706": [
+  {
+   "ja": "週末[しゅうまつ]の{予定[よてい]}は何[なん]ですか。",
+   "en": "What are your plans for the weekend?"
+  },
+  {
+   "ja": "来週[らいしゅう]は{予定[よてい]}がたくさんあります。",
+   "en": "I have a lot of plans next week."
+  }
+ ],
+ "v1710": [
+  {
+   "ja": "レストランを{予約[よやく]しました}。",
+   "en": "I reserved a restaurant."
+  },
+  {
+   "ja": "ホテルを{予約[よやく]したい}です。",
+   "en": "I want to reserve a hotel."
+  }
+ ],
+ "v1736": [
+  {
+   "ja": "温泉[おんせん]のある{旅館[りょかん]}に泊[と]まりました。",
+   "en": "I stayed at an inn with a hot spring."
+  },
+  {
+   "ja": "この{旅館[りょかん]}は景色[けしき]がきれいです。",
+   "en": "This inn has beautiful scenery."
+  }
+ ],
+ "v1771": [
+  {
+   "ja": "{割引券[わりびきけん]}を使[つか]って、安[やす]く買[か]いました。",
+   "en": "I used a discount coupon and bought it cheaply."
+  },
+  {
+   "ja": "この{割引券[わりびきけん]}は今月[こんげつ]までです。",
+   "en": "This coupon is valid until this month."
+  }
+ ],
+ "v128": [
+  {
+   "ja": "この旅館[りょかん]は{一泊二食付[いっぱくにしょくつ]き}で一万円[いちまんえん]です。",
+   "en": "This inn is 10,000 yen for one night with two meals."
+  },
+  {
+   "ja": "{一泊二食付[いっぱくにしょくつ]き}の部屋[へや]は安[やす]いです。",
+   "en": "The room with one night and two meals is cheap."
+  }
+ ],
+ "v453": [
+  {
+   "ja": "{喫煙[きつえん]}できる部屋[へや]はありますか。",
+   "en": "Is there a room where smoking is allowed?"
+  },
+  {
+   "ja": "{喫煙[きつえん]}は健康[けんこう]によくないです。",
+   "en": "Smoking is not good for your health."
+  }
+ ],
+ "v494": [
+  {
+   "ja": "{禁煙[きんえん]}の部屋[へや]をお願[ねが]いします。",
+   "en": "A non-smoking room, please."
+  },
+  {
+   "ja": "レストランは全部[ぜんぶ]{禁煙[きんえん]}です。",
+   "en": "All the restaurants are non-smoking."
+  }
+ ],
+ "v835": [
+  {
+   "ja": "{シングル}の部屋[へや]を一[ひと]つお願[ねが]いします。",
+   "en": "One single room, please."
+  },
+  {
+   "ja": "{シングル}は一泊[いっぱく]いくらですか。",
+   "en": "How much is a single per night?"
+  }
+ ],
+ "v974": [
+  {
+   "ja": "この旅館[りょかん]には{大浴場[だいよくじょう]}があります。",
+   "en": "This inn has a large public bath."
+  },
+  {
+   "ja": "夜[よる]、{大浴場[だいよくじょう]}に入[はい]りました。",
+   "en": "I took a bath in the large bath at night."
+  }
+ ],
+ "v1005": [
+  {
+   "ja": "{ダブル}の部屋[へや]を予約[よやく]したいです。",
+   "en": "I want to reserve a double room."
+  },
+  {
+   "ja": "{ダブル}とツインとどちらがいいですか。",
+   "en": "Which would you like, a double or a twin?"
+  }
+ ],
+ "v1023": [
+  {
+   "ja": "十時[じゅうじ]までに{チェックアウト}してください。",
+   "en": "Please check out by ten o'clock."
+  },
+  {
+   "ja": "{チェックアウト}は何時[なんじ]ですか。",
+   "en": "What time is check-out?"
+  }
+ ],
+ "v1024": [
+  {
+   "ja": "三時[さんじ]から{チェックイン}できます。",
+   "en": "You can check in from three o'clock."
+  },
+  {
+   "ja": "早[はや]く{チェックインしました}。",
+   "en": "I checked in early."
+  }
+ ],
+ "v1051": [
+  {
+   "ja": "{朝食付[ちょうしょくつ]き}の部屋[へや]にしました。",
+   "en": "I chose a room with breakfast."
+  },
+  {
+   "ja": "この料金[りょうきん]は{朝食付[ちょうしょくつ]き}ですか。",
+   "en": "Does this rate include breakfast?"
+  }
+ ],
+ "v1058": [
+  {
+   "ja": "{ツイン}の部屋[へや]を予約[よやく]しました。",
+   "en": "I reserved a twin room."
+  },
+  {
+   "ja": "友達[ともだち]と{ツイン}に泊[と]まります。",
+   "en": "I will stay in a twin room with my friend."
+  }
+ ],
+ "v1312": [
+  {
+   "ja": "京都[きょうと]に二[に]{泊[はく]}します。",
+   "en": "I will stay two nights in Kyoto."
+  },
+  {
+   "ja": "三[さん]{泊[ぱく]}四日[よっか]の旅行[りょこう]です。",
+   "en": "It is a four-day, three-night trip."
+  }
+ ],
+ "v1456": [
+  {
+   "ja": "{フロント}で鍵[かぎ]をもらいました。",
+   "en": "I got the key at the front desk."
+  },
+  {
+   "ja": "{フロント}に電話[でんわ]してください。",
+   "en": "Please call the front desk."
+  }
+ ],
+ "v1608": [
+  {
+   "ja": "四[よん]{名[めい]}で予約[よやく]しました。",
+   "en": "I made a reservation for four people."
+  },
+  {
+   "ja": "何[なん]{名[めい]}ですか。",
+   "en": "How many people?"
+  }
+ ],
+ "v114": [
+  {
+   "ja": "ここは{一年中[いちねんじゅう]}暖[あたた]かいです。",
+   "en": "It is warm here all year round."
+  },
+  {
+   "ja": "この町[まち]には{一年中[いちねんじゅう]}観光客[かんこうきゃく]がいます。",
+   "en": "There are tourists in this town all year."
+  }
+ ],
+ "v167": [
+  {
+   "ja": "私[わたし]は京都[きょうと]で{生[う]まれました}。",
+   "en": "I was born in Kyoto."
+  },
+  {
+   "ja": "来月[らいげつ]赤[あか]ちゃんが{生[う]まれます}。",
+   "en": "A baby will be born next month."
+  }
+ ],
+ "v261": [
+  {
+   "ja": "広島[ひろしま]に原爆[げんばく]が{落[お]とされました}。",
+   "en": "The atomic bomb was dropped on Hiroshima."
+  },
+  {
+   "ja": "爆弾[ばくだん]が{落[お]とされた}町[まち]を訪[おとず]れました。",
+   "en": "I visited the town where the bomb was dropped."
+  }
+ ],
+ "v504": [
+  {
+   "ja": "海[うみ]で{くじら}を見[み]ました。",
+   "en": "I saw a whale in the sea."
+  },
+  {
+   "ja": "{くじら}は大[おお]きい動物[どうぶつ]です。",
+   "en": "Whales are big animals."
+  }
+ ],
+ "v544": [
+  {
+   "ja": "山[やま]の{景色[けしき]}がきれいでした。",
+   "en": "The mountain scenery was beautiful."
+  },
+  {
+   "ja": "ここから{景色[けしき]}が見[み]えます。",
+   "en": "You can see the scenery from here."
+  }
+ ],
+ "v566": [
+  {
+   "ja": "広島[ひろしま]に{原爆[げんばく]}が落[お]とされました。",
+   "en": "The atomic bomb was dropped on Hiroshima."
+  },
+  {
+   "ja": "{原爆[げんばく]}について勉強[べんきょう]しました。",
+   "en": "I studied about the atomic bomb."
+  }
+ ],
+ "v581": [
+  {
+   "ja": "秋[あき]に京都[きょうと]で{紅葉[こうよう]}を見[み]ました。",
+   "en": "I saw autumn leaves in Kyoto in the fall."
+  },
+  {
+   "ja": "{紅葉[こうよう]}がとてもきれいです。",
+   "en": "The autumn colors are very beautiful."
+  }
+ ],
+ "v623": [
+  {
+   "ja": "週末[しゅうまつ]は電車[でんしゃ]が{混[こ]みます}。",
+   "en": "Trains get crowded on weekends."
+  },
+  {
+   "ja": "夏[なつ]は海[うみ]が{混[こ]む}と思[おも]います。",
+   "en": "I think the beach gets crowded in summer."
+  }
+ ],
+ "v643": [
+  {
+   "ja": "今日[きょう]は電車[でんしゃ]が{混[こ]んでいます}。",
+   "en": "The train is crowded today."
+  },
+  {
+   "ja": "この店[みせ]はいつも{混[こ]んでいます}ね。",
+   "en": "This shop is always crowded."
+  }
+ ],
+ "v707": [
+  {
+   "ja": "奈良[なら]で{鹿[しか]}にえさをあげました。",
+   "en": "I fed the deer in Nara."
+  },
+  {
+   "ja": "公園[こうえん]に{鹿[しか]}がいます。",
+   "en": "There are deer in the park."
+  }
+ ],
+ "v720": [
+  {
+   "ja": "日本[にほん]の{自然[しぜん]}が好[す]きです。",
+   "en": "I like Japan's nature."
+  },
+  {
+   "ja": "山[やま]で{自然[しぜん]}を楽[たの]しみました。",
+   "en": "I enjoyed nature in the mountains."
+  }
+ ],
+ "v743": [
+  {
+   "ja": "夏休[なつやす]みに小[ちい]さい{島[しま]}へ行[い]きました。",
+   "en": "I went to a small island during summer vacation."
+  },
+  {
+   "ja": "この{島[しま]}には人[ひと]がほとんど住[す]んでいません。",
+   "en": "Hardly anyone lives on this island."
+  }
+ ],
+ "v794": [
+  {
+   "ja": "私[わたし]の{主人[しゅじん]}は会社員[かいしゃいん]です。",
+   "en": "My husband is a company employee."
+  },
+  {
+   "ja": "{主人[しゅじん]}は今[いま]出張中[しゅっちょうちゅう]です。",
+   "en": "My husband is on a business trip now."
+  }
+ ],
+ "v858": [
+  {
+   "ja": "渋谷[しぶや]の{スクランブル交差点[こうさてん]}は有名[ゆうめい]です。",
+   "en": "The Shibuya scramble crossing is famous."
+  },
+  {
+   "ja": "{スクランブル交差点[こうさてん]}で写真[しゃしん]をとりました。",
+   "en": "I took pictures at the scramble crossing."
+  }
+ ],
+ "v983": [
+  {
+   "ja": "パンダは{竹[たけ]}を食[た]べます。",
+   "en": "Pandas eat bamboo."
+  },
+  {
+   "ja": "{竹[たけ]}の林[はやし]を歩[ある]きました。",
+   "en": "I walked through a bamboo grove."
+  }
+ ],
+ "v1002": [
+  {
+   "ja": "旅行[りょこう]を{楽[たの]しみました}。",
+   "en": "I enjoyed the trip."
+  },
+  {
+   "ja": "音楽[おんがく]を{楽[たの]しんで}います。",
+   "en": "I am enjoying the music."
+  }
+ ],
+ "v1026": [
+  {
+   "ja": "駅[えき]の{地下[ちか]}にお店[みせ]がたくさんあります。",
+   "en": "There are many shops underground at the station."
+  },
+  {
+   "ja": "{地下[ちか]}で食[た]べ物[もの]を買[か]いました。",
+   "en": "I bought food in the basement."
+  }
+ ],
+ "v1157": [
+  {
+   "ja": "この道[みち]は学校[がっこう]の前[まえ]を{通[とお]ります}。",
+   "en": "This road goes past the school."
+  },
+  {
+   "ja": "電車[でんしゃ]は川[かわ]の近[ちか]くを{通[とお]って}います。",
+   "en": "The train runs near the river."
+  }
+ ],
+ "v1196": [
+  {
+   "ja": "{トロッコ列車[れっしゃ]}に乗[の]りました。",
+   "en": "I rode the sightseeing trolley train."
+  },
+  {
+   "ja": "{トロッコ列車[れっしゃ]}から川[かわ]が見[み]えました。",
+   "en": "I could see the river from the trolley train."
+  }
+ ],
+ "v1281": [
+  {
+   "ja": "食[た]べ物[もの]を少[すこ]し{残[のこ]しました}。",
+   "en": "I left a little of the food."
+  },
+  {
+   "ja": "古[ふる]い建物[たてもの]を{残[のこ]す}ことは大切[たいせつ]です。",
+   "en": "It is important to preserve old buildings."
+  }
+ ],
+ "v1321": [
+  {
+   "ja": "おいしいレストランの{場所[ばしょ]}を教[おし]えてください。",
+   "en": "Please tell me the location of a good restaurant."
+  },
+  {
+   "ja": "静[しず]かな{場所[ばしょ]}が好[す]きです。",
+   "en": "I like quiet places."
+  }
+ ],
+ "v1371": [
+  {
+   "ja": "休[やす]みの{日[ひ]}は何[なに]をしますか。",
+   "en": "What do you do on your days off?"
+  },
+  {
+   "ja": "雨[あめ]の{日[ひ]}は家[いえ]にいます。",
+   "en": "I stay home on rainy days."
+  }
+ ],
+ "v1416": [
+  {
+   "ja": "妹[いもうと]は{ファッション}に興味[きょうみ]があります。",
+   "en": "My younger sister is interested in fashion."
+  },
+  {
+   "ja": "日本[にほん]の{ファッション}はおもしろいです。",
+   "en": "Japanese fashion is interesting."
+  }
+ ],
+ "v1462": [
+  {
+   "ja": "世界[せかい]の{平和[へいわ]}を願[ねが]っています。",
+   "en": "I wish for world peace."
+  },
+  {
+   "ja": "{平和[へいわ]}は大切[たいせつ]です。",
+   "en": "Peace is important."
+  }
+ ],
+ "v1463": [
+  {
+   "ja": "広島[ひろしま]の{平和記念資料館[へいわきねんしりょうかん]}に行[い]きました。",
+   "en": "I went to the Peace Memorial Museum in Hiroshima."
+  },
+  {
+   "ja": "{平和記念資料館[へいわきねんしりょうかん]}で原爆[げんばく]の話[はなし]を聞[き]きました。",
+   "en": "I heard about the atomic bomb at the Peace Memorial Museum."
+  }
+ ],
+ "v1537": [
+  {
+   "ja": "駅[えき]の前[まえ]で友達[ともだち]と{待[ま]ち合[あ]わせをします}。",
+   "en": "I will meet my friend in front of the station."
+  },
+  {
+   "ja": "六時[ろくじ]に{待[ま]ち合[あ]わせをしました}。",
+   "en": "We met up at six o'clock."
+  }
+ ],
+ "v1577": [
+  {
+   "ja": "{緑[みどり]}のセーターを買[か]いました。",
+   "en": "I bought a green sweater."
+  },
+  {
+   "ja": "公園[こうえん]は{緑[みどり]}が多[おお]いです。",
+   "en": "The park has a lot of greenery."
+  }
+ ],
+ "v1580": [
+  {
+   "ja": "沖縄[おきなわ]は日本[にほん]の{南[みなみ]}にあります。",
+   "en": "Okinawa is in the south of Japan."
+  },
+  {
+   "ja": "{南[みなみ]}の島[しま]に行[い]きたいです。",
+   "en": "I want to go to an island in the south."
+  }
+ ],
+ "v1761": [
+  {
+   "ja": "{若者[わかもの]}に人気[にんき]のある店[みせ]です。",
+   "en": "It is a shop popular with young people."
+  },
+  {
+   "ja": "最近[さいきん]の{若者[わかもの]}は本[ほん]を読[よ]みません。",
+   "en": "Young people these days don't read books."
+  }
+ ],
+ "v1769": [
+  {
+   "ja": "橋[はし]を{渡[わた]って}ください。",
+   "en": "Please cross the bridge."
+  },
+  {
+   "ja": "川[かわ]を{渡[わた]ります}。",
+   "en": "I will cross the river."
+  }
+ ]
+}

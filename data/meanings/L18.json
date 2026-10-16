@@ -1,0 +1,546 @@
+{
+ "v14": [
+  "light",
+  "well lit",
+  "well-lit",
+  "brightly lit"
+ ],
+ "v18": [
+  "open",
+  "opens",
+  "come open",
+  "be open",
+  "get opened"
+ ],
+ "v39": [
+  "remainder",
+  "remaining",
+  "the remainder",
+  "leftover",
+  "what's left"
+ ],
+ "v61": [
+  "apologise",
+  "say sorry",
+  "beg forgiveness"
+ ],
+ "v136": [
+  "immediately",
+  "at once",
+  "right now",
+  "this instant",
+  "instantly",
+  "straight away"
+ ],
+ "v214": [
+  "thanks to",
+  "owing to",
+  "due to",
+  "because of",
+  "as a result of"
+ ],
+ "v231": [
+  "i'm leaving first",
+  "excuse me for leaving first",
+  "excuse me for leaving before you",
+  "goodbye",
+  "see you later",
+  "bye",
+  "i'm off",
+  "i'm leaving now"
+ ],
+ "v243": [
+  "push",
+  "press down",
+  "shove",
+  "push down"
+ ],
+ "v252": [
+  "fall",
+  "drop",
+  "fall down",
+  "fall off"
+ ],
+ "v253": [
+  "good work",
+  "thanks for your hard work",
+  "you must be tired",
+  "good job",
+  "thank you for your hard work",
+  "thank you for your work",
+  "great work",
+  "nice work",
+  "well done",
+  "thanks for all your work"
+ ],
+ "v262": [
+  "drop",
+  "let fall",
+  "let drop",
+  "lose"
+ ],
+ "v304": [
+  "boil",
+  "water boil",
+  "the water boils",
+  "water is boiling",
+  "the water is boiling"
+ ],
+ "v319": [
+  "curtains",
+  "drape",
+  "drapes"
+ ],
+ "v372": [
+  "tidy",
+  "clean up",
+  "put away",
+  "straighten up",
+  "clear away",
+  "put in order",
+  "tidy up"
+ ],
+ "v425": [
+  "think",
+  "consider",
+  "think about",
+  "think over",
+  "ponder",
+  "contemplate",
+  "think of"
+ ],
+ "v440": [
+  "go out",
+  "go off",
+  "disappear",
+  "vanish",
+  "be extinguished",
+  "be turned off",
+  "turn off"
+ ],
+ "v518": [
+  "dim",
+  "gloomy",
+  "dusky",
+  "not bright",
+  "unlit"
+ ],
+ "v538": [
+  "cell phone",
+  "cellphone",
+  "mobile phone",
+  "mobile",
+  "smartphone",
+  "phone",
+  "handphone",
+  "cell-phone",
+  "cellular phone"
+ ],
+ "v633": [
+  "fall over",
+  "trip",
+  "tumble",
+  "stumble",
+  "trip and fall",
+  "slip and fall",
+  "topple over"
+ ],
+ "v635": [
+  "destroy",
+  "smash",
+  "damage",
+  "demolish",
+  "wreck",
+  "ruin",
+  "shatter",
+  "bust"
+ ],
+ "v636": [
+  "get broken",
+  "be broken",
+  "break down",
+  "be destroyed",
+  "stop working",
+  "go wrong",
+  "malfunction"
+ ],
+ "v662": [
+  "blossom",
+  "flower",
+  "come into bloom",
+  "bloom",
+  "be in bloom"
+ ],
+ "v665": [
+  "cherry blossoms",
+  "cherry tree",
+  "sakura",
+  "cherry"
+ ],
+ "v744": [
+  "close",
+  "closes",
+  "be closed",
+  "shut",
+  "get shut",
+  "get closed"
+ ],
+ "v815": [
+  "shoyu",
+  "soya sauce",
+  "soy"
+ ],
+ "v847": [
+  "switches",
+  "toggle"
+ ],
+ "v851": [
+  "soups"
+ ],
+ "v941": [
+  "couch",
+  "settee",
+  "sofa couch"
+ ],
+ "v965": [
+  "precious",
+  "important",
+  "valuable",
+  "dear",
+  "treasured",
+  "cherished"
+ ],
+ "v975": [
+  "towels"
+ ],
+ "v986": [
+  "be saved",
+  "be helped",
+  "be rescued",
+  "be a great help",
+  "be relieved",
+  "get saved",
+  "get helped",
+  "be of help"
+ ],
+ "v1003": [
+  "request",
+  "ask for",
+  "ask a favor",
+  "ask a favour",
+  "entrust"
+ ],
+ "v1017": [
+  "probably",
+  "i guess",
+  "i suppose",
+  "presumably",
+  "i wonder"
+ ],
+ "v1049": [
+  "order",
+  "make an order",
+  "order something",
+  "put in an order",
+  "place an order for"
+ ],
+ "v1071": [
+  "turn on",
+  "come on",
+  "be turned on",
+  "go on",
+  "switch on",
+  "light up",
+  "be lit"
+ ],
+ "v1143": [
+  "what should i do",
+  "what should we do",
+  "what shall we do",
+  "what do i do",
+  "what do we do",
+  "what can i do",
+  "what to do"
+ ],
+ "v1253": [
+  "journal",
+  "diary entry",
+  "daily record"
+ ],
+ "v1324": [
+  "ashamed",
+  "shy",
+  "shameful",
+  "embarrassed",
+  "humiliating",
+  "feel ashamed",
+  "be embarrassed",
+  "feel embarrassed",
+  "be ashamed",
+  "self-conscious"
+ ],
+ "v1345": [
+  "bananas"
+ ],
+ "v1417": [
+  "anxiety",
+  "worried",
+  "uneasy",
+  "anxious",
+  "uneasiness",
+  "concerned",
+  "apprehensive",
+  "nervous",
+  "insecure",
+  "worry"
+ ],
+ "v1501": [
+  "pop corn",
+  "pop-corn"
+ ],
+ "v1529": [
+  "first",
+  "firstly",
+  "to begin with",
+  "first off",
+  "to start with",
+  "in the first place",
+  "first thing",
+  "for starters"
+ ],
+ "v1545": [
+  "by",
+  "before",
+  "no later than",
+  "not later than",
+  "by the time",
+  "by the deadline",
+  "at the latest"
+ ],
+ "v1596": [
+  "bug",
+  "insects",
+  "bugs",
+  "creepy crawly",
+  "critter"
+ ],
+ "v1605": [
+  "impossible",
+  "unreasonable",
+  "not possible",
+  "out of the question",
+  "too much",
+  "too hard",
+  "unrealistic",
+  "no way",
+  "cannot be done",
+  "can't be done"
+ ],
+ "v1665": [
+  "rent payment",
+  "rental",
+  "monthly rent",
+  "rent money",
+  "rental fee"
+ ],
+ "v1675": [
+  "late afternoon",
+  "dusk",
+  "early evening",
+  "twilight",
+  "evenings",
+  "the evening",
+  "in the evening"
+ ],
+ "v1699": [
+  "soil",
+  "stain",
+  "make something dirty",
+  "get something dirty",
+  "dirty",
+  "soil something",
+  "dirty up"
+ ],
+ "v1700": [
+  "get dirty",
+  "become dirty",
+  "be dirty",
+  "be soiled",
+  "get soiled",
+  "dirty",
+  "get stained",
+  "become soiled"
+ ],
+ "v1746": [
+  "fridge",
+  "refrigerators",
+  "icebox"
+ ],
+ "v1754": [
+  "candles"
+ ],
+ "v94": [
+  "or more",
+  "more than",
+  "above",
+  "over",
+  "at least",
+  "and over",
+  "and above",
+  "upward of",
+  "upwards of",
+  "greater than",
+  "or over",
+  "or above"
+ ],
+ "v382": [
+  "private tutor",
+  "home tutor",
+  "private teacher"
+ ],
+ "v724": [
+  "intimate",
+  "friendly",
+  "familiar",
+  "dear"
+ ],
+ "v781": [
+  "earnings",
+  "revenue"
+ ],
+ "v820": [
+  "food expenses",
+  "food costs",
+  "food expense",
+  "food cost",
+  "cost of meals",
+  "food bill",
+  "grocery costs",
+  "grocery expenses"
+ ],
+ "v821": [
+  "female students",
+  "girl student",
+  "woman student",
+  "female college student",
+  "coed",
+  "co-ed",
+  "female university student"
+ ],
+ "v887": [
+  "extra money",
+  "money to spare",
+  "spare money",
+  "financial leeway",
+  "financial breathing room",
+  "financial cushion",
+  "room in the budget",
+  "leeway in living costs"
+ ],
+ "v888": [
+  "living expenses",
+  "living costs",
+  "cost of living",
+  "living expense"
+ ],
+ "v1020": [
+  "male students",
+  "boy student",
+  "man student",
+  "male college student",
+  "male university student"
+ ],
+ "v1032": [
+  "manual labor",
+  "manual labour",
+  "physical labour",
+  "heavy labor",
+  "heavy labour",
+  "heavy work",
+  "manual work",
+  "physical work",
+  "hard labor",
+  "construction work",
+  "strenuous work"
+ ],
+ "v1053": [
+  "save money",
+  "deposit money",
+  "put money in the bank",
+  "make a deposit",
+  "savings",
+  "save",
+  "deposit",
+  "put money in a bank",
+  "put in the bank",
+  "save up"
+ ],
+ "v1318": [
+  "in the beginning",
+  "initially",
+  "at the start",
+  "at the beginning",
+  "to begin with",
+  "first",
+  "at the outset"
+ ],
+ "v1391": [
+  "move",
+  "relocation",
+  "moving house",
+  "moving out",
+  "change of residence",
+  "move house",
+  "change of address",
+  "relocating",
+  "relocate"
+ ],
+ "v1519": [
+  "each month",
+  "monthly",
+  "per month",
+  "a month",
+  "once a month",
+  "on a monthly basis"
+ ],
+ "v1582": [
+  "under",
+  "fewer than",
+  "below",
+  "less than",
+  "lower than",
+  "short of",
+  "not reaching"
+ ],
+ "v1631": [
+  "goal",
+  "aim",
+  "objective",
+  "purpose",
+  "intention",
+  "target",
+  "intent"
+ ],
+ "v1692": [
+  "western clothes",
+  "western clothing",
+  "western-style clothes",
+  "clothing",
+  "garments",
+  "apparel",
+  "attire",
+  "outfit"
+ ],
+ "v1774": [
+  "studio",
+  "studio flat",
+  "one-room apartment",
+  "one room apartment",
+  "one-room condo",
+  "bachelor apartment",
+  "one-room mansion",
+  "studio condo",
+  "studio unit",
+  "studio room"
+ ]
+}

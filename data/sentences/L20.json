@@ -1,0 +1,762 @@
+{
+ "v35": [
+  {
+   "ja": "トイレは{あちら}です。",
+   "en": "The restroom is over there."
+  },
+  {
+   "ja": "{あちら}の方[かた]は田中[たなか]さんです。",
+   "en": "That person over there is Mr. Tanaka."
+  }
+ ],
+ "v46": [
+  {
+   "ja": "子[こ]どものころ、毎日[まいにち]{アニメ}を見[み]ていました。",
+   "en": "When I was a child, I watched anime every day."
+  },
+  {
+   "ja": "日本[にほん]の{アニメ}が大好[だいす]きで、日本語[にほんご]を勉強[べんきょう]し始[はじ]めました。",
+   "en": "I love Japanese anime, so I started studying Japanese."
+  }
+ ],
+ "v100": [
+  {
+   "ja": "私[わたし]が{いたします}。",
+   "en": "I will do it."
+  },
+  {
+   "ja": "来週[らいしゅう]、ご連絡[れんらく]{いたします}。",
+   "en": "I will contact you next week."
+  }
+ ],
+ "v102": [
+  {
+   "ja": "先生[せんせい]のお宅[たく]で晩[ばん]ご飯[はん]を{いただきました}。",
+   "en": "I had dinner at my teacher's house."
+  },
+  {
+   "ja": "このお茶[ちゃ]、{いただいて}もいいですか。",
+   "en": "May I have this tea?"
+  }
+ ],
+ "v103": [
+  {
+   "ja": "先生[せんせい]に本[ほん]を{いただきました}。",
+   "en": "I received a book from my teacher."
+  },
+  {
+   "ja": "社長[しゃちょう]から、すてきなお土産[みやげ]を{いただきました}。",
+   "en": "I received a lovely souvenir from the company president."
+  }
+ ],
+ "v121": [
+  {
+   "ja": "食堂[しょくどう]は{一階[いっかい]}にあります。",
+   "en": "The cafeteria is on the first floor."
+  },
+  {
+   "ja": "{一階[いっかい]}でエレベーターを待[ま]ちましょう。",
+   "en": "Let's wait for the elevator on the first floor."
+  }
+ ],
+ "v153": [
+  {
+   "ja": "あしたの三時[さんじ]に{伺[うかが]います}。",
+   "en": "I will visit you at three tomorrow."
+  },
+  {
+   "ja": "先生[せんせい]にちょっと{伺[うかが]いたい}ことがあります。",
+   "en": "There is something I would like to ask my teacher."
+  }
+ ],
+ "v162": [
+  {
+   "ja": "{宇宙人[うちゅうじん]}は本当[ほんとう]にいると思[おも]いますか。",
+   "en": "Do you think space aliens really exist?"
+  },
+  {
+   "ja": "昨日[きのう]、{宇宙人[うちゅうじん]}の映画[えいが]を見[み]ました。",
+   "en": "Yesterday I watched a movie about space aliens."
+  }
+ ],
+ "v249": [
+  {
+   "ja": "先生[せんせい]の{お宅[たく]}はどこにありますか。",
+   "en": "Where is your teacher's house?"
+  },
+  {
+   "ja": "今度[こんど]、{お宅[たく]}に伺[うかが]ってもよろしいですか。",
+   "en": "May I visit your home sometime?"
+  }
+ ],
+ "v257": [
+  {
+   "ja": "変[へん]な{音[おと]}が聞[き]こえます。",
+   "en": "I hear a strange sound."
+  },
+  {
+   "ja": "夜[よる]は{音[おと]}を小[ちい]さくしてください。",
+   "en": "Please turn the sound down at night."
+  }
+ ],
+ "v272": [
+  {
+   "ja": "朝[あさ]ご飯[はん]に{おにぎり}を二[ふた]つ食[た]べました。",
+   "en": "I ate two rice balls for breakfast."
+  },
+  {
+   "ja": "コンビニで{おにぎり}を買[か]って、公園[こうえん]で食[た]べました。",
+   "en": "I bought a rice ball at the convenience store and ate it in the park."
+  }
+ ],
+ "v292": [
+  {
+   "ja": "このかばんは{重[おも]い}ですね。",
+   "en": "This bag is heavy, isn't it?"
+  },
+  {
+   "ja": "田中[たなか]さんの病気[びょうき]は{重[おも]くない}そうです。",
+   "en": "I heard that Mr. Tanaka's illness is not serious."
+  }
+ ],
+ "v308": [
+  {
+   "ja": "今[いま]、部長[ぶちょう]は会議室[かいぎしつ]に{おります}。",
+   "en": "The department head is in the meeting room now."
+  },
+  {
+   "ja": "「山田[やまだ]さんはいますか。」「いいえ、今日[きょう]は{おりません}。」",
+   "en": "\"Is Mr. Yamada in?\" \"No, he is not here today.\""
+  }
+ ],
+ "v321": [
+  {
+   "ja": "事務所[じむしょ]は{三階[さんがい]}にあります。",
+   "en": "The office is on the third floor."
+  },
+  {
+   "ja": "私[わたし]の部屋[へや]は{五階[ごかい]}です。",
+   "en": "My room is on the fifth floor."
+  }
+ ],
+ "v340": [
+  {
+   "ja": "{係[かかり]の者[もの]}がすぐ参[まい]ります。",
+   "en": "Our person in charge will come right away."
+  },
+  {
+   "ja": "詳[くわ]しいことは、{係[かかり]の者[もの]}にお聞[き]きください。",
+   "en": "Please ask our person in charge for the details."
+  }
+ ],
+ "v360": [
+  {
+   "ja": "「コーヒーをお願[ねが]いします。」「{かしこまりました}。」",
+   "en": "\"Coffee, please.\" \"Certainly.\""
+  },
+  {
+   "ja": "あしたの七時[しちじ]に予約[よやく]をお願[ねが]いします。――{かしこまりました}。",
+   "en": "Please make a reservation for seven tomorrow. -- Certainly."
+  }
+ ],
+ "v383": [
+  {
+   "ja": "次[つぎ]の{角[かど]}を右[みぎ]に曲[ま]がってください。",
+   "en": "Please turn right at the next corner."
+  },
+  {
+   "ja": "銀行[ぎんこう]は、あの{角[かど]}にあります。",
+   "en": "The bank is at that corner."
+  }
+ ],
+ "v416": [
+  {
+   "ja": "この新[あたら]しいパソコンは{軽[かる]い}です。",
+   "en": "This new computer is light."
+  },
+  {
+   "ja": "旅行[りょこう]には{軽[かる]い}かばんがいいです。",
+   "en": "A light bag is best for traveling."
+  }
+ ],
+ "v447": [
+  {
+   "ja": "隣[となり]の部屋[へや]から音楽[おんがく]が{聞[き]こえます}。",
+   "en": "I can hear music from the next room."
+  },
+  {
+   "ja": "声[こえ]が小[ちい]さくて、よく{聞[き]こえませんでした}。",
+   "en": "The voice was quiet, so I couldn't hear well."
+  }
+ ],
+ "v571": [
+  {
+   "ja": "小[ちい]さかったので、シャツを{交換[こうかん]しました}。",
+   "en": "It was too small, so I exchanged the shirt."
+  },
+  {
+   "ja": "友達[ともだち]と連絡先[れんらくさき]を{交換[こうかん]します}。",
+   "en": "I will exchange contact information with my friend."
+  }
+ ],
+ "v595": [
+  {
+   "ja": "「トイレはどこですか。」「あちらに{ございます}。」",
+   "en": "\"Where is the restroom?\" \"It is over there.\""
+  },
+  {
+   "ja": "何[なに]か質問[しつもん]は{ございます}か。",
+   "en": "Do you have any questions?"
+  }
+ ],
+ "v667": [
+  {
+   "ja": "先生[せんせい]にお土産[みやげ]を{差[さ]し上[あ]げました}。",
+   "en": "I gave a souvenir to my teacher."
+  },
+  {
+   "ja": "社長[しゃちょう]にカードを{差[さ]し上[あ]げる}つもりです。",
+   "en": "I plan to give a card to the company president."
+  }
+ ],
+ "v701": [
+  {
+   "ja": "先生[せんせい]の{字[じ]}はとてもきれいです。",
+   "en": "My teacher's handwriting is very beautiful."
+  },
+  {
+   "ja": "この{字[じ]}は何[なん]と読[よ]みますか。",
+   "en": "How do you read this character?"
+  }
+ ],
+ "v732": [
+  {
+   "ja": "遅[おそ]くなって、{失礼[しつれい]しました}。",
+   "en": "I'm sorry for being late."
+  },
+  {
+   "ja": "「田中[たなか]さんのお宅[たく]ですか。」「いいえ、違[ちが]います。」「{失礼[しつれい]しました}。」",
+   "en": "\"Is this the Tanaka residence?\" \"No, it isn't.\" \"I'm very sorry.\""
+  }
+ ],
+ "v735": [
+  {
+   "ja": "兄[あに]は大阪[おおさか]の{支店[してん]}で働[はたら]いています。",
+   "en": "My older brother works at the Osaka branch office."
+  },
+  {
+   "ja": "この銀行[ぎんこう]の{支店[してん]}は駅[えき]の近[ちか]くにあります。",
+   "en": "This bank's branch is near the station."
+  }
+ ],
+ "v800": [
+  {
+   "ja": "私[わたし]の{趣味[しゅみ]}は写真[しゃしん]をとることです。",
+   "en": "My hobby is taking photos."
+  },
+  {
+   "ja": "「{趣味[しゅみ]}は何[なん]ですか。」「料理[りょうり]です。」",
+   "en": "\"What is your hobby?\" \"Cooking.\""
+  }
+ ],
+ "v812": [
+  {
+   "ja": "日本語[にほんご]の{小説[しょうせつ]}を読[よ]んでみたいです。",
+   "en": "I want to try reading a novel in Japanese."
+  },
+  {
+   "ja": "昨日[きのう]、おもしろい{小説[しょうせつ]}を買[か]いました。",
+   "en": "Yesterday I bought an interesting novel."
+  }
+ ],
+ "v836": [
+  {
+   "ja": "{信号[しんごう]}が赤[あか]いときは、止[と]まってください。",
+   "en": "Please stop when the traffic light is red."
+  },
+  {
+   "ja": "あの{信号[しんごう]}を左[ひだり]に曲[ま]がると、駅[えき]です。",
+   "en": "If you turn left at that traffic light, you will find the station."
+  }
+ ],
+ "v869": [
+  {
+   "ja": "新[あたら]しい{スニーカー}を買[か]いました。",
+   "en": "I bought new sneakers."
+  },
+  {
+   "ja": "歩[ある]くので、{スニーカー}をはいて来[き]てください。",
+   "en": "We will walk, so please come wearing sneakers."
+  }
+ ],
+ "v886": [
+  {
+   "ja": "日本[にほん]で一年[いちねん]{生活[せいかつ]しました}。",
+   "en": "I lived in Japan for a year."
+  },
+  {
+   "ja": "一人[ひとり]で{生活[せいかつ]する}のは大変[たいへん]です。",
+   "en": "Living alone is hard."
+  }
+ ],
+ "v915": [
+  {
+   "ja": "暑[あつ]いので、{扇子[せんす]}を使[つか]います。",
+   "en": "It's hot, so I use a hand fan."
+  },
+  {
+   "ja": "京都[きょうと]で{扇子[せんす]}を買[か]いました。",
+   "en": "I bought a hand fan in Kyoto."
+  }
+ ],
+ "v1065": [
+  {
+   "ja": "今夜[こんや]は{月[つき]}がきれいですね。",
+   "en": "The moon is beautiful tonight, isn't it?"
+  },
+  {
+   "ja": "{月[つき]}を見[み]ながらお茶[ちゃ]を飲[の]みました。",
+   "en": "I drank tea while looking at the moon."
+  }
+ ],
+ "v1076": [
+  {
+   "ja": "田中[たなか]さんにこのことを{伝[つた]えて}ください。",
+   "en": "Please convey this to Mr. Tanaka."
+  },
+  {
+   "ja": "先生[せんせい]に、あしたは休[やす]むと{伝[つた]えました}。",
+   "en": "I told my teacher that I would be absent tomorrow."
+  }
+ ],
+ "v1078": [
+  {
+   "ja": "毎日[まいにち]日本語[にほんご]の勉強[べんきょう]を{続[つづ]けます}。",
+   "en": "I will continue studying Japanese every day."
+  },
+  {
+   "ja": "雨[あめ]が降[ふ]っても、走[はし]り{続[つづ]けました}。",
+   "en": "Even though it rained, I kept running."
+  }
+ ],
+ "v1094": [
+  {
+   "ja": "部長[ぶちょう]は今[いま]電話[でんわ]をし{ております}。",
+   "en": "The department head is on the phone now."
+  },
+  {
+   "ja": "今[いま]、東京[とうきょう]に住[す]ん{でおります}。",
+   "en": "I am living in Tokyo now."
+  }
+ ],
+ "v1099": [
+  {
+   "ja": "{できれば}、あしたまでにお返事[へんじ]をください。",
+   "en": "If possible, please reply by tomorrow."
+  },
+  {
+   "ja": "{できれば}、窓[まど]のそばの席[せき]がいいです。",
+   "en": "If possible, I'd like a seat by the window."
+  }
+ ],
+ "v1101": [
+  {
+   "ja": "はい、日本[にほん]商事[しょうじ]{でございます}。",
+   "en": "Hello, this is Nihon Shoji."
+  },
+  {
+   "ja": "こちらが新[あたら]しいメニュー{でございます}。",
+   "en": "This is our new menu."
+  }
+ ],
+ "v1109": [
+  {
+   "ja": "{では}、またあした会[あ]いましょう。",
+   "en": "Well then, let's meet again tomorrow."
+  },
+  {
+   "ja": "{では}、始[はじ]めましょうか。",
+   "en": "Well then, shall we begin?"
+  }
+ ],
+ "v1137": [
+  {
+   "ja": "来年[らいねん]、{ドイツ}へ旅行[りょこう]するつもりです。",
+   "en": "I plan to travel to Germany next year."
+  },
+  {
+   "ja": "友達[ともだち]は{ドイツ}から来[き]ました。",
+   "en": "My friend came from Germany."
+  }
+ ],
+ "v1148": [
+  {
+   "ja": "どんな{動物[どうぶつ]}が好[す]きですか。",
+   "en": "What kind of animal do you like?"
+  },
+  {
+   "ja": "動物園[どうぶつえん]で、いろいろな{動物[どうぶつ]}を見[み]ました。",
+   "en": "I saw various animals at the zoo."
+  }
+ ],
+ "v1425": [
+  {
+   "ja": "昨日[きのう]、{不思議[ふしぎ]な}夢[ゆめ]を見[み]ました。",
+   "en": "I had a mysterious dream yesterday."
+  },
+  {
+   "ja": "この話[はなし]は{不思議[ふしぎ]}ですね。",
+   "en": "This story is mysterious, isn't it?"
+  }
+ ],
+ "v1468": [
+  {
+   "ja": "電車[でんしゃ]の中[なか]で{ヘッドホン}をして音楽[おんがく]を聞[き]きます。",
+   "en": "I listen to music with headphones on the train."
+  },
+  {
+   "ja": "{ヘッドホン}を忘[わす]れたので、取[と]りに帰[かえ]ります。",
+   "en": "I forgot my headphones, so I'm going back to get them."
+  }
+ ],
+ "v1479": [
+  {
+   "ja": "大[おお]きすぎたので、くつを{返品[へんぴん]しました}。",
+   "en": "The shoes were too big, so I returned them."
+  },
+  {
+   "ja": "買[か]った物[もの]を{返品[へんぴん]したい}のですが。",
+   "en": "I would like to return what I bought."
+  }
+ ],
+ "v1522": [
+  {
+   "ja": "駅[えき]に着[つ]いたらお電話[でんわ]ください。すぐ{参[まい]ります}。",
+   "en": "Please call me when you arrive at the station. I will come right away."
+  },
+  {
+   "ja": "来週[らいしゅう]、京都[きょうと]へ{参[まい]ります}。",
+   "en": "I will go to Kyoto next week."
+  }
+ ],
+ "v1525": [
+  {
+   "ja": "次[つぎ]の信号[しんごう]を右[みぎ]に{曲[ま]がって}ください。",
+   "en": "Please turn right at the next traffic light."
+  },
+  {
+   "ja": "郵便局[ゆうびんきょく]の前[まえ]を左[ひだり]に{曲[ま]がる}と、銀行[ぎんこう]があります。",
+   "en": "If you turn left at the post office, there is a bank."
+  }
+ ],
+ "v1527": [
+  {
+   "ja": "{誠[まこと]に}申[もう]し訳[わけ]ありません。",
+   "en": "I am truly sorry."
+  },
+  {
+   "ja": "{誠[まこと]に}ありがとうございました。",
+   "en": "Thank you very much indeed."
+  }
+ ],
+ "v1531": [
+  {
+   "ja": "{また}来[き]てくださいね。",
+   "en": "Please come again."
+  },
+  {
+   "ja": "昨日[きのう]もカレーを食[た]べたのに、今日[きょう]も{また}カレーを食[た]べました。",
+   "en": "I ate curry yesterday, but I ate curry again today."
+  }
+ ],
+ "v1535": [
+  {
+   "ja": "お{待[ま]たせ}しました。",
+   "en": "Sorry to have kept you waiting."
+  },
+  {
+   "ja": "友達[ともだち]を一時間[いちじかん]も{待[ま]たせて}しまいました。",
+   "en": "I ended up keeping my friend waiting for a whole hour."
+  }
+ ],
+ "v1568": [
+  {
+   "ja": "私[わたし]も田中[たなか]さん{みたいな}先生[せんせい]になりたいです。",
+   "en": "I want to become a teacher like Ms. Tanaka too."
+  },
+  {
+   "ja": "雪[ゆき]{みたいな}白[しろ]いシャツがほしいです。",
+   "en": "I want a white shirt like snow."
+  }
+ ],
+ "v1627": [
+  {
+   "ja": "初[はじ]めまして。田中[たなか]と{申[もう]します}。",
+   "en": "Nice to meet you. My name is Tanaka."
+  },
+  {
+   "ja": "山田[やまだ]と{申[もう]します}が、鈴木[すずき]さんはいらっしゃいますか。",
+   "en": "My name is Yamada. Is Mr. Suzuki in?"
+  }
+ ],
+ "v1651": [
+  {
+   "ja": "駅[えき]の前[まえ]にパン{屋[や]}があります。",
+   "en": "There is a bakery in front of the station."
+  },
+  {
+   "ja": "花[はな]{屋[や]}でバラを買[か]いました。",
+   "en": "I bought roses at the flower shop."
+  }
+ ],
+ "v1713": [
+  {
+   "ja": "{よろしかったら}、こちらにお座[すわ]りください。",
+   "en": "If it's all right with you, please sit here."
+  },
+  {
+   "ja": "{よろしかったら}、一緒[いっしょ]に行[い]きませんか。",
+   "en": "If it's okay with you, won't you go together with me?"
+  }
+ ],
+ "v77": [
+  {
+   "ja": "{あんなに}食[た]べたのに、まだおなかがすいています。",
+   "en": "Even though I ate that much, I'm still hungry."
+  },
+  {
+   "ja": "昨日[きのう]は{あんなに}暑[あつ]かったのに、今日[きょう]は寒[さむ]いです。",
+   "en": "Yesterday was so hot, but today is cold."
+  }
+ ],
+ "v132": [
+  {
+   "ja": "夏休[なつやす]みに{いなか}のおじいさんの家[いえ]へ行[い]きます。",
+   "en": "I will go to my grandfather's house in the countryside during summer vacation."
+  },
+  {
+   "ja": "{いなか}は静[しず]かで、空気[くうき]がきれいです。",
+   "en": "The countryside is quiet and the air is clean."
+  }
+ ],
+ "v175": [
+  {
+   "ja": "この本[ほん]はよく{売[う]れて}います。",
+   "en": "This book is selling well."
+  },
+  {
+   "ja": "新[あたら]しい車[くるま]は全然[ぜんぜん]{売[う]れませんでした}。",
+   "en": "The new car didn't sell at all."
+  }
+ ],
+ "v190": [
+  {
+   "ja": "毎日[まいにち]、犬[いぬ]に{えさ}をやります。",
+   "en": "I give my dog food every day."
+  },
+  {
+   "ja": "鳥[とり]の{えさ}を買[か]いに行[い]きました。",
+   "en": "I went to buy bird feed."
+  }
+ ],
+ "v193": [
+  {
+   "ja": "東京[とうきょう]は昔[むかし]、{江戸[えど]}と呼[よ]ばれていました。",
+   "en": "Tokyo used to be called Edo."
+  },
+  {
+   "ja": "{江戸[えど]}の町[まち]について勉強[べんきょう]しました。",
+   "en": "I studied about the town of Edo."
+  }
+ ],
+ "v194": [
+  {
+   "ja": "{江戸時代[えどじだい]}の人[ひと]は着物[きもの]を着[き]ていました。",
+   "en": "People in the Edo period wore kimono."
+  },
+  {
+   "ja": "{江戸時代[えどじだい]}の話[はなし]の映画[えいが]を見[み]ました。",
+   "en": "I watched a movie about the Edo period."
+  }
+ ],
+ "v375": [
+  {
+   "ja": "試合[しあい]に負[ま]けて、{がっかりしました}。",
+   "en": "I lost the match and was disappointed."
+  },
+  {
+   "ja": "試験[しけん]の点[てん]が悪[わる]くて、{がっかりして}います。",
+   "en": "My test score was bad, so I'm disappointed."
+  }
+ ],
+ "v594": [
+  {
+   "ja": "彼女[かのじょ]は{心[こころ]}がやさしい人[ひと]です。",
+   "en": "She is a kind-hearted person."
+  },
+  {
+   "ja": "{心[こころ]}をこめて手紙[てがみ]を書[か]きました。",
+   "en": "I wrote the letter with all my heart."
+  }
+ ],
+ "v878": [
+  {
+   "ja": "このかばんは三万円[さんまんえん]も{します}。",
+   "en": "This bag costs as much as 30,000 yen."
+  },
+  {
+   "ja": "東京[とうきょう]のホテルは高[たか]くて、一晩[ひとばん]二万円[にまんえん]{しました}。",
+   "en": "The hotel in Tokyo was expensive; it cost 20,000 yen a night."
+  }
+ ],
+ "v904": [
+  {
+   "ja": "{絶対[ぜったい]に}遅[おく]れないでください。",
+   "en": "Please absolutely do not be late."
+  },
+  {
+   "ja": "私[わたし]は{絶対[ぜったい]に}あきらめません。",
+   "en": "I will never give up, no matter what."
+  }
+ ],
+ "v927": [
+  {
+   "ja": "{そうだ！}みんなでパーティーをしよう。",
+   "en": "I have an idea! Let's have a party all together."
+  },
+  {
+   "ja": "{そうだ！}田中[たなか]さんに聞[き]いてみよう。",
+   "en": "I know! Let's ask Mr. Tanaka."
+  }
+ ],
+ "v980": [
+  {
+   "ja": "母[はは]は赤[あか]ちゃんを{抱[だ]いて}います。",
+   "en": "My mother is holding a baby."
+  },
+  {
+   "ja": "猫[ねこ]を{抱[だ]く}と、あたたかいです。",
+   "en": "When you hold a cat, it is warm."
+  }
+ ],
+ "v1010": [
+  {
+   "ja": "キツネは人[ひと]を{だます}と言[い]われています。",
+   "en": "It is said that foxes deceive people."
+  },
+  {
+   "ja": "彼[かれ]は私[わたし]を{だまして}、お金[かね]を取[と]りました。",
+   "en": "He deceived me and took my money."
+  }
+ ],
+ "v1042": [
+  {
+   "ja": "散歩[さんぽ]のあとで、{茶店[ちゃみせ]}でお茶[ちゃ]を飲[の]みました。",
+   "en": "After the walk, I drank tea at a teahouse."
+  },
+  {
+   "ja": "江戸時代[えどじだい]の{茶店[ちゃみせ]}は、旅[たび]をする人[ひと]が休[やす]む所[ところ]でした。",
+   "en": "Teahouses in the Edo period were places where travelers rested."
+  }
+ ],
+ "v1184": [
+  {
+   "ja": "電車[でんしゃ]が急[きゅう]に{止[と]まりました}。",
+   "en": "The train suddenly stopped."
+  },
+  {
+   "ja": "赤[あか]い信号[しんごう]では、車[くるま]は{止[と]まらなければ}なりません。",
+   "en": "Cars must stop at a red light."
+  }
+ ],
+ "v1242": [
+  {
+   "ja": "赤[あか]ちゃんが{にこにこして}います。",
+   "en": "The baby is smiling."
+  },
+  {
+   "ja": "先生[せんせい]はいつも{にこにこしながら}話[はな]します。",
+   "en": "My teacher always talks while smiling."
+  }
+ ],
+ "v1273": [
+  {
+   "ja": "この靴[くつ]の{値段[ねだん]}はいくらですか。",
+   "en": "How much is the price of these shoes?"
+  },
+  {
+   "ja": "{値段[ねだん]}が高[たか]すぎて、買[か]えませんでした。",
+   "en": "The price was too high, so I couldn't buy it."
+  }
+ ],
+ "v1389": [
+  {
+   "ja": "猫[ねこ]がソファーを{ひっかいて}います。",
+   "en": "The cat is scratching the sofa."
+  },
+  {
+   "ja": "子猫[こねこ]が私[わたし]の手[て]を{ひっかきました}。",
+   "en": "A kitten scratched my hand."
+  }
+ ],
+ "v1581": [
+  {
+   "ja": "日本語[にほんご]がわからなかったので、{身[み]ぶり}で説明[せつめい]しました。",
+   "en": "I couldn't understand Japanese, so I explained with gestures."
+  },
+  {
+   "ja": "落語家[らくごか]は{身[み]ぶり}を使[つか]って話[はな]します。",
+   "en": "Comic storytellers talk using gestures."
+  }
+ ],
+ "v1666": [
+  {
+   "ja": "{やった！}テストに合格[ごうかく]した！",
+   "en": "I did it! I passed the test!"
+  },
+  {
+   "ja": "{やった！}あしたは休[やす]みだ！",
+   "en": "Yay! Tomorrow is a day off!"
+  }
+ ],
+ "v1723": [
+  {
+   "ja": "日本[にほん]で{落語[らくご]}を聞[き]いてみたいです。",
+   "en": "I want to try listening to rakugo in Japan."
+  },
+  {
+   "ja": "{落語[らくご]}はおもしろいですが、日本語[にほんご]が難[むずか]しいです。",
+   "en": "Rakugo is interesting, but the Japanese is difficult."
+  }
+ ],
+ "v1724": [
+  {
+   "ja": "弟[おとうと]は{落語家[らくごか]}になりたいと言[い]っています。",
+   "en": "My younger brother says he wants to become a rakugo storyteller."
+  },
+  {
+   "ja": "あの{落語家[らくごか]}はとても有名[ゆうめい]です。",
+   "en": "That rakugo storyteller is very famous."
+  }
+ ],
+ "v1730": [
+  {
+   "ja": "江戸時代[えどじだい]、この着物[きもの]は{十両[じゅうりょう]}でした。",
+   "en": "In the Edo period, this kimono cost ten ryo."
+  },
+  {
+   "ja": "昔[むかし]の人[ひと]は{一両[いちりょう]}でお米[こめ]を買[か]いました。",
+   "en": "People of the old days bought rice with one ryo."
+  }
+ ],
+ "v1768": [
+  {
+   "ja": "先生[せんせい]に宿題[しゅくだい]を{渡[わた]しました}。",
+   "en": "I handed my homework to the teacher."
+  },
+  {
+   "ja": "この手紙[てがみ]を田中[たなか]さんに{渡[わた]して}くれませんか。",
+   "en": "Could you hand this letter to Mr. Tanaka?"
+  }
+ ]
+}

@@ -1,0 +1,576 @@
+{
+ "v35": [
+  "that way",
+  "over there (polite)",
+  "that (polite)",
+  "there (polite)",
+  "that person (polite)",
+  "there",
+  "over there"
+ ],
+ "v46": [
+  "anime",
+  "cartoon",
+  "animated film",
+  "animated cartoon"
+ ],
+ "v100": [
+  "to do (humble)",
+  "to do",
+  "humble do",
+  "to do (extra-modest)",
+  "to do (modest)"
+ ],
+ "v102": [
+  "to eat (humble)",
+  "to drink (humble)",
+  "to eat",
+  "to drink",
+  "to eat or drink (humble)",
+  "humble eat",
+  "humble drink",
+  "to have (humble)"
+ ],
+ "v103": [
+  "to receive (humble)",
+  "to receive",
+  "to get (humble)",
+  "to get",
+  "humble receive",
+  "to receive (modest)"
+ ],
+ "v121": [
+  "ground floor",
+  "first floor",
+  "1st floor",
+  "1F"
+ ],
+ "v153": [
+  "to visit (humble)",
+  "to ask (humble)",
+  "to visit",
+  "to ask",
+  "humble visit",
+  "humble ask",
+  "to inquire",
+  "to call on"
+ ],
+ "v162": [
+  "alien",
+  "space alien",
+  "extraterrestrial",
+  "ET"
+ ],
+ "v249": [
+  "house",
+  "home",
+  "someone's home",
+  "someone's house",
+  "your home",
+  "your house"
+ ],
+ "v272": [
+  "onigiri",
+  "riceball",
+  "rice-ball"
+ ],
+ "v292": [
+  "heavy",
+  "serious",
+  "serious illness",
+  "grave",
+  "severe",
+  "heavy (weight)"
+ ],
+ "v308": [
+  "to be (humble)",
+  "to be",
+  "to exist (humble)",
+  "to be (modest)",
+  "humble be",
+  "is (humble)",
+  "to be (extra-modest)",
+  "to stay (humble)"
+ ],
+ "v321": [
+  "floor",
+  "th floor",
+  "story",
+  "nth floor",
+  "storey",
+  "counter for floors"
+ ],
+ "v340": [
+  "person in charge",
+  "our person in charge",
+  "the person in charge",
+  "responsible person",
+  "person responsible",
+  "staff in charge"
+ ],
+ "v360": [
+  "certainly",
+  "understood",
+  "very well",
+  "of course",
+  "I understand"
+ ],
+ "v383": [
+  "corner",
+  "street corner"
+ ],
+ "v416": [
+  "lightweight",
+  "not heavy",
+  "light weight"
+ ],
+ "v447": [
+  "audible",
+  "can be heard",
+  "to be heard",
+  "to be able to hear",
+  "can hear"
+ ],
+ "v571": [
+  "to swap",
+  "to trade",
+  "to switch"
+ ],
+ "v595": [
+  "to be (humble)",
+  "there is (humble)",
+  "to exist",
+  "to exist (humble)",
+  "to have (humble)",
+  "to have",
+  "is (humble)",
+  "there is"
+ ],
+ "v667": [
+  "to give (humble)",
+  "to give",
+  "humble give",
+  "to offer (humble)",
+  "to offer",
+  "to give (modest)"
+ ],
+ "v701": [
+  "character",
+  "kanji character",
+  "written character",
+  "symbol"
+ ],
+ "v732": [
+  "I'm sorry",
+  "sorry",
+  "I apologize",
+  "apologies",
+  "I'm very sorry",
+  "I'm terribly sorry",
+  "my apologies",
+  "I was rude"
+ ],
+ "v735": [
+  "branch",
+  "branch office",
+  "branch store",
+  "branch shop"
+ ],
+ "v800": [
+  "hobby",
+  "pastime",
+  "interest",
+  "pursuit"
+ ],
+ "v812": [
+  "novel",
+  "fiction"
+ ],
+ "v836": [
+  "traffic light",
+  "traffic signal",
+  "stoplight",
+  "signal",
+  "traffic lights",
+  "stop light"
+ ],
+ "v869": [
+  "sneakers",
+  "trainers",
+  "running shoes",
+  "athletic shoes",
+  "tennis shoes",
+  "sports shoes",
+  "sneaker"
+ ],
+ "v886": [
+  "to live",
+  "to live a life",
+  "to lead a life",
+  "to make a living",
+  "to live one's life"
+ ],
+ "v915": [
+  "fan",
+  "hand fan",
+  "folding fan",
+  "handheld fan",
+  "paper fan"
+ ],
+ "v1065": [
+  "the moon"
+ ],
+ "v1076": [
+  "to convey",
+  "to tell",
+  "to pass on",
+  "to communicate",
+  "to relay",
+  "to transmit",
+  "to deliver a message",
+  "to pass on a message"
+ ],
+ "v1078": [
+  "to keep up",
+  "to keep on",
+  "to go on",
+  "to carry on",
+  "to keep doing"
+ ],
+ "v1094": [
+  "to be doing (humble)",
+  "is doing (humble)",
+  "humble ている",
+  "humble teiru",
+  "to be (humble)",
+  "is (humble)",
+  "humble being",
+  "to be doing (modest)"
+ ],
+ "v1099": [
+  "if possible",
+  "if you can",
+  "if it's possible",
+  "if you could",
+  "if feasible",
+  "if at all possible"
+ ],
+ "v1101": [
+  "to be (humble)",
+  "is (humble)",
+  "am (humble)",
+  "are (humble)",
+  "humble です",
+  "humble desu",
+  "humble is",
+  "to be (extra-modest)"
+ ],
+ "v1109": [
+  "well then",
+  "then",
+  "so",
+  "well",
+  "now then",
+  "in that case",
+  "if so"
+ ],
+ "v1137": [
+  "Deutschland"
+ ],
+ "v1425": [
+  "mysterious",
+  "strange",
+  "mystery",
+  "curious",
+  "odd",
+  "puzzling"
+ ],
+ "v1468": [
+  "headphones",
+  "headset",
+  "headphone"
+ ],
+ "v1479": [
+  "to return",
+  "to return goods",
+  "to return merchandise",
+  "to send back",
+  "to return an item",
+  "to return a product",
+  "to take back"
+ ],
+ "v1522": [
+  "to go (humble)",
+  "to come (humble)",
+  "to go",
+  "to come",
+  "humble go",
+  "humble come",
+  "to go or come (humble)",
+  "to go (modest)"
+ ],
+ "v1525": [
+  "to turn",
+  "to bend",
+  "to curve",
+  "to make a turn",
+  "to turn right",
+  "to turn left",
+  "to turn a corner"
+ ],
+ "v1527": [
+  "really",
+  "truly",
+  "very",
+  "extremely",
+  "very much",
+  "indeed",
+  "sincerely",
+  "genuinely"
+ ],
+ "v1531": [
+  "once more",
+  "once again"
+ ],
+ "v1535": [
+  "to keep waiting",
+  "to make wait",
+  "to make someone wait",
+  "to keep someone waiting",
+  "to make (someone) wait",
+  "to let someone wait"
+ ],
+ "v1568": [
+  "like",
+  "X like",
+  "such as",
+  "like X",
+  "something like",
+  "like ...",
+  "similar to",
+  "something like X"
+ ],
+ "v1627": [
+  "to say (humble)",
+  "to say",
+  "to be called",
+  "to be named",
+  "humble say",
+  "to say (modest)",
+  "to tell (humble)",
+  "to be called (humble)"
+ ],
+ "v1651": [
+  "shop",
+  "store",
+  "ya",
+  "seller",
+  "dealer",
+  "merchant",
+  "vendor",
+  "shopkeeper"
+ ],
+ "v1713": [
+  "if it's okay",
+  "if it is okay",
+  "if you don't mind",
+  "if that is okay",
+  "if it's all right",
+  "if that's okay",
+  "if it is all right",
+  "if you like"
+ ],
+ "v77": [
+  "so much",
+  "such",
+  "so",
+  "that much",
+  "that way",
+  "like that",
+  "to that extent",
+  "that kind of"
+ ],
+ "v132": [
+  "rural area",
+  "country",
+  "rural",
+  "the country",
+  "the provinces"
+ ],
+ "v175": [
+  "to sell well",
+  "to be in demand",
+  "to be selling",
+  "to be popular",
+  "to be sold well",
+  "be sold"
+ ],
+ "v190": [
+  "food",
+  "animal feed",
+  "bait",
+  "fodder",
+  "pet food",
+  "animal food"
+ ],
+ "v193": [
+  "Edo",
+  "old Tokyo",
+  "former Tokyo",
+  "old name of Tokyo",
+  "former name for Tokyo",
+  "Tokyo's old name",
+  "Tokyo's former name",
+  "old name for Tokyo"
+ ],
+ "v194": [
+  "Edo era",
+  "Tokugawa period",
+  "Edo",
+  "Tokugawa era",
+  "the Edo period"
+ ],
+ "v375": [
+  "disappointed",
+  "to be let down",
+  "to feel disappointed",
+  "to be discouraged",
+  "to feel let down",
+  "to lose heart",
+  "to be dismayed",
+  "to be dispirited"
+ ],
+ "v594": [
+  "spirit",
+  "soul",
+  "feelings",
+  "emotion",
+  "the heart"
+ ],
+ "v878": [
+  "to be worth",
+  "to be priced at",
+  "to sell for",
+  "to run at",
+  "to amount to"
+ ],
+ "v904": [
+  "absolutely",
+  "by all means",
+  "no matter what",
+  "without fail",
+  "at all costs",
+  "for sure"
+ ],
+ "v927": [
+  "I have an idea",
+  "I've got an idea",
+  "I got an idea",
+  "aha",
+  "I got it",
+  "I've got it",
+  "idea!",
+  "here's an idea"
+ ],
+ "v980": [
+  "to hold",
+  "to hug",
+  "to embrace",
+  "to hold in one's arms",
+  "to hold in arms",
+  "to cuddle",
+  "to cradle"
+ ],
+ "v1010": [
+  "to trick",
+  "to fool",
+  "to cheat",
+  "to swindle",
+  "to con",
+  "to dupe",
+  "to mislead"
+ ],
+ "v1042": [
+  "tea house",
+  "tea shop",
+  "tea stall",
+  "tea room",
+  "teashop",
+  "tearoom",
+  "tea-house"
+ ],
+ "v1184": [
+  "to halt",
+  "to come to a stop",
+  "to come to a halt",
+  "to be stopped",
+  "to pull up"
+ ],
+ "v1242": [
+  "to grin",
+  "to beam",
+  "to smile happily",
+  "to smile broadly",
+  "to smile cheerfully",
+  "to be smiling",
+  "to be all smiles"
+ ],
+ "v1273": [
+  "cost",
+  "charge",
+  "rate"
+ ],
+ "v1389": [
+  "to claw",
+  "to scrape",
+  "to scratch at"
+ ],
+ "v1581": [
+  "body language",
+  "gestures",
+  "gesticulation",
+  "body movements",
+  "hand movement",
+  "gesturing"
+ ],
+ "v1666": [
+  "I did it",
+  "hooray",
+  "yay",
+  "I made it",
+  "I've done it",
+  "I got it",
+  "yippee"
+ ],
+ "v1723": [
+  "rakugo",
+  "comic storytelling",
+  "comic monologue",
+  "traditional comic storytelling",
+  "comic story"
+ ],
+ "v1724": [
+  "rakugo performer",
+  "comic storyteller",
+  "rakugo storyteller",
+  "storyteller",
+  "rakugoka",
+  "rakugo comedian"
+ ],
+ "v1730": [
+  "ryo",
+  "Edo currency",
+  "old Japanese currency",
+  "Edo period currency",
+  "Edo period money",
+  "old coin",
+  "unit of currency",
+  "currency unit"
+ ],
+ "v1768": [
+  "to hand over",
+  "to hand",
+  "to pass",
+  "to hand in"
+ ]
+}

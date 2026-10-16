@@ -1,0 +1,695 @@
+{
+ "v13": [
+  "infant",
+  "newborn",
+  "babies"
+ ],
+ "v51": [
+  "risky",
+  "hazardous",
+  "perilous",
+  "unsafe",
+  "look out",
+  "watch out"
+ ],
+ "v144": [
+  "make tea",
+  "make coffee",
+  "brew",
+  "brew tea",
+  "brew coffee",
+  "prepare tea",
+  "prepare coffee",
+  "make a drink",
+  "pour tea",
+  "make some tea",
+  "make some coffee"
+ ],
+ "v170": [
+  "jealous",
+  "envy",
+  "to envy",
+  "i envy",
+  "i'm jealous",
+  "i am jealous",
+  "enviable"
+ ],
+ "v196": [
+  "pick",
+  "select",
+  "pick out",
+  "opt for",
+  "decide on",
+  "go for",
+  "settle on",
+  "single out",
+  "choose between",
+  "elect"
+ ],
+ "v203": [
+  "pray",
+  "say a prayer",
+  "prayer",
+  "offer prayers",
+  "pray for",
+  "say prayers",
+  "make a prayer"
+ ],
+ "v218": [
+  "customer",
+  "client",
+  "visitor",
+  "guest",
+  "guests",
+  "customers",
+  "clients",
+  "visitors",
+  "patron",
+  "caller",
+  "shopper"
+ ],
+ "v291": [
+  "congrats",
+  "congratulations",
+  "well done",
+  "good for you",
+  "way to go"
+ ],
+ "v303": [
+  "boiling water",
+  "boiled water",
+  "warm water",
+  "heated water"
+ ],
+ "v305": [
+  "boil water",
+  "heat water",
+  "boil the water",
+  "heat up water",
+  "bring water to a boil",
+  "make hot water",
+  "warm water",
+  "boil some water",
+  "heat the water",
+  "bring to a boil"
+ ],
+ "v342": [
+  "key",
+  "lock",
+  "keys",
+  "locks",
+  "padlock",
+  "door key",
+  "door lock"
+ ],
+ "v343": [
+  "lock",
+  "lock up",
+  "lock the door",
+  "lock a door",
+  "lock it",
+  "lock door",
+  "bolt the door",
+  "lock with a key",
+  "secure the door"
+ ],
+ "v352": [
+  "lock",
+  "lock up",
+  "lock the door",
+  "lock a door",
+  "lock it",
+  "lock door",
+  "bolt the door",
+  "lock with a key"
+ ],
+ "v358": [
+  "fire",
+  "blaze",
+  "conflagration",
+  "house fire",
+  "fires",
+  "building fire"
+ ],
+ "v384": [
+  "i wonder",
+  "wonder",
+  "i wonder if",
+  "i wonder whether",
+  "wondering",
+  "i'm wondering"
+ ],
+ "v402": [
+  "comb hair",
+  "comb your hair",
+  "comb",
+  "brush hair",
+  "brush one's hair",
+  "comb my hair"
+ ],
+ "v475": [
+  "pay",
+  "wage",
+  "wages",
+  "paycheck",
+  "pay check",
+  "earnings"
+ ],
+ "v546": [
+  "put on makeup",
+  "put on make-up",
+  "apply makeup",
+  "wear makeup",
+  "do makeup",
+  "do one's makeup",
+  "makeup",
+  "make up"
+ ],
+ "v642": [
+  "contact lens",
+  "contacts",
+  "contact",
+  "contact lenses",
+  "lenses"
+ ],
+ "v656": [
+  "worst",
+  "terrible",
+  "awful",
+  "horrible",
+  "very bad",
+  "dreadful"
+ ],
+ "v685": [
+  "office worker",
+  "salary man",
+  "white-collar worker",
+  "white collar worker",
+  "company employee",
+  "businessman",
+  "salaried worker",
+  "office employee"
+ ],
+ "v691": [
+  "overtime",
+  "working overtime",
+  "work overtime",
+  "extra work",
+  "working late",
+  "extra hours"
+ ],
+ "v741": [
+  "myself",
+  "yourself",
+  "self",
+  "himself",
+  "herself",
+  "one's self"
+ ],
+ "v771": [
+  "get a job",
+  "find a job",
+  "get employed",
+  "find employment",
+  "get hired",
+  "land a job",
+  "get a full time job",
+  "start working"
+ ],
+ "v793": [
+  "pm",
+  "premier"
+ ],
+ "v802": [
+  "preparations",
+  "prep",
+  "getting ready",
+  "arrangements"
+ ],
+ "v822": [
+  "mall",
+  "shopping center",
+  "shopping centre",
+  "shopping plaza"
+ ],
+ "v848": [
+  "quite",
+  "considerably",
+  "extremely",
+  "fairly",
+  "pretty",
+  "really",
+  "a lot",
+  "awfully",
+  "terribly",
+  "greatly"
+ ],
+ "v857": [
+  "few",
+  "little",
+  "not many",
+  "not much",
+  "scarce",
+  "small amount",
+  "small number"
+ ],
+ "v871": [
+  "spoons"
+ ],
+ "v881": [
+  "wear",
+  "put on",
+  "wear a tie",
+  "wear a watch",
+  "wear accessories"
+ ],
+ "v924": [
+  "i see",
+  "oh i see",
+  "ah i see",
+  "is that so",
+  "i get it",
+  "got it",
+  "okay i see"
+ ],
+ "v978": [
+  "lotto",
+  "lottery ticket",
+  "raffle",
+  "sweepstakes"
+ ],
+ "v979": [
+  "win the lottery",
+  "win lottery",
+  "win a lottery",
+  "hit the jackpot",
+  "win the lotto",
+  "win a raffle"
+ ],
+ "v1015": [
+  "suffice",
+  "be adequate",
+  "enough",
+  "sufficient",
+  "adequate",
+  "have enough"
+ ],
+ "v1028": [
+  "differences",
+  "gap",
+  "distinction",
+  "discrepancy"
+ ],
+ "v1075": [
+  "inconvenient",
+  "not convenient",
+  "bad timing",
+  "scheduling conflict",
+  "have a scheduling conflict",
+  "not available"
+ ],
+ "v1082": [
+  "powerful",
+  "tough",
+  "mighty",
+  "sturdy"
+ ],
+ "v1125": [
+  "microwave",
+  "microwave oven"
+ ],
+ "v1230": [
+  "get accustomed to",
+  "become accustomed to",
+  "become used to",
+  "be used to",
+  "get used to",
+  "adapt to"
+ ],
+ "v1240": [
+  "compared to",
+  "in comparison with",
+  "in comparison to",
+  "compared with"
+ ],
+ "v1261": [
+  "the news",
+  "news report"
+ ],
+ "v1262": [
+  "according to",
+  "as per"
+ ],
+ "v1268": [
+  "take off",
+  "remove",
+  "undress",
+  "take off clothes",
+  "take off clothing",
+  "remove clothes"
+ ],
+ "v1366": [
+  "pandas",
+  "giant panda"
+ ],
+ "v1373": [
+  "heating",
+  "space heater",
+  "heating unit"
+ ],
+ "v1380": [
+  "facial hair",
+  "whiskers",
+  "mustache",
+  "moustache"
+ ],
+ "v1381": [
+  "shave",
+  "shave beard",
+  "shave the beard",
+  "shave face",
+  "shave facial hair"
+ ],
+ "v1419": [
+  "boot",
+  "pair of boots"
+ ],
+ "v1523": [
+  "ago",
+  "previous",
+  "prior to",
+  "before",
+  "earlier"
+ ],
+ "v1668": [
+  "as expected",
+  "in the end",
+  "after all",
+  "as i thought",
+  "as i expected",
+  "just as expected",
+  "as one would expect"
+ ],
+ "v1674": [
+  "boiling water",
+  "warm water",
+  "hot water"
+ ],
+ "v1726": [
+  "divorce",
+  "get divorced",
+  "be divorced",
+  "split up"
+ ],
+ "v1731": [
+  "dorm",
+  "dormitories",
+  "dorms",
+  "student housing",
+  "residence hall",
+  "hall of residence"
+ ],
+ "v1738": [
+  "travel company",
+  "travel agent",
+  "travel bureau",
+  "travel agencies",
+  "tour company",
+  "tourist agency"
+ ],
+ "v353": [
+  "get a perm",
+  "have a perm",
+  "get permed",
+  "perm one's hair",
+  "get one's hair permed"
+ ],
+ "v380": [
+  "haircut",
+  "cut hair",
+  "trim",
+  "hair cut"
+ ],
+ "v400": [
+  "hair style",
+  "hairdo",
+  "hair-style",
+  "coiffure"
+ ],
+ "v408": [
+  "hair color",
+  "hair colour",
+  "hair dye",
+  "color",
+  "colour",
+  "dye"
+ ],
+ "v415": [
+  "cut short",
+  "trim",
+  "clip",
+  "shear",
+  "cut hair short"
+ ],
+ "v855": [
+  "thin hair",
+  "thin out hair",
+  "thin out",
+  "thin the hair",
+  "thinning"
+ ],
+ "v905": [
+  "styling",
+  "hair set",
+  "hair styling",
+  "set hair",
+  "hairset"
+ ],
+ "v942": [
+  "dye hair",
+  "color hair",
+  "colour hair",
+  "tint",
+  "color",
+  "colour"
+ ],
+ "v944": [
+  "shave off",
+  "shave face"
+ ],
+ "v950": [
+  "even out",
+  "trim hair",
+  "trim",
+  "even up",
+  "make even",
+  "tidy up hair"
+ ],
+ "v1300": [
+  "permanent",
+  "permanent wave",
+  "perm",
+  "hair perm"
+ ],
+ "v1301": [
+  "get a perm",
+  "have a perm",
+  "get permed",
+  "perm one's hair",
+  "get one's hair permed",
+  "perm hair"
+ ],
+ "v1452": [
+  "blow dry",
+  "blowdry",
+  "blow-drying",
+  "blow drying",
+  "blow-dry hair",
+  "blow dry hair"
+ ],
+ "v184": [
+  "be influenced",
+  "get influenced",
+  "be influenced by",
+  "be impacted",
+  "get affected",
+  "be impacted by",
+  "come under the influence of",
+  "receive influence",
+  "be affected by",
+  "receive an influence",
+  "be shaped by",
+  "take influence"
+ ],
+ "v299": [
+  "primarily",
+  "chiefly",
+  "mostly",
+  "principally",
+  "largely"
+ ],
+ "v367": [
+  "count up",
+  "tally",
+  "count out",
+  "enumerate",
+  "reckon"
+ ],
+ "v432": [
+  "be finished",
+  "be complete",
+  "complete",
+  "finish",
+  "be done",
+  "be accomplished"
+ ],
+ "v516": [
+  "clouds"
+ ],
+ "v537": [
+  "arts",
+  "fine art",
+  "the arts"
+ ],
+ "v663": [
+  "works",
+  "piece",
+  "artwork",
+  "work of art",
+  "creation",
+  "opus",
+  "masterpiece"
+ ],
+ "v700": [
+  "poetry",
+  "verse",
+  "poems",
+  "poetic work",
+  "poetic verse"
+ ],
+ "v709": [
+  "but",
+  "though",
+  "still",
+  "nevertheless",
+  "yet",
+  "nonetheless"
+ ],
+ "v774": [
+  "get shot",
+  "be shot with a gun",
+  "be shot by a gun",
+  "get shot by a gun",
+  "be gunned down",
+  "get gunned down"
+ ],
+ "v799": [
+  "househusband",
+  "house-husband",
+  "stay-at-home dad",
+  "stay at home dad",
+  "homemaker husband",
+  "stay-at-home husband",
+  "stay at home husband",
+  "husband who stays home"
+ ],
+ "v911": [
+  "1960s",
+  "the 1960s",
+  "the 1960's",
+  "1960s decade",
+  "sixties",
+  "the sixties",
+  "the nineteen sixties",
+  "nineteen sixties",
+  "1960 era",
+  "1960s era",
+  "decade of the 1960s"
+ ],
+ "v939": [
+  "afterwards",
+  "afterward",
+  "thereafter",
+  "later",
+  "subsequently",
+  "since then",
+  "after this"
+ ],
+ "v969": [
+  "huge hit",
+  "big success",
+  "smash hit",
+  "blockbuster",
+  "major hit",
+  "big hit",
+  "great success"
+ ],
+ "v1124": [
+  "ceilings"
+ ],
+ "v1129": [
+  "art exhibit",
+  "art show",
+  "exhibition",
+  "exhibit"
+ ],
+ "v1225": [
+  "give a name",
+  "name something",
+  "christen",
+  "give name",
+  "dub"
+ ],
+ "v1234": [
+  "many times",
+  "again and again",
+  "repeatedly",
+  "over and over",
+  "time and again",
+  "numerous times"
+ ],
+ "v1284": [
+  "for",
+  "for the purpose of",
+  "in order to",
+  "for the benefit of",
+  "for ones sake",
+  "for the sake of"
+ ],
+ "v1304": [
+  "haiku poem",
+  "japanese poem",
+  "17-syllable poem",
+  "seventeen syllable poem",
+  "haikus"
+ ],
+ "v1315": [
+  "ladder",
+  "stepladder",
+  "step ladder"
+ ],
+ "v1460": [
+  "area",
+  "domain",
+  "sphere",
+  "discipline",
+  "area of study",
+  "branch",
+  "specialty"
+ ],
+ "v1598": [
+  "magnifier",
+  "magnifying lens",
+  "magnifying glasses",
+  "magnifying lenses",
+  "loupe"
+ ],
+ "v1633": [
+  "letters",
+  "characters",
+  "writing",
+  "script",
+  "symbol",
+  "glyph"
+ ]
+}

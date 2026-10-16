@@ -1,0 +1,712 @@
+{
+ "v140": [
+  {
+   "ja": "先生[せんせい]は今[いま]、研究室[けんきゅうしつ]に{いらっしゃいます}。",
+   "en": "The professor is in the lab now."
+  },
+  {
+   "ja": "明日[あした]のパーティーに{いらっしゃいます}か。",
+   "en": "Will you be coming to tomorrow's party?"
+  }
+ ],
+ "v200": [
+  {
+   "ja": "ここではたばこを{遠慮[えんりょ]して}ください。",
+   "en": "Please refrain from smoking here."
+  },
+  {
+   "ja": "今日[きょう]は{遠慮[えんりょ]します}。",
+   "en": "I'll pass for today."
+  }
+ ],
+ "v221": [
+  {
+   "ja": "先生[せんせい]の{奥様[おくさま]}はお元気[げんき]ですか。",
+   "en": "Is your wife well, Professor?"
+  },
+  {
+   "ja": "社長[しゃちょう]の{奥様[おくさま]}にお会[あ]いしました。",
+   "en": "I met the company president's wife."
+  }
+ ],
+ "v224": [
+  {
+   "ja": "駅[えき]まで友[とも]だちを{送[おく]りました}。",
+   "en": "I walked my friend to the station."
+  },
+  {
+   "ja": "夜[よる]だから、車[くるま]で家[いえ]まで{送[おく]ります}よ。",
+   "en": "It's night, so I'll drive you home."
+  }
+ ],
+ "v225": [
+  {
+   "ja": "電車[でんしゃ]が{遅[おく]れました}。",
+   "en": "The train was late."
+  },
+  {
+   "ja": "会議[かいぎ]に{遅[おく]れない}ようにしてください。",
+   "en": "Please make sure you aren't late for the meeting."
+  }
+ ],
+ "v226": [
+  {
+   "ja": "山田[やまだ]さんの{お子[こ]さん}は何歳[なんさい]ですか。",
+   "en": "How old is Mr. Yamada's child?"
+  },
+  {
+   "ja": "{お子[こ]さん}はお元気[げんき]ですか。",
+   "en": "Is your child doing well?"
+  }
+ ],
+ "v254": [
+  {
+   "ja": "先生[せんせい]は何[なん]と{おっしゃいました}か。",
+   "en": "What did the teacher say?"
+  },
+  {
+   "ja": "社長[しゃちょう]が「いいですね」と{おっしゃって}いました。",
+   "en": "The president said, \"That's good.\""
+  }
+ ],
+ "v263": [
+  {
+   "ja": "{おととい}、友[とも]だちに会[あ]いました。",
+   "en": "I met a friend the day before yesterday."
+  },
+  {
+   "ja": "{おととい}は雨[あめ]でした。",
+   "en": "It rained the day before yesterday."
+  }
+ ],
+ "v302": [
+  {
+   "ja": "先生[せんせい]はもう{お休[やす]みになりました}。",
+   "en": "The professor has already gone to bed."
+  },
+  {
+   "ja": "何時[なんじ]ごろ{お休[やす]みになります}か。",
+   "en": "About what time do you go to bed?"
+  }
+ ],
+ "v309": [
+  {
+   "ja": "先生[せんせい]に{お礼[れい]}の手紙[てがみ]を書[か]きました。",
+   "en": "I wrote a thank-you letter to my teacher."
+  },
+  {
+   "ja": "何[なに]か{お礼[れい]}をしたいです。",
+   "en": "I'd like to do something to thank you."
+  }
+ ],
+ "v350": [
+  {
+   "ja": "どうぞ、{おかけ}ください。",
+   "en": "Please have a seat."
+  },
+  {
+   "ja": "いすに{かけて}お待[ま]ちください。",
+   "en": "Please sit on the chair and wait."
+  }
+ ],
+ "v462": [
+  {
+   "ja": "会議[かいぎ]の日[ひ]が{決[き]まりました}。",
+   "en": "The date of the meeting has been decided."
+  },
+  {
+   "ja": "行[い]く所[ところ]はまだ{決[き]まって}いません。",
+   "en": "The place we'll go hasn't been decided yet."
+  }
+ ],
+ "v509": [
+  {
+   "ja": "先生[せんせい]が本[ほん]を{くださいました}。",
+   "en": "The teacher gave me a book."
+  },
+  {
+   "ja": "部長[ぶちょう]がお土産[みやげ]を{くださった}。",
+   "en": "The department manager gave me a souvenir."
+  }
+ ],
+ "v533": [
+  {
+   "ja": "日本語[にほんご]の{敬語[けいご]}は難[むずか]しいです。",
+   "en": "Japanese honorific language is difficult."
+  },
+  {
+   "ja": "先生[せんせい]には{敬語[けいご]}で話[はな]します。",
+   "en": "I speak to my teacher in honorific language."
+  }
+ ],
+ "v604": [
+  {
+   "ja": "今日[きょう]は私[わたし]が{ごちそうします}。",
+   "en": "It's my treat today."
+  },
+  {
+   "ja": "先輩[せんぱい]に晩[ばん]ご飯[はん]を{ごちそうして}もらいました。",
+   "en": "My senior treated me to dinner."
+  }
+ ],
+ "v606": [
+  {
+   "ja": "{こちら}は山田[やまだ]さんです。",
+   "en": "This is Mr. Yamada."
+  },
+  {
+   "ja": "受付[うけつけ]は{こちら}です。",
+   "en": "The reception desk is this way."
+  }
+ ],
+ "v626": [
+  {
+   "ja": "先生[せんせい]はその映画[えいが]を{ご覧[らん]になりました}か。",
+   "en": "Did you see that movie, Professor?"
+  },
+  {
+   "ja": "これを{ご覧[らん]になって}ください。",
+   "en": "Please take a look at this."
+  }
+ ],
+ "v801": [
+  {
+   "ja": "どんな{種類[しゅるい]}の音楽[おんがく]が好[す]きですか。",
+   "en": "What kind of music do you like?"
+  },
+  {
+   "ja": "この店[みせ]にはいろいろな{種類[しゅるい]}のお茶[ちゃ]があります。",
+   "en": "This shop has many kinds of tea."
+  }
+ ],
+ "v810": [
+  {
+   "ja": "{少々[しょうしょう]}お待[ま]ちください。",
+   "en": "Please wait a moment."
+  },
+  {
+   "ja": "{少々[しょうしょう]}お時間[じかん]をいただけますか。",
+   "en": "May I have a little of your time?"
+  }
+ ],
+ "v813": [
+  {
+   "ja": "友[とも]だちを結婚式[けっこんしき]に{招待[しょうたい]しました}。",
+   "en": "I invited my friends to the wedding."
+  },
+  {
+   "ja": "先生[せんせい]を家[いえ]に{招待[しょうたい]したい}です。",
+   "en": "I'd like to invite the teacher to my home."
+  }
+ ],
+ "v826": [
+  {
+   "ja": "大学[だいがく]で彼[かれ]と{知[し]り合[あ]いました}。",
+   "en": "I got to know him at university."
+  },
+  {
+   "ja": "どこで{知[し]り合[あ]った}んですか。",
+   "en": "Where did you get to know each other?"
+  }
+ ],
+ "v884": [
+  {
+   "ja": "弟[おとうと]は明[あか]るい{性格[せいかく]}です。",
+   "en": "My younger brother has a cheerful personality."
+  },
+  {
+   "ja": "二人[ふたり]は{性格[せいかく]}がぜんぜん違[ちが]います。",
+   "en": "The two have completely different personalities."
+  }
+ ],
+ "v947": [
+  {
+   "ja": "雨[あめ]が降[ふ]っていました。{それで}、出[で]かけませんでした。",
+   "en": "It was raining. So I didn't go out."
+  },
+  {
+   "ja": "熱[ねつ]があります。{それで}、今日[きょう]は休[やす]みます。",
+   "en": "I have a fever. Therefore, I'll take today off."
+  }
+ ],
+ "v1046": [
+  {
+   "ja": "妹[いもうと]は{中学生[ちゅうがくせい]}です。",
+   "en": "My younger sister is a junior high school student."
+  },
+  {
+   "ja": "{中学生[ちゅうがくせい]}のとき、サッカーをしていました。",
+   "en": "I played soccer when I was in junior high school."
+  }
+ ],
+ "v1092": [
+  {
+   "ja": "先生[せんせい]は何[なに]を{読[よ]んでいらっしゃいます}か。",
+   "en": "What is the teacher reading?"
+  },
+  {
+   "ja": "社長[しゃちょう]は今[いま]、電話[でんわ]をかけて{いらっしゃいます}。",
+   "en": "The president is making a phone call now."
+  }
+ ],
+ "v1171": [
+  {
+   "ja": "お手洗[てあら]いは{どちら}ですか。",
+   "en": "Where is the restroom?"
+  },
+  {
+   "ja": "お国[くに]は{どちら}ですか。",
+   "en": "Which country are you from?"
+  }
+ ],
+ "v1205": [
+  {
+   "ja": "兄[あに]と弟[おとうと]は{仲[なか]がいい}です。",
+   "en": "My older and younger brothers get along well."
+  },
+  {
+   "ja": "クラスのみんなは{仲[なか]がいい}です。",
+   "en": "Everyone in the class is on good terms."
+  }
+ ],
+ "v1210": [
+  {
+   "ja": "先生[せんせい]は週末[しゅうまつ]に何[なに]を{なさいます}か。",
+   "en": "What do you do on weekends, Professor?"
+  },
+  {
+   "ja": "社長[しゃちょう]がスピーチを{なさいました}。",
+   "en": "The president gave a speech."
+  }
+ ],
+ "v1212": [
+  {
+   "ja": "{なぜ}遅[おく]れたのですか。",
+   "en": "Why were you late?"
+  },
+  {
+   "ja": "{なぜ}日本語[にほんご]を勉強[べんきょう]していますか。",
+   "en": "Why are you studying Japanese?"
+  }
+ ],
+ "v1226": [
+  {
+   "ja": "弟[おとうと]は{怠[なま]け者[もの]}です。",
+   "en": "My younger brother is a lazy person."
+  },
+  {
+   "ja": "私[わたし]は{怠[なま]け者[もの]}じゃありません。",
+   "en": "I am not a lazy person."
+  }
+ ],
+ "v1325": [
+  {
+   "ja": "妹[いもうと]は{恥[は]ずかしがり屋[や]}です。",
+   "en": "My younger sister is shy."
+  },
+  {
+   "ja": "{恥[は]ずかしがり屋[や]}なので、人[ひと]の前[まえ]で話[はな]せません。",
+   "en": "I'm shy, so I can't speak in front of people."
+  }
+ ],
+ "v1342": [
+  {
+   "ja": "先生[せんせい]の{話[はなし]}はおもしろいです。",
+   "en": "The teacher's stories are interesting."
+  },
+  {
+   "ja": "昨日[きのう]、友[とも]だちから変[へん]な{話[はなし]}を聞[き]きました。",
+   "en": "Yesterday I heard a strange story from my friend."
+  }
+ ],
+ "v1343": [
+  {
+   "ja": "両親[りょうしん]と将来[しょうらい]について{話[はなし]をしました}。",
+   "en": "I had a talk with my parents about my future."
+  },
+  {
+   "ja": "先生[せんせい]と{話[はなし]をしたい}です。",
+   "en": "I'd like to have a talk with the teacher."
+  }
+ ],
+ "v1357": [
+  {
+   "ja": "明日[あした]は{晴[は]れる}でしょう。",
+   "en": "It will probably be sunny tomorrow."
+  },
+  {
+   "ja": "午後[ごご]から{晴[は]れました}。",
+   "en": "It cleared up from the afternoon."
+  }
+ ],
+ "v1392": [
+  {
+   "ja": "来月[らいげつ]、大阪[おおさか]に{引[ひ]っ越[こ]します}。",
+   "en": "I'm moving to Osaka next month."
+  },
+  {
+   "ja": "友[とも]だちが{引[ひ]っ越[こ]した}ので、手伝[てつだ]いました。",
+   "en": "My friend moved, so I helped."
+  }
+ ],
+ "v1431": [
+  {
+   "ja": "{部長[ぶちょう]}は今[いま]会議[かいぎ]中[ちゅう]です。",
+   "en": "The department manager is in a meeting now."
+  },
+  {
+   "ja": "{部長[ぶちょう]}にお土産[みやげ]を買[か]いました。",
+   "en": "I bought a souvenir for the department manager."
+  }
+ ],
+ "v1512": [
+  {
+   "ja": "{本当[ほんとう]は}行[い]きたくなかったです。",
+   "en": "In fact, I didn't want to go."
+  },
+  {
+   "ja": "{本当[ほんとう]は}私[わたし]、歌[うた]が下手[へた]なんです。",
+   "en": "The truth is, I'm bad at singing."
+  }
+ ],
+ "v1517": [
+  {
+   "ja": "{毎朝[まいあさ]}六時[ろくじ]に起[お]きます。",
+   "en": "I get up at six every morning."
+  },
+  {
+   "ja": "{毎朝[まいあさ]}コーヒーを飲[の]みます。",
+   "en": "I drink coffee every morning."
+  }
+ ],
+ "v1528": [
+  {
+   "ja": "田中[たなか]さんは{まじめな}学生[がくせい]です。",
+   "en": "Mr. Tanaka is a diligent student."
+  },
+  {
+   "ja": "弟[おとうと]は{まじめ}ですが、兄[あに]は怠[なま]け者[もの]です。",
+   "en": "My younger brother is serious, but my older brother is lazy."
+  }
+ ],
+ "v1533": [
+  {
+   "ja": "宿題[しゅくだい]は{まだ}終[お]わっていません。",
+   "en": "I haven't finished my homework yet."
+  },
+  {
+   "ja": "彼[かれ]は{まだ}寝[ね]ています。",
+   "en": "He is still sleeping."
+  }
+ ],
+ "v1538": [
+  {
+   "ja": "テストで{間違[まちが]い}が三[みっ]つありました。",
+   "en": "I had three mistakes on the test."
+  },
+  {
+   "ja": "{間違[まちが]い}を直[なお]してください。",
+   "en": "Please correct the mistakes."
+  }
+ ],
+ "v1609": [
+  {
+   "ja": "{四名様[よんめいさま]}ですね。こちらへどうぞ。",
+   "en": "A party of four, right? This way, please."
+  },
+  {
+   "ja": "{二名様[にめいさま]}でよろしいですか。",
+   "en": "Is a party of two all right?"
+  }
+ ],
+ "v1614": [
+  {
+   "ja": "どうぞ{召[め]し上[あ]がって}ください。",
+   "en": "Please eat."
+  },
+  {
+   "ja": "先生[せんせい]は何[なに]を{召[め]し上[あ]がります}か。",
+   "en": "What will you have, Professor?"
+  }
+ ],
+ "v1642": [
+  {
+   "ja": "彼[かれ]はとても{もてます}。",
+   "en": "He is very popular."
+  },
+  {
+   "ja": "兄[あに]は背[せ]が高[たか]くて、{もてる}んです。",
+   "en": "My older brother is tall, so he's popular with the girls."
+  }
+ ],
+ "v1690": [
+  {
+   "ja": "日本[にほん]へ{ようこそ}。",
+   "en": "Welcome to Japan."
+  },
+  {
+   "ja": "{ようこそ}、いらっしゃいました。",
+   "en": "Welcome, we're glad you came."
+  }
+ ],
+ "v1707": [
+  {
+   "ja": "友[とも]だちを誕生日[たんじょうび]のパーティーに{呼[よ]びました}。",
+   "en": "I invited my friends to my birthday party."
+  },
+  {
+   "ja": "先生[せんせい]に「山田[やまだ]さん」と{呼[よ]ばれました}。",
+   "en": "I was called \"Ms. Yamada\" by the teacher."
+  }
+ ],
+ "v1712": [
+  {
+   "ja": "帰[かえ]りに本屋[ほんや]に{寄[よ]ります}。",
+   "en": "I'll stop by the bookstore on the way home."
+  },
+  {
+   "ja": "今度[こんど]、家[いえ]に{寄[よ]って}ください。",
+   "en": "Please stop by my house sometime."
+  }
+ ],
+ "v1714": [
+  {
+   "ja": "奥様[おくさま]に{よろしくお伝[つた]えください}。",
+   "en": "Please give my best regards to your wife."
+  },
+  {
+   "ja": "ご両親[りょうしん]に{よろしくお伝[つた]えください}。",
+   "en": "Please give my best regards to your parents."
+  }
+ ],
+ "v87": [
+  {
+   "ja": "コーヒーは{いかが}ですか。",
+   "en": "How about some coffee?"
+  },
+  {
+   "ja": "お仕事[しごと]は{いかが}ですか。",
+   "en": "How is work?"
+  }
+ ],
+ "v155": [
+  {
+   "ja": "来週[らいしゅう]、試験[しけん]を{受[う]けます}。",
+   "en": "I will take an exam next week."
+  },
+  {
+   "ja": "日本語[にほんご]の試験[しけん]を{受[う]けた}ことがありますか。",
+   "en": "Have you ever taken a Japanese exam?"
+  }
+ ],
+ "v244": [
+  {
+   "ja": "先生[せんせい]にはとても{お世話[せわ]になりました}。",
+   "en": "I am very much indebted to my teacher."
+  },
+  {
+   "ja": "いつも{お世話[せわ]になって}います。",
+   "en": "Thank you for always looking after me."
+  }
+ ],
+ "v293": [
+  {
+   "ja": "昔[むかし]のことを{思[おも]い出[だ]しました}。",
+   "en": "I recalled things from long ago."
+  },
+  {
+   "ja": "彼[かれ]の名前[なまえ]が{思[おも]い出[だ]せません}。",
+   "en": "I can't recall his name."
+  }
+ ],
+ "v586": [
+  {
+   "ja": "{国際[こくさい]}電話[でんわ]をかけました。",
+   "en": "I made an international phone call."
+  },
+  {
+   "ja": "大学[だいがく]で{国際[こくさい]}関係[かんけい]を勉強[べんきょう]しています。",
+   "en": "I'm studying international relations at university."
+  }
+ ],
+ "v731": [
+  {
+   "ja": "先生[せんせい]に{質問[しつもん]}があります。",
+   "en": "I have a question for the teacher."
+  },
+  {
+   "ja": "{質問[しつもん]}してもいいですか。",
+   "en": "May I ask a question?"
+  }
+ ],
+ "v808": [
+  {
+   "ja": "祖父[そふ]と{しょうぎ}をしました。",
+   "en": "I played shogi with my grandfather."
+  },
+  {
+   "ja": "{しょうぎ}は難[むずか]しいです。",
+   "en": "Shogi is difficult."
+  }
+ ],
+ "v948": [
+  {
+   "ja": "{それでは}、始[はじ]めましょう。",
+   "en": "Well then, let's begin."
+  },
+  {
+   "ja": "{それでは}、また明日[あした]。",
+   "en": "Well then, see you tomorrow."
+  }
+ ],
+ "v966": [
+  {
+   "ja": "古[ふる]い本[ほん]を{大切[たいせつ]にして}います。",
+   "en": "I take good care of my old books."
+  },
+  {
+   "ja": "物[もの]を{大切[たいせつ]にします}。",
+   "en": "I take good care of my belongings."
+  }
+ ],
+ "v972": [
+  {
+   "ja": "{たいへん}お世話[せわ]になりました。",
+   "en": "Thank you very much for all your help."
+  },
+  {
+   "ja": "昨日[きのう]のケーキは{たいへん}おいしかったです。",
+   "en": "Yesterday's cake was very delicious."
+  }
+ ],
+ "v992": [
+  {
+   "ja": "日本[にほん]に来[き]て三年[さんねん]が{たちました}。",
+   "en": "Three years have passed since I came to Japan."
+  },
+  {
+   "ja": "時間[じかん]が{たつ}のは早[はや]いですね。",
+   "en": "Time passes quickly, doesn't it?"
+  }
+ ],
+ "v1044": [
+  {
+   "ja": "今[いま]、会議[かいぎ]{中[ちゅう]}です。",
+   "en": "We are in a meeting now."
+  },
+  {
+   "ja": "授業[じゅぎょう]{中[ちゅう]}は携帯[けいたい]を使[つか]わないでください。",
+   "en": "Please don't use your cell phone during class."
+  }
+ ],
+ "v1121": [
+  {
+   "ja": "大学[だいがく]で{電気工学[でんきこうがく]}を勉強[べんきょう]しています。",
+   "en": "I'm studying electrical engineering at university."
+  },
+  {
+   "ja": "兄[あに]は{電気工学[でんきこうがく]}の先生[せんせい]です。",
+   "en": "My older brother is a teacher of electrical engineering."
+  }
+ ],
+ "v1146": [
+  {
+   "ja": "初[はじ]めまして。山田[やまだ]です。{どうぞよろしくお願[ねが]いします}。",
+   "en": "Nice to meet you. I'm Yamada. Thank you in advance."
+  },
+  {
+   "ja": "資料[しりょう]をお送[おく]りします。{どうぞよろしくお願[ねが]いします}。",
+   "en": "I'll send you the materials. Thank you in advance."
+  }
+ ],
+ "v1174": [
+  {
+   "ja": "{突然[とつぜん]}雨[あめ]が降[ふ]ってきました。",
+   "en": "Suddenly it started to rain."
+  },
+  {
+   "ja": "彼女[かのじょ]は{突然[とつぜん]}いなくなりました。",
+   "en": "She suddenly disappeared."
+  }
+ ],
+ "v1214": [
+  {
+   "ja": "日本[にほん]の食[た]べ物[もの]が{なつかしい}です。",
+   "en": "I miss Japanese food."
+  },
+  {
+   "ja": "古[ふる]い写真[しゃしん]を見[み]ると、{なつかしく}なります。",
+   "en": "When I look at old photos, I get nostalgic."
+  }
+ ],
+ "v1282": [
+  {
+   "ja": "田中[たなか]さん{の紹介[しょうかい]で}、この仕事[しごと]を始[はじ]めました。",
+   "en": "Through Mr. Tanaka's introduction, I started this job."
+  },
+  {
+   "ja": "友[とも]だち{の紹介[しょうかい]で}、アパートを見[み]つけました。",
+   "en": "Through a friend's introduction, I found an apartment."
+  }
+ ],
+ "v1283": [
+  {
+   "ja": "健康[けんこう]{のために}、毎日[まいにち]歩[ある]きます。",
+   "en": "I walk every day for my health."
+  },
+  {
+   "ja": "家族[かぞく]{のために}、料理[りょうり]を作[つく]ります。",
+   "en": "I cook for my family."
+  }
+ ],
+ "v1578": [
+  {
+   "ja": "{みな様[さま]}、こんにちは。",
+   "en": "Hello, everyone."
+  },
+  {
+   "ja": "{みな様[さま]}のおかげで、成功[せいこう]しました。",
+   "en": "Thanks to everyone, it was a success."
+  }
+ ],
+ "v1625": [
+  {
+   "ja": "{申[もう]し込[こ]み}は今日[きょう]までです。",
+   "en": "The application is due today."
+  },
+  {
+   "ja": "留学[りゅうがく]の{申[もう]し込[こ]み}をしました。",
+   "en": "I submitted an application to study abroad."
+  }
+ ],
+ "v1626": [
+  {
+   "ja": "遅[おく]れて{申[もう]し訳[わけ]ありません}。",
+   "en": "I apologize for being late."
+  },
+  {
+   "ja": "{申[もう]し訳[わけ]ありません}が、もう一度[いちど]お願[ねが]いします。",
+   "en": "I'm very sorry, but please say it once more."
+  }
+ ],
+ "v1634": [
+  {
+   "ja": "{もし明日[あした]雨[あめ]が降[ふ]ったら}、家[いえ]にいます。",
+   "en": "If it rains tomorrow, I'll stay home."
+  },
+  {
+   "ja": "{もしお金[かね]があったら}、世界[せかい]を旅行[りょこう]したいです。",
+   "en": "If I had money, I'd like to travel around the world."
+  }
+ ],
+ "v1679": [
+  {
+   "ja": "{友人[ゆうじん]}と旅行[りょこう]しました。",
+   "en": "I traveled with a friend."
+  },
+  {
+   "ja": "大切[たいせつ]な{友人[ゆうじん]}です。",
+   "en": "He is an important friend."
+  }
+ ]
+}

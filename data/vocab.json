@@ -1,0 +1,6698 @@
+[
+ {
+  "id": "v17",
+  "kana": "あきらめる",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to give up",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v20",
+  "kana": "あげる",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to give (to others)",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v199",
+  "kana": "えんぴつ",
+  "kanji": "鉛筆",
+  "pos": "n.",
+  "en": "pencil",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v210",
+  "kana": "おおやさん",
+  "kanji": "大家さん",
+  "pos": "n.",
+  "en": "landlord; landlady",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v212",
+  "kana": "おかえし",
+  "kanji": "お返し",
+  "pos": "n.",
+  "en": "return (as a token of gratitude)",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v222",
+  "kana": "おくさん",
+  "kanji": "奥さん",
+  "pos": "n.",
+  "en": "(your/someone's) wife",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v223",
+  "kana": "おくる",
+  "kanji": "送る",
+  "pos": "u-v.",
+  "en": "to send",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v233",
+  "kana": "おさら",
+  "kanji": "お皿",
+  "pos": "n.",
+  "en": "plate; dish",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v236",
+  "kana": "おじさん",
+  "kanji": null,
+  "pos": "n.",
+  "en": "uncle; middle-aged man",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v238",
+  "kana": "おしゃれ（な）",
+  "kanji": null,
+  "pos": "な-adj.",
+  "en": "fashionable; stylish",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v277",
+  "kana": "おばさん",
+  "kanji": null,
+  "pos": "n.",
+  "en": "aunt; middle-aged woman",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v470",
+  "kana": "きゅうに",
+  "kanji": "急に",
+  "pos": "adv.",
+  "en": "suddenly",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v523",
+  "kana": "クリスマス",
+  "kanji": null,
+  "pos": "n.",
+  "en": "Christmas",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v528",
+  "kana": "くれる",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to give (me)",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v530",
+  "kana": "～くん",
+  "kanji": "～君",
+  "pos": "suf.",
+  "en": "Mr./Ms. . . . (casual)",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v547",
+  "kana": "けしょうひん",
+  "kanji": "化粧品",
+  "pos": "n.",
+  "en": "cosmetics",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v549",
+  "kana": "けち（な）",
+  "kanji": null,
+  "pos": "な-adj.",
+  "en": "stingy; cheap",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v567",
+  "kana": "～こ",
+  "kanji": "～個",
+  "pos": "suf.",
+  "en": "[generic counter for smaller items]",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v597",
+  "kana": "ごしゅじん",
+  "kanji": "ご主人",
+  "pos": "n.",
+  "en": "(your/someone's) husband",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v645",
+  "kana": "こんな～",
+  "kanji": null,
+  "pos": "pre.",
+  "en": ". . . like this; this kind of . . .",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v652",
+  "kana": "さあ",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "I am not sure . . .",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v671",
+  "kana": "～さつ",
+  "kanji": "～冊",
+  "pos": "suf.",
+  "en": "[counter for bound volumes]",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v681",
+  "kana": "さら",
+  "kanji": "皿",
+  "pos": "n.",
+  "en": "plate; dish",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v754",
+  "kana": "シャツ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "shirt",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v928",
+  "kana": "そうだんする",
+  "kanji": "相談する",
+  "pos": "irr-v.",
+  "en": "to consult",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v955",
+  "kana": "～だい",
+  "kanji": "～台",
+  "pos": "suf.",
+  "en": "[counter for equipment]",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v991",
+  "kana": "～たち",
+  "kanji": null,
+  "pos": "suf.",
+  "en": "[makes a noun plural]",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1045",
+  "kana": "ちゅういする",
+  "kanji": "注意する",
+  "pos": "irr-v.",
+  "en": "to give warning; to watch out",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1052",
+  "kana": "ちょうど",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "exactly",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1054",
+  "kana": "チョコレート",
+  "kanji": null,
+  "pos": "n.",
+  "en": "chocolate",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1097",
+  "kana": "できる",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to come into existence; to be made",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1141",
+  "kana": "どうしたらいい",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "what should one do",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1195",
+  "kana": "トレーナー",
+  "kanji": null,
+  "pos": "n.",
+  "en": "sweatshirt",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1235",
+  "kana": "にあう",
+  "kanji": "似合う",
+  "pos": "u-v.",
+  "en": "to look good (on somebody)",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1267",
+  "kana": "ぬいぐるみ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "stuffed animal (e.g., teddy bear)",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1271",
+  "kana": "ネクタイ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "necktie",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1298",
+  "kana": "パートナー",
+  "kanji": null,
+  "pos": "n.",
+  "en": "partner",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1358",
+  "kana": "バレンタインデー",
+  "kanji": null,
+  "pos": "n.",
+  "en": "Valentine's Day",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1377",
+  "kana": "～ひき",
+  "kanji": "～匹",
+  "pos": "suf.",
+  "en": "[counter for smaller animals]",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1455",
+  "kana": "プロポーズする",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to propose marriage",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1496",
+  "kana": "ほしい",
+  "kanji": "欲しい",
+  "pos": "い-adj.",
+  "en": "to want",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1506",
+  "kana": "ホワイトデー",
+  "kanji": null,
+  "pos": "n.",
+  "en": "“White Day” (yet another gift-giving day)",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1508",
+  "kana": "～ほん",
+  "kanji": "～本",
+  "pos": "suf.",
+  "en": "[counter for long objects]",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1548",
+  "kana": "マフラー",
+  "kanji": null,
+  "pos": "n.",
+  "en": "winter scarf",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1551",
+  "kana": "まんが",
+  "kanji": "漫画",
+  "pos": "n.",
+  "en": "comic book",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1558",
+  "kana": "みかん",
+  "kanji": null,
+  "pos": "n.",
+  "en": "mandarin orange",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1579",
+  "kana": "みなさん",
+  "kanji": "皆さん",
+  "pos": "n.",
+  "en": "everyone; all of you",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1686",
+  "kana": "ゆびわ",
+  "kanji": "指輪",
+  "pos": "n.",
+  "en": "ring",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1697",
+  "kana": "よく",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "well",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1725",
+  "kana": "ラジオ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "radio",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1733",
+  "kana": "りょうしん",
+  "kanji": "両親",
+  "pos": "n.",
+  "en": "parents",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1740",
+  "kana": "りれきしょ",
+  "kanji": "履歴書",
+  "pos": "n.",
+  "en": "résumé",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v1767",
+  "kana": "わたしたち",
+  "kanji": "私たち",
+  "pos": "n.",
+  "en": "we",
+  "chapter": 14,
+  "source": "conv"
+ },
+ {
+  "id": "v3",
+  "kana": "あいす",
+  "kanji": "愛す",
+  "pos": "u-v.",
+  "en": "to love",
+  "chapter": 14,
+  "source": "read"
+ },
+ {
+  "id": "v42",
+  "kana": "アドバイス",
+  "kanji": null,
+  "pos": "n.",
+  "en": "advice",
+  "chapter": 14,
+  "source": "read"
+ },
+ {
+  "id": "v723",
+  "kana": "じだい",
+  "kanji": "時代",
+  "pos": "n.",
+  "en": "age; era",
+  "chapter": 14,
+  "source": "read"
+ },
+ {
+  "id": "v796",
+  "kana": "しゅっちょう",
+  "kanji": "出張",
+  "pos": "n.",
+  "en": "business trip",
+  "chapter": 14,
+  "source": "read"
+ },
+ {
+  "id": "v919",
+  "kana": "せんぱい",
+  "kanji": "先輩",
+  "pos": "n.",
+  "en": "senior member of a group",
+  "chapter": 14,
+  "source": "read"
+ },
+ {
+  "id": "v1038",
+  "kana": "ちちおや",
+  "kanji": "父親",
+  "pos": "n.",
+  "en": "father",
+  "chapter": 14,
+  "source": "read"
+ },
+ {
+  "id": "v1067",
+  "kana": "つきあう",
+  "kanji": "付き合う",
+  "pos": "u-v.",
+  "en": "to date (someone); to keep company",
+  "chapter": 14,
+  "source": "read"
+ },
+ {
+  "id": "v1227",
+  "kana": "なやみ",
+  "kanji": "悩み",
+  "pos": "n.",
+  "en": "worry",
+  "chapter": 14,
+  "source": "read"
+ },
+ {
+  "id": "v1278",
+  "kana": "～ねんかん",
+  "kanji": "～年間",
+  "pos": "suf.",
+  "en": "for . . . years",
+  "chapter": 14,
+  "source": "read"
+ },
+ {
+  "id": "v1296",
+  "kana": "ばあい",
+  "kanji": "場合",
+  "pos": "n.",
+  "en": "case",
+  "chapter": 14,
+  "source": "read"
+ },
+ {
+  "id": "v1511",
+  "kana": "ほんとうに",
+  "kanji": "本当に",
+  "pos": "adv.",
+  "en": "really",
+  "chapter": 14,
+  "source": "read"
+ },
+ {
+  "id": "v112",
+  "kana": "いちにちじゅう",
+  "kanji": "一日中",
+  "pos": "adv.",
+  "en": "all day long",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v113",
+  "kana": "いちにちめ",
+  "kanji": "一日目",
+  "pos": "n.",
+  "en": "first day",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v148",
+  "kana": "インターネット",
+  "kanji": null,
+  "pos": "n.",
+  "en": "internet",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v172",
+  "kana": "うる",
+  "kanji": "売る",
+  "pos": "u-v.",
+  "en": "to sell",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v179",
+  "kana": "え",
+  "kanji": "絵",
+  "pos": "n.",
+  "en": "painting; picture; drawing",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v183",
+  "kana": "えいがかん",
+  "kanji": "映画館",
+  "pos": "n.",
+  "en": "movie theater",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v311",
+  "kana": "おろす",
+  "kanji": "下ろす",
+  "pos": "u-v.",
+  "en": "to withdraw (money)",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v326",
+  "kana": "がいこくじん",
+  "kanji": "外国人",
+  "pos": "n.",
+  "en": "foreigner",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v345",
+  "kana": "かく",
+  "kanji": "描く",
+  "pos": "u-v.",
+  "en": "to draw; to paint",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v346",
+  "kana": "かぐ",
+  "kanji": "家具",
+  "pos": "n.",
+  "en": "furniture",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v381",
+  "kana": "かつどう",
+  "kanji": "活動",
+  "pos": "n.",
+  "en": "activity",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v427",
+  "kana": "かんこうする",
+  "kanji": "観光する",
+  "pos": "irr-v.",
+  "en": "to do sightseeing",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v479",
+  "kana": "きょうしつ",
+  "kanji": "教室",
+  "pos": "n.",
+  "en": "classroom",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v491",
+  "kana": "きをつける",
+  "kanji": "気をつける",
+  "pos": "ru-v.",
+  "en": "to be cautious/careful",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v532",
+  "kana": "けいけん",
+  "kanji": "経験",
+  "pos": "n.",
+  "en": "experience",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v552",
+  "kana": "けっこんしき",
+  "kanji": "結婚式",
+  "pos": "n.",
+  "en": "wedding",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v555",
+  "kana": "～けど",
+  "kanji": null,
+  "pos": "part.",
+  "en": ". . . , but; . . . , so",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v657",
+  "kana": "さいきん",
+  "kanji": "最近",
+  "pos": "adv.",
+  "en": "recently",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v660",
+  "kana": "さがす",
+  "kanji": "探す",
+  "pos": "u-v.",
+  "en": "to look for",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v669",
+  "kana": "さそう",
+  "kanji": "誘う",
+  "pos": "u-v.",
+  "en": "to invite",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v689",
+  "kana": "さんかする",
+  "kanji": "参加する",
+  "pos": "irr-v.",
+  "en": "to participate",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v717",
+  "kana": "じしょ",
+  "kanji": "辞書",
+  "pos": "n.",
+  "en": "dictionary",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v718",
+  "kana": "じしん",
+  "kanji": "地震",
+  "pos": "n.",
+  "en": "earthquake",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v745",
+  "kana": "しめきり",
+  "kanji": "締め切り",
+  "pos": "n.",
+  "en": "deadline",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v751",
+  "kana": "ジャケット",
+  "kanji": null,
+  "pos": "n.",
+  "en": "jacket",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v755",
+  "kana": "しゃべる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "to chat",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v765",
+  "kana": "しゅうかん",
+  "kanji": "習慣",
+  "pos": "n.",
+  "en": "custom",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v824",
+  "kana": "しらべる",
+  "kanji": "調べる",
+  "pos": "ru-v.",
+  "en": "to look into (a matter)",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v879",
+  "kana": "する",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to decide on (an item)",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v889",
+  "kana": "ぜいきん",
+  "kanji": "税金",
+  "pos": "n.",
+  "en": "tax",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v935",
+  "kana": "そつぎょうしき",
+  "kanji": "卒業式",
+  "pos": "n.",
+  "en": "graduation ceremony",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v936",
+  "kana": "そつぎょうする",
+  "kanji": "卒業する",
+  "pos": "irr-v.",
+  "en": "to graduate (from . . . )",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v940",
+  "kana": "そば",
+  "kanji": null,
+  "pos": "n.",
+  "en": "soba; Japanese buckwheat noodles",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v995",
+  "kana": "たてもの",
+  "kanji": "建物",
+  "pos": "n.",
+  "en": "building",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1000",
+  "kana": "たのしみです",
+  "kanji": "楽しみです",
+  "pos": "exp.",
+  "en": "cannot wait; to look forward to it",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1036",
+  "kana": "ちず",
+  "kanji": "地図",
+  "pos": "n.",
+  "en": "map",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1070",
+  "kana": "つく",
+  "kanji": "着く",
+  "pos": "u-v.",
+  "en": "to arrive",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1126",
+  "kana": "でんち",
+  "kanji": "電池",
+  "pos": "n.",
+  "en": "battery",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1263",
+  "kana": "にわ",
+  "kanji": "庭",
+  "pos": "n.",
+  "en": "garden",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1338",
+  "kana": "はっぴょうする",
+  "kanji": "発表する",
+  "pos": "irr-v.",
+  "en": "to make a presentation; to make public",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1420",
+  "kana": "プール",
+  "kanji": null,
+  "pos": "n.",
+  "en": "swimming pool",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1467",
+  "kana": "ペット",
+  "kanji": null,
+  "pos": "n.",
+  "en": "pet",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1493",
+  "kana": "ほけん",
+  "kanji": "保険",
+  "pos": "n.",
+  "en": "insurance",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1495",
+  "kana": "ほけんにはいる",
+  "kanji": "保険に入る",
+  "pos": "u-v.",
+  "en": "to buy insurance",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1505",
+  "kana": "ボランティア",
+  "kanji": null,
+  "pos": "n.",
+  "en": "volunteer",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1555",
+  "kana": "みえる",
+  "kanji": "見える",
+  "pos": "ru-v.",
+  "en": "to be visible",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1607",
+  "kana": "～め",
+  "kanji": "～目",
+  "pos": "suf.",
+  "en": "=-th",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1624",
+  "kana": "もういちど",
+  "kanji": "もう一度",
+  "pos": "adv.",
+  "en": "one more time",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1706",
+  "kana": "よてい",
+  "kanji": "予定",
+  "pos": "n.",
+  "en": "schedule; plan",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1710",
+  "kana": "よやくする",
+  "kanji": "予約する",
+  "pos": "irr-v.",
+  "en": "to reserve",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1736",
+  "kana": "りょかん",
+  "kanji": "旅館",
+  "pos": "n.",
+  "en": "Japanese inn",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v1771",
+  "kana": "わりびきけん",
+  "kanji": "割引券",
+  "pos": "n.",
+  "en": "discount coupon",
+  "chapter": 15,
+  "source": "conv"
+ },
+ {
+  "id": "v128",
+  "kana": "いっぱくにしょくつき",
+  "kanji": "一泊二食付き",
+  "pos": "exp.",
+  "en": "one night with two meals",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v453",
+  "kana": "きつえん",
+  "kanji": "喫煙",
+  "pos": "n.",
+  "en": "smoking",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v494",
+  "kana": "きんえん",
+  "kanji": "禁煙",
+  "pos": "n.",
+  "en": "non-smoking",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v835",
+  "kana": "シングル",
+  "kanji": null,
+  "pos": "n.",
+  "en": "single room",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v974",
+  "kana": "だいよくじょう",
+  "kanji": "大浴場",
+  "pos": "n.",
+  "en": "large spa",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v1005",
+  "kana": "ダブル",
+  "kanji": null,
+  "pos": "n.",
+  "en": "double room",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v1023",
+  "kana": "チェックアウト（する）",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "checking out",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v1024",
+  "kana": "チェックイン（する）",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "checking in",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v1051",
+  "kana": "ちょうしょくつき",
+  "kanji": "朝食付き",
+  "pos": "n.",
+  "en": "with breakfast",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v1058",
+  "kana": "ツイン",
+  "kanji": null,
+  "pos": "n.",
+  "en": "twin room",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v1312",
+  "kana": "～はく",
+  "kanji": "～泊",
+  "pos": "suf.",
+  "en": ". . . nights",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v1456",
+  "kana": "フロント",
+  "kanji": null,
+  "pos": "n.",
+  "en": "receptionist; front desk",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v1608",
+  "kana": "～めい",
+  "kanji": "～名",
+  "pos": "suf.",
+  "en": ". . . person(s)",
+  "chapter": 15,
+  "source": "extra"
+ },
+ {
+  "id": "v114",
+  "kana": "いちねんじゅう",
+  "kanji": "一年中",
+  "pos": "adv.",
+  "en": "all year",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v167",
+  "kana": "うまれる",
+  "kanji": "生まれる",
+  "pos": "ru-v.",
+  "en": "to be born",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v261",
+  "kana": "おとされる",
+  "kanji": "落とされる",
+  "pos": "exp.",
+  "en": "to be dropped",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v504",
+  "kana": "くじら",
+  "kanji": null,
+  "pos": "n.",
+  "en": "whale",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v544",
+  "kana": "けしき",
+  "kanji": "景色",
+  "pos": "n.",
+  "en": "scenery",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v566",
+  "kana": "げんばく",
+  "kanji": "原爆",
+  "pos": "n.",
+  "en": "atomic bomb",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v581",
+  "kana": "こうよう",
+  "kanji": "紅葉",
+  "pos": "n.",
+  "en": "autumn leaves/colors",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v623",
+  "kana": "こむ",
+  "kanji": "混む",
+  "pos": "u-v.",
+  "en": "to get crowded",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v643",
+  "kana": "こんでいる",
+  "kanji": "混んでいる",
+  "pos": "exp.",
+  "en": "to be crowded",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v707",
+  "kana": "しか",
+  "kanji": "鹿",
+  "pos": "n.",
+  "en": "deer",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v720",
+  "kana": "しぜん",
+  "kanji": "自然",
+  "pos": "n.",
+  "en": "nature",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v743",
+  "kana": "しま",
+  "kanji": "島",
+  "pos": "n.",
+  "en": "island",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v794",
+  "kana": "しゅじん",
+  "kanji": "主人",
+  "pos": "n.",
+  "en": "head of a familiy",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v858",
+  "kana": "スクランブルこうさてん",
+  "kanji": "スクランブル交差点",
+  "pos": "n.",
+  "en": "scramble crossing",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v983",
+  "kana": "たけ",
+  "kanji": "竹",
+  "pos": "n.",
+  "en": "bamboo",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1002",
+  "kana": "たのしむ",
+  "kanji": "楽しむ",
+  "pos": "u-v.",
+  "en": "to enjoy",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1026",
+  "kana": "ちか",
+  "kanji": "地下",
+  "pos": "n.",
+  "en": "underground",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1157",
+  "kana": "とおる",
+  "kanji": "通る",
+  "pos": "u-v.",
+  "en": "to go through; to pass",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1196",
+  "kana": "トロッコれっしゃ",
+  "kanji": "トロッコ列車",
+  "pos": "n.",
+  "en": "small train usually for tourists",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1281",
+  "kana": "のこす",
+  "kanji": "残す",
+  "pos": "u-v.",
+  "en": "to leave; to preserve",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1321",
+  "kana": "ばしょ",
+  "kanji": "場所",
+  "pos": "n.",
+  "en": "place",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1371",
+  "kana": "ひ",
+  "kanji": "日",
+  "pos": "n.",
+  "en": "day",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1416",
+  "kana": "ファッション",
+  "kanji": null,
+  "pos": "n.",
+  "en": "fashion",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1462",
+  "kana": "へいわ",
+  "kanji": "平和",
+  "pos": "n.",
+  "en": "peace",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1463",
+  "kana": "へいわきねんしりょうかん",
+  "kanji": "平和記念資料館",
+  "pos": "n.",
+  "en": "Peace Memorial Museum",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1537",
+  "kana": "まちあわせをする",
+  "kanji": "待ち合わせをする",
+  "pos": "irr-v.",
+  "en": "to meet up",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1577",
+  "kana": "みどり",
+  "kanji": "緑",
+  "pos": "n.",
+  "en": "green",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1580",
+  "kana": "みなみ",
+  "kanji": "南",
+  "pos": "n.",
+  "en": "south",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1761",
+  "kana": "わかもの",
+  "kanji": "若者",
+  "pos": "n.",
+  "en": "young people",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v1769",
+  "kana": "わたる",
+  "kanji": "渡る",
+  "pos": "u-v.",
+  "en": "to cross",
+  "chapter": 15,
+  "source": "read"
+ },
+ {
+  "id": "v7",
+  "kana": "アイロンをかける",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to iron (clothes)",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v24",
+  "kana": "あさねぼうする",
+  "kanji": "朝寝坊する",
+  "pos": "irr-v.",
+  "en": "to oversleep",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v38",
+  "kana": "あつめる",
+  "kanji": "集める",
+  "pos": "ru-v.",
+  "en": "to collect",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v76",
+  "kana": "あんないする",
+  "kanji": "案内する",
+  "pos": "irr-v.",
+  "en": "to show (someone) around",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v86",
+  "kana": "～いがい",
+  "kanji": "～以外",
+  "pos": "suf.",
+  "en": "other than . . .",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v145",
+  "kana": "いれる",
+  "kanji": "入れる",
+  "pos": "ru-v.",
+  "en": "to put (something) in",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v187",
+  "kana": "ええと",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "well . . . ; let me see . . .",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v189",
+  "kana": "えきいん（さん）",
+  "kanji": "駅員（さん）",
+  "pos": "n.",
+  "en": "station attendant",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v207",
+  "kana": "おおきさ",
+  "kanji": "大きさ",
+  "pos": "n.",
+  "en": "size",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v227",
+  "kana": "おこす",
+  "kanji": "起こす",
+  "pos": "u-v.",
+  "en": "to wake (someone) up",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v230",
+  "kana": "おごる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "to treat (someone) to a meal",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v250",
+  "kana": "おちこむ",
+  "kanji": "落ち込む",
+  "pos": "u-v.",
+  "en": "to get depressed",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v300",
+  "kana": "おや",
+  "kanji": "親",
+  "pos": "n.",
+  "en": "parent",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v351",
+  "kana": "かける（アイロンを）",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to iron (clothes)",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v362",
+  "kana": "かす",
+  "kanji": "貸す",
+  "pos": "u-v.",
+  "en": "to lend",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v452",
+  "kana": "きたない",
+  "kanji": "汚い",
+  "pos": "い-adj.",
+  "en": "dirty",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v461",
+  "kana": "きまつしけん",
+  "kanji": "期末試験",
+  "pos": "n.",
+  "en": "final examination",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v480",
+  "kana": "きょうじゅうに",
+  "kanji": "今日中に",
+  "pos": "adv.",
+  "en": "by the end of today",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v562",
+  "kana": "けんきゅう",
+  "kanji": "研究",
+  "pos": "n.",
+  "en": "research",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v614",
+  "kana": "このあいだ",
+  "kanji": "この間",
+  "pos": "adv.",
+  "en": "the other day",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v615",
+  "kana": "このぐらい",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "about this much",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v621",
+  "kana": "こまる",
+  "kanji": "困る",
+  "pos": "u-v.",
+  "en": "to have difficulty",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v622",
+  "kana": "ごみ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "garbage",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v624",
+  "kana": "ごめん",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "I'm sorry. (casual)",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v629",
+  "kana": "これから",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "from now on",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v675",
+  "kana": "さとう",
+  "kanji": "砂糖",
+  "pos": "n.",
+  "en": "sugar",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v728",
+  "kana": "じつは",
+  "kanji": "実は",
+  "pos": "adv.",
+  "en": "actually; in fact",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v733",
+  "kana": "しつれいします",
+  "kanji": "失礼します",
+  "pos": "exp.",
+  "en": "Excuse me.; Sorry to interrupt you.",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v742",
+  "kana": "じぶんで",
+  "kanji": "自分で",
+  "pos": "adv.",
+  "en": "(do something) by oneself",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v788",
+  "kana": "じゅぎょうちゅうに",
+  "kanji": "授業中に",
+  "pos": "adv.",
+  "en": "in class; during the class",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v804",
+  "kana": "しょうがくきん",
+  "kanji": "奨学金",
+  "pos": "n.",
+  "en": "scholarship",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v839",
+  "kana": "しんせき",
+  "kanji": "親せき",
+  "pos": "n.",
+  "en": "relatives",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v846",
+  "kana": "すいせんじょう",
+  "kanji": "推薦状",
+  "pos": "n.",
+  "en": "letter of recommendation",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v906",
+  "kana": "せつめいする",
+  "kanji": "説明する",
+  "pos": "irr-v.",
+  "en": "to explain",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v959",
+  "kana": "だいがくいん",
+  "kanji": "大学院",
+  "pos": "n.",
+  "en": "graduate school",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v971",
+  "kana": "たいふう",
+  "kanji": "台風",
+  "pos": "n.",
+  "en": "typhoon",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v985",
+  "kana": "だす",
+  "kanji": "出す",
+  "pos": "u-v.",
+  "en": "to take (something) out; to hand in (something)",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1084",
+  "kana": "つれていく",
+  "kanji": "連れていく",
+  "pos": "u-v.",
+  "en": "to take (someone) to (a place)",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1201",
+  "kana": "なおす",
+  "kanji": "直す",
+  "pos": "u-v.",
+  "en": "to correct; to fix",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1291",
+  "kana": "のりおくれる",
+  "kanji": "乗り遅れる",
+  "pos": "ru-v.",
+  "en": "to miss (a train, bus, etc.)",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1415",
+  "kana": "ファイル",
+  "kanji": null,
+  "pos": "n.",
+  "en": "(file) folder; portfolio; file",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1457",
+  "kana": "ぶんか",
+  "kanji": "文化",
+  "pos": "n.",
+  "en": "culture",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1476",
+  "kana": "へんじ",
+  "kanji": "返事",
+  "pos": "n.",
+  "en": "reply",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1490",
+  "kana": "ほかの",
+  "kanji": "他の",
+  "pos": "pre.",
+  "en": "other",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1567",
+  "kana": "みせる",
+  "kanji": "見せる",
+  "pos": "ru-v.",
+  "en": "to show",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1569",
+  "kana": "みち",
+  "kanji": "道",
+  "pos": "n.",
+  "en": "way; road; directions",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1570",
+  "kana": "みちにまよう",
+  "kanji": "道に迷う",
+  "pos": "u-v.",
+  "en": "to become lost; to lose one's way",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1573",
+  "kana": "みつかる",
+  "kanji": "見つかる",
+  "pos": "u-v.",
+  "en": "to be found",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1591",
+  "kana": "むかえにいく",
+  "kanji": "迎えに行く",
+  "pos": "u-v.",
+  "en": "to go to pick up",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1592",
+  "kana": "むかえにくる",
+  "kanji": "迎えに来る",
+  "pos": "irr-v.",
+  "en": "to come to pick up",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1654",
+  "kana": "やくす",
+  "kanji": "訳す",
+  "pos": "u-v.",
+  "en": "to translate",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v1770",
+  "kana": "わらう",
+  "kanji": "笑う",
+  "pos": "u-v.",
+  "en": "to laugh",
+  "chapter": 16,
+  "source": "conv"
+ },
+ {
+  "id": "v164",
+  "kana": "うつす",
+  "kanji": "写す",
+  "pos": "u-v.",
+  "en": "to copy",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v805",
+  "kana": "しょうがくせい",
+  "kanji": "小学生",
+  "pos": "n.",
+  "en": "elementary school students",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v882",
+  "kana": "すると",
+  "kanji": null,
+  "pos": "adv.",
+  "en": ". . . Then . . .",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v943",
+  "kana": "そら",
+  "kanji": "空",
+  "pos": "n.",
+  "en": "sky",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v952",
+  "kana": "そんな～",
+  "kanji": null,
+  "pos": "pre.",
+  "en": "such . . . ; that kind of . . .",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v987",
+  "kana": "たすける",
+  "kanji": "助ける",
+  "pos": "ru-v.",
+  "en": "to help; to rescue",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v996",
+  "kana": "たとえば",
+  "kanji": "例えば",
+  "pos": "adv.",
+  "en": "for example",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1029",
+  "kana": "ちがう",
+  "kanji": "違う",
+  "pos": "u-v.",
+  "en": "to be different; to be wrong",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1077",
+  "kana": "つづく",
+  "kanji": "続く",
+  "pos": "u-v.",
+  "en": "to continue",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1140",
+  "kana": "どうぐ",
+  "kanji": "道具",
+  "pos": "n.",
+  "en": "tool",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1164",
+  "kana": "どこでも",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "anywhere",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1181",
+  "kana": "とぶ",
+  "kanji": "飛ぶ",
+  "pos": "u-v.",
+  "en": "to fly",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1290",
+  "kana": "～のようなもの",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "something like . . .",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1362",
+  "kana": "ばんぐみ",
+  "kanji": "番組",
+  "pos": "n.",
+  "en": "broadcast program",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1403",
+  "kana": "ひみつ",
+  "kanji": "秘密",
+  "pos": "n.",
+  "en": "secret",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1492",
+  "kana": "ポケット",
+  "kanji": null,
+  "pos": "n.",
+  "en": "pocket",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1532",
+  "kana": "また",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "in addition",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1557",
+  "kana": "みかた",
+  "kanji": "味方",
+  "pos": "n.",
+  "en": "person on one's side",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1585",
+  "kana": "みらい",
+  "kanji": "未来",
+  "pos": "n.",
+  "en": "future",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1644",
+  "kana": "もどる",
+  "kanji": "戻る",
+  "pos": "u-v.",
+  "en": "to return; to come/go back",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1716",
+  "kana": "よわい",
+  "kanji": "弱い",
+  "pos": "い-adj.",
+  "en": "weak",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v1758",
+  "kana": "ロボット",
+  "kanji": null,
+  "pos": "n.",
+  "en": "robot",
+  "chapter": 16,
+  "source": "read"
+ },
+ {
+  "id": "v13",
+  "kana": "あかちゃん",
+  "kanji": "赤ちゃん",
+  "pos": "n.",
+  "en": "baby",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v51",
+  "kana": "あぶない",
+  "kanji": "危ない",
+  "pos": "い-adj.",
+  "en": "dangerous",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v144",
+  "kana": "いれる",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to make tea, coffee, etc.",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v170",
+  "kana": "うらやましい",
+  "kanji": null,
+  "pos": "い-adj.",
+  "en": "envious",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v196",
+  "kana": "えらぶ",
+  "kanji": "選ぶ",
+  "pos": "u-v.",
+  "en": "to choose; to select",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v203",
+  "kana": "おいのりする",
+  "kanji": "お祈りする",
+  "pos": "irr-v.",
+  "en": "to pray",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v218",
+  "kana": "おきゃくさん",
+  "kanji": "お客さん",
+  "pos": "n.",
+  "en": "guest; visitor; client; customer",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v291",
+  "kana": "おめでとうございます",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "Congratulations!",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v303",
+  "kana": "おゆ",
+  "kanji": "お湯",
+  "pos": "n.",
+  "en": "hot water",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v305",
+  "kana": "おゆをわかす",
+  "kanji": "お湯を沸かす",
+  "pos": "u-v.",
+  "en": "to boil water",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v342",
+  "kana": "かぎ",
+  "kanji": "鍵",
+  "pos": "n.",
+  "en": "lock; key",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v343",
+  "kana": "かぎをかける",
+  "kanji": "鍵をかける",
+  "pos": "ru-v.",
+  "en": "to lock",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v352",
+  "kana": "かける（かぎを）",
+  "kanji": "かける（鍵を）",
+  "pos": "ru-v.",
+  "en": "to lock",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v358",
+  "kana": "かじ",
+  "kanji": "火事",
+  "pos": "n.",
+  "en": "fire",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v384",
+  "kana": "～かな（あ）",
+  "kanji": null,
+  "pos": "part.",
+  "en": "I wonder . . . (casual)",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v399",
+  "kana": "かみ",
+  "kanji": "紙",
+  "pos": "n.",
+  "en": "paper",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v402",
+  "kana": "かみをとかす",
+  "kanji": "髪をとかす",
+  "pos": "u-v.",
+  "en": "to comb one's hair",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v475",
+  "kana": "きゅうりょう",
+  "kanji": "給料",
+  "pos": "n.",
+  "en": "salary",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v546",
+  "kana": "けしょうする",
+  "kanji": "化粧する",
+  "pos": "irr-v.",
+  "en": "to put makeup on",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v642",
+  "kana": "コンタクト（レンズ）",
+  "kanji": null,
+  "pos": "n.",
+  "en": "contact lenses",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v656",
+  "kana": "さいあく（な）",
+  "kanji": "最悪",
+  "pos": "な-adj.",
+  "en": "the worst",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v685",
+  "kana": "サラリーマン",
+  "kanji": null,
+  "pos": "n.",
+  "en": "salaryman; office worker",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v691",
+  "kana": "ざんぎょう",
+  "kanji": "残業",
+  "pos": "n.",
+  "en": "overtime work",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v741",
+  "kana": "じぶん",
+  "kanji": "自分",
+  "pos": "n.",
+  "en": "oneself",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v771",
+  "kana": "しゅうしょくする",
+  "kanji": "就職する",
+  "pos": "irr-v.",
+  "en": "to get a full-time job (at . . . )",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v793",
+  "kana": "しゅしょう",
+  "kanji": "首相",
+  "pos": "n.",
+  "en": "prime minister",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v802",
+  "kana": "じゅんび",
+  "kanji": "準備",
+  "pos": "n.",
+  "en": "preparation",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v822",
+  "kana": "ショッピングモール",
+  "kanji": null,
+  "pos": "n.",
+  "en": "shopping mall",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v848",
+  "kana": "ずいぶん",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "very",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v857",
+  "kana": "すくない",
+  "kanji": "少ない",
+  "pos": "い-adj.",
+  "en": "a little; a few",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v871",
+  "kana": "スプーン",
+  "kanji": null,
+  "pos": "n.",
+  "en": "spoon",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v881",
+  "kana": "する",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to wear small items (necktie, watch, etc.)",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v924",
+  "kana": "そうか",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "I see. (casual)",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v978",
+  "kana": "たからくじ",
+  "kanji": "宝くじ",
+  "pos": "n.",
+  "en": "lottery",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v979",
+  "kana": "たからくじにあたる",
+  "kanji": "宝くじに当たる",
+  "pos": "u-v.",
+  "en": "to win a lottery",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1015",
+  "kana": "たりる",
+  "kanji": "足りる",
+  "pos": "ru-v.",
+  "en": "to be sufficient; to be enough",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1028",
+  "kana": "ちがい",
+  "kanji": "違い",
+  "pos": "n.",
+  "en": "difference",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1075",
+  "kana": "つごうがわるい",
+  "kanji": "都合が悪い",
+  "pos": "い-adj.",
+  "en": "inconvenient; to have a scheduling conflict",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1082",
+  "kana": "つよい",
+  "kanji": "強い",
+  "pos": "い-adj.",
+  "en": "strong",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1125",
+  "kana": "でんしレンジ",
+  "kanji": "電子レンジ",
+  "pos": "n.",
+  "en": "microwave oven",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1230",
+  "kana": "なれる",
+  "kanji": "慣れる",
+  "pos": "ru-v.",
+  "en": "to get used to . . .",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1240",
+  "kana": "～にくらべて",
+  "kanji": "～に比べて",
+  "pos": "part.",
+  "en": "compared with . . .",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1261",
+  "kana": "ニュース",
+  "kanji": null,
+  "pos": "n.",
+  "en": "news",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1262",
+  "kana": "～によると",
+  "kanji": null,
+  "pos": "part.",
+  "en": "according to . . .",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1268",
+  "kana": "ぬぐ",
+  "kanji": "脱ぐ",
+  "pos": "u-v.",
+  "en": "to take off (clothes)",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1366",
+  "kana": "パンダ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "panda",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1373",
+  "kana": "ヒーター",
+  "kanji": null,
+  "pos": "n.",
+  "en": "heater",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1380",
+  "kana": "ひげ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "beard",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1381",
+  "kana": "ひげをそる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "to shave one's beard",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1419",
+  "kana": "ブーツ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "boots",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1523",
+  "kana": "まえ",
+  "kanji": "前",
+  "pos": "suf.",
+  "en": "before . . .",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1668",
+  "kana": "やっぱり",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "after all",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1674",
+  "kana": "ゆ",
+  "kanji": "湯",
+  "pos": "n.",
+  "en": "hot water",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1726",
+  "kana": "りこんする",
+  "kanji": "離婚する",
+  "pos": "irr-v.",
+  "en": "to get a divorce",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1731",
+  "kana": "りょう",
+  "kanji": "寮",
+  "pos": "n.",
+  "en": "dormitory",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v1738",
+  "kana": "りょこうがいしゃ",
+  "kanji": "旅行会社",
+  "pos": "n.",
+  "en": "travel agency",
+  "chapter": 17,
+  "source": "conv"
+ },
+ {
+  "id": "v353",
+  "kana": "かける（パーマを）",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to have one's hair permed",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v380",
+  "kana": "カット",
+  "kanji": null,
+  "pos": "n.",
+  "en": "cut",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v400",
+  "kana": "かみがた",
+  "kanji": "髪形",
+  "pos": "n.",
+  "en": "hairstyle",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v408",
+  "kana": "カラー",
+  "kanji": null,
+  "pos": "n.",
+  "en": "hair coloring",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v415",
+  "kana": "かる",
+  "kanji": "刈る",
+  "pos": "u-v.",
+  "en": "to crop",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v758",
+  "kana": "シャンプー",
+  "kanji": null,
+  "pos": "n.",
+  "en": "shampoo",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v855",
+  "kana": "すく",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "thin out (hair)",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v905",
+  "kana": "セット",
+  "kanji": null,
+  "pos": "n.",
+  "en": "set",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v942",
+  "kana": "そめる",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to dye",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v944",
+  "kana": "そる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "to shave",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v950",
+  "kana": "そろえる",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to make hair even; to trim",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v1300",
+  "kana": "パーマ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "perm",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v1301",
+  "kana": "パーマをかける",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to have one's hair permed",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v1452",
+  "kana": "ブロー",
+  "kanji": null,
+  "pos": "n.",
+  "en": "blow-dry",
+  "chapter": 17,
+  "source": "extra"
+ },
+ {
+  "id": "v184",
+  "kana": "えいきょうをうける",
+  "kanji": "影響を受ける",
+  "pos": "ru-v.",
+  "en": "to be affected",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v299",
+  "kana": "おもに",
+  "kanji": "主に",
+  "pos": "adv.",
+  "en": "mainly",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v367",
+  "kana": "かぞえる",
+  "kanji": "数える",
+  "pos": "ru-v.",
+  "en": "to count",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v432",
+  "kana": "かんせいする",
+  "kanji": "完成する",
+  "pos": "irr-v.",
+  "en": "to be completed",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v516",
+  "kana": "くも",
+  "kanji": "雲",
+  "pos": "n.",
+  "en": "cloud",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v537",
+  "kana": "げいじゅつ",
+  "kanji": "芸術",
+  "pos": "n.",
+  "en": "art",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v663",
+  "kana": "さくひん",
+  "kanji": "作品",
+  "pos": "n.",
+  "en": "work (of art, etc.)",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v700",
+  "kana": "し",
+  "kanji": "詩",
+  "pos": "n.",
+  "en": "poem",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v709",
+  "kana": "しかし",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "however",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v774",
+  "kana": "じゅうでうたれる",
+  "kanji": "銃で撃たれる",
+  "pos": "exp.",
+  "en": "to be shot",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v799",
+  "kana": "しゅふ",
+  "kanji": "主夫",
+  "pos": "n.",
+  "en": "house husband",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v911",
+  "kana": "せんきゅうひゃくろくじゅうねんだい",
+  "kanji": "1960年代",
+  "pos": "n.",
+  "en": "1960's",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v939",
+  "kana": "そのご",
+  "kanji": "その後",
+  "pos": "adv.",
+  "en": "after that",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v969",
+  "kana": "だいヒット",
+  "kanji": "大ヒット",
+  "pos": "n.",
+  "en": "big hit",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v1124",
+  "kana": "てんじょう",
+  "kanji": "天井",
+  "pos": "n.",
+  "en": "ceiling",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v1129",
+  "kana": "てんらんかい",
+  "kanji": "展覧会",
+  "pos": "n.",
+  "en": "art exhibition",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v1225",
+  "kana": "なまえをつける",
+  "kanji": "名前をつける",
+  "pos": "ru-v.",
+  "en": "to name",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v1234",
+  "kana": "なんども",
+  "kanji": "何度も",
+  "pos": "adv.",
+  "en": "many times",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v1284",
+  "kana": "～のための",
+  "kanji": null,
+  "pos": "suf.",
+  "en": "for the sake of . . .",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v1304",
+  "kana": "はいく",
+  "kanji": "俳句",
+  "pos": "n.",
+  "en": "haiku",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v1315",
+  "kana": "はしご",
+  "kanji": null,
+  "pos": "n.",
+  "en": "ladders",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v1460",
+  "kana": "ぶんや",
+  "kanji": "分野",
+  "pos": "n.",
+  "en": "field; realm",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v1598",
+  "kana": "むしめがね",
+  "kanji": "虫めがね",
+  "pos": "n.",
+  "en": "magnifying glass",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v1633",
+  "kana": "もじ",
+  "kanji": "文字",
+  "pos": "n.",
+  "en": "letter; character",
+  "chapter": 17,
+  "source": "read"
+ },
+ {
+  "id": "v14",
+  "kana": "あかるい",
+  "kanji": "明るい",
+  "pos": "い-adj.",
+  "en": "bright",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v18",
+  "kana": "あく",
+  "kanji": "開く",
+  "pos": "u-v.",
+  "en": "(something) opens",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v39",
+  "kana": "あと",
+  "kanji": "後",
+  "pos": "n.",
+  "en": "the rest",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v61",
+  "kana": "あやまる",
+  "kanji": "謝る",
+  "pos": "u-v.",
+  "en": "to apologize",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v136",
+  "kana": "いますぐ",
+  "kanji": "今すぐ",
+  "pos": "adv.",
+  "en": "right away",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v214",
+  "kana": "おかげで",
+  "kanji": null,
+  "pos": "part.",
+  "en": "thanks to . . .",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v231",
+  "kana": "おさきにしつれいします",
+  "kanji": "お先に失礼します",
+  "pos": "exp.",
+  "en": "See you. (lit., I'm leaving ahead of you.)",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v243",
+  "kana": "おす",
+  "kanji": "押す",
+  "pos": "u-v.",
+  "en": "to press; to push",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v252",
+  "kana": "おちる",
+  "kanji": "落ちる",
+  "pos": "ru-v.",
+  "en": "(something) drops",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v253",
+  "kana": "おつかれさま（でした）",
+  "kanji": "お疲れ様（でした）",
+  "pos": "exp.",
+  "en": "You must be tired after working so hard. (greeting between friends and coworkers)",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v262",
+  "kana": "おとす",
+  "kanji": "落とす",
+  "pos": "u-v.",
+  "en": "to drop (something)",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v304",
+  "kana": "おゆがわく",
+  "kanji": "お湯が沸く",
+  "pos": "u-v.",
+  "en": "water boils",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v319",
+  "kana": "カーテン",
+  "kanji": null,
+  "pos": "n.",
+  "en": "curtain",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v372",
+  "kana": "かたづける",
+  "kanji": "片付ける",
+  "pos": "ru-v.",
+  "en": "to tidy up",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v425",
+  "kana": "かんがえる",
+  "kanji": "考える",
+  "pos": "ru-v.",
+  "en": "to think (about); to consider",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v440",
+  "kana": "きえる",
+  "kanji": "消える",
+  "pos": "ru-v.",
+  "en": "(something) goes off",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v518",
+  "kana": "くらい",
+  "kanji": "暗い",
+  "pos": "い-adj.",
+  "en": "dark",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v538",
+  "kana": "けいたい（でんわ）",
+  "kanji": "携帯（電話）",
+  "pos": "n.",
+  "en": "cell phone",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v633",
+  "kana": "ころぶ",
+  "kanji": "転ぶ",
+  "pos": "u-v.",
+  "en": "to fall down",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v635",
+  "kana": "こわす",
+  "kanji": "壊す",
+  "pos": "u-v.",
+  "en": "to break (something)",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v636",
+  "kana": "こわれる",
+  "kanji": "壊れる",
+  "pos": "ru-v.",
+  "en": "(something) breaks",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v662",
+  "kana": "さく",
+  "kanji": "咲く",
+  "pos": "u-v.",
+  "en": "to bloom",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v665",
+  "kana": "さくら",
+  "kanji": "桜",
+  "pos": "n.",
+  "en": "cherry blossom",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v744",
+  "kana": "しまる",
+  "kanji": "閉まる",
+  "pos": "u-v.",
+  "en": "(something) closes",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v815",
+  "kana": "しょうゆ",
+  "kanji": "しょう油",
+  "pos": "n.",
+  "en": "soy sauce",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v847",
+  "kana": "スイッチ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "switch",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v851",
+  "kana": "スープ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "soup",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v852",
+  "kana": "スカート",
+  "kanji": null,
+  "pos": "n.",
+  "en": "skirt",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v937",
+  "kana": "そと",
+  "kanji": "外",
+  "pos": "n.",
+  "en": "outside",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v941",
+  "kana": "ソファ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "sofa",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v965",
+  "kana": "たいせつ（な）",
+  "kanji": "大切",
+  "pos": "な-adj.",
+  "en": "precious; important",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v975",
+  "kana": "タオル",
+  "kanji": null,
+  "pos": "n.",
+  "en": "towel",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v986",
+  "kana": "たすかる",
+  "kanji": "助かる",
+  "pos": "u-v.",
+  "en": "to be saved; to be helped",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1003",
+  "kana": "たのむ",
+  "kanji": "頼む",
+  "pos": "u-v.",
+  "en": "to ask (a favor)",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1017",
+  "kana": "～（ん）だろう",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "short form of ～（ん）でしょう",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1049",
+  "kana": "ちゅうもんする",
+  "kanji": "注文する",
+  "pos": "irr-v.",
+  "en": "to place an order",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1071",
+  "kana": "つく",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "(something) turns on",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1143",
+  "kana": "どうしよう",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "What should I/we do?",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1253",
+  "kana": "にっき",
+  "kanji": "日記",
+  "pos": "n.",
+  "en": "diary",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1324",
+  "kana": "はずかしい",
+  "kanji": "恥ずかしい",
+  "pos": "い-adj.",
+  "en": "embarrassing; to feel embarrassed",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1345",
+  "kana": "バナナ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "banana",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1417",
+  "kana": "ふあん（な）",
+  "kanji": "不安",
+  "pos": "な-adj.",
+  "en": "anxious; worried",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1501",
+  "kana": "ポップコーン",
+  "kanji": null,
+  "pos": "n.",
+  "en": "popcorn",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1529",
+  "kana": "まず",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "first of all",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1545",
+  "kana": "～までに",
+  "kanji": null,
+  "pos": "part.",
+  "en": "by (time/date)",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1596",
+  "kana": "むし",
+  "kanji": "虫",
+  "pos": "n.",
+  "en": "insect",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1605",
+  "kana": "むり（な）",
+  "kanji": "無理",
+  "pos": "な-adj.",
+  "en": "impossible",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1665",
+  "kana": "やちん",
+  "kanji": "家賃",
+  "pos": "n.",
+  "en": "rent",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1675",
+  "kana": "ゆうがた",
+  "kanji": "夕方",
+  "pos": "n.",
+  "en": "evening",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1699",
+  "kana": "よごす",
+  "kanji": "汚す",
+  "pos": "u-v.",
+  "en": "to make dirty",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1700",
+  "kana": "よごれる",
+  "kanji": "汚れる",
+  "pos": "ru-v.",
+  "en": "to become dirty",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1746",
+  "kana": "れいぞうこ",
+  "kanji": "冷蔵庫",
+  "pos": "n.",
+  "en": "refrigerator",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v1754",
+  "kana": "ろうそく",
+  "kanji": null,
+  "pos": "n.",
+  "en": "candle",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "v94",
+  "kana": "～いじょう",
+  "kanji": "～以上",
+  "pos": "suf.",
+  "en": ". . . or more",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v382",
+  "kana": "かていきょうし",
+  "kanji": "家庭教師",
+  "pos": "n.",
+  "en": "tutor",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v724",
+  "kana": "したしい",
+  "kanji": "親しい",
+  "pos": "い-adj.",
+  "en": "close; intimate",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v781",
+  "kana": "しゅうにゅう",
+  "kanji": "収入",
+  "pos": "n.",
+  "en": "income",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v820",
+  "kana": "しょくひ",
+  "kanji": "食費",
+  "pos": "n.",
+  "en": "cost of food",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v821",
+  "kana": "じょしがくせい",
+  "kanji": "女子学生",
+  "pos": "n.",
+  "en": "female student",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v887",
+  "kana": "せいかつのゆとり",
+  "kanji": "生活のゆとり",
+  "pos": "n.",
+  "en": "extra money to spare for the cost of living",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v888",
+  "kana": "せいかつひ",
+  "kanji": "生活費",
+  "pos": "n.",
+  "en": "the cost of living",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v1020",
+  "kana": "だんしがくせい",
+  "kanji": "男子学生",
+  "pos": "n.",
+  "en": "male student",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v1032",
+  "kana": "ちからしごと",
+  "kanji": "力仕事",
+  "pos": "n.",
+  "en": "physical labor (such as construction)",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v1053",
+  "kana": "ちょきんする",
+  "kanji": "貯金する",
+  "pos": "irr-v.",
+  "en": "to deposit money (in a bank)",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v1318",
+  "kana": "はじめは",
+  "kanji": "初めは",
+  "pos": "adv.",
+  "en": "at first",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v1391",
+  "kana": "ひっこし",
+  "kanji": "引っ越し",
+  "pos": "n.",
+  "en": "moving",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v1519",
+  "kana": "まいつき",
+  "kanji": "毎月",
+  "pos": "n.",
+  "en": "every month",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v1582",
+  "kana": "～みまん",
+  "kanji": "～未満",
+  "pos": "suf.",
+  "en": "less than . . .",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v1631",
+  "kana": "もくてき",
+  "kanji": "目的",
+  "pos": "n.",
+  "en": "object; purpose",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v1692",
+  "kana": "ようふく",
+  "kanji": "洋服",
+  "pos": "n.",
+  "en": "clothes",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v1774",
+  "kana": "ワンルームマンション",
+  "kanji": null,
+  "pos": "n.",
+  "en": "studio apartment",
+  "chapter": 18,
+  "source": "read"
+ },
+ {
+  "id": "v140",
+  "kana": "いらっしゃる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "honorific expression for いく, くる, and いる",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v200",
+  "kana": "えんりょする",
+  "kanji": "遠慮する",
+  "pos": "irr-v.",
+  "en": "to hold back for the time being; to refrain from",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v221",
+  "kana": "おくさま",
+  "kanji": "奥様",
+  "pos": "n.",
+  "en": "(your/someone's) wife (polite)",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v224",
+  "kana": "おくる",
+  "kanji": "送る",
+  "pos": "u-v.",
+  "en": "to walk/drive (someone)",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v225",
+  "kana": "おくれる",
+  "kanji": "遅れる",
+  "pos": "ru-v.",
+  "en": "to become late",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v226",
+  "kana": "おこさん",
+  "kanji": "お子さん",
+  "pos": "n.",
+  "en": "(your/someone's) child (polite)",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v254",
+  "kana": "おっしゃる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "honorific expression for いう",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v263",
+  "kana": "おととい",
+  "kanji": null,
+  "pos": "n.",
+  "en": "the day before yesterday",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v302",
+  "kana": "おやすみになる",
+  "kanji": "お休みになる",
+  "pos": "u-v.",
+  "en": "honorific expression for ねる",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v309",
+  "kana": "おれい",
+  "kanji": "お礼",
+  "pos": "n.",
+  "en": "expression of gratitude",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v350",
+  "kana": "かける",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to sit down",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v462",
+  "kana": "きまる",
+  "kanji": "決まる",
+  "pos": "u-v.",
+  "en": "to be decided",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v509",
+  "kana": "くださる",
+  "kanji": "下さる",
+  "pos": "u-v.",
+  "en": "honorific expression for くれる",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v533",
+  "kana": "けいご",
+  "kanji": "敬語",
+  "pos": "n.",
+  "en": "honorific language",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v604",
+  "kana": "ごちそうする",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to treat/invite (someone) to a meal",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v606",
+  "kana": "こちら",
+  "kanji": null,
+  "pos": "n.",
+  "en": "this way (polite)",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v626",
+  "kana": "ごらんになる",
+  "kanji": "ご覧になる",
+  "pos": "u-v.",
+  "en": "honorific expression for みる",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v801",
+  "kana": "しゅるい",
+  "kanji": "種類",
+  "pos": "n.",
+  "en": "a kind; a sort",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v810",
+  "kana": "しょうしょう",
+  "kanji": "少々",
+  "pos": "adv.",
+  "en": "a few seconds",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v813",
+  "kana": "しょうたいする",
+  "kanji": "招待する",
+  "pos": "irr-v.",
+  "en": "to invite someone (to an event/a place)",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v826",
+  "kana": "しりあう",
+  "kanji": "知り合う",
+  "pos": "u-v.",
+  "en": "to get acquainted with",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v884",
+  "kana": "せいかく",
+  "kanji": "性格",
+  "pos": "n.",
+  "en": "personality",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v947",
+  "kana": "それで",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "then; therefore",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1046",
+  "kana": "ちゅうがくせい",
+  "kanji": "中学生",
+  "pos": "n.",
+  "en": "junior high school student",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1092",
+  "kana": "～ていらっしゃる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "honorific expression for ～ている",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1171",
+  "kana": "どちら",
+  "kanji": null,
+  "pos": "n.",
+  "en": "where (polite)",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1205",
+  "kana": "なかがいい",
+  "kanji": "仲がいい",
+  "pos": "い-adj.",
+  "en": "be on good/close terms; to get along well",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1210",
+  "kana": "なさる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "honorific expression for する",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1212",
+  "kana": "なぜ",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "why",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1226",
+  "kana": "なまけもの",
+  "kanji": "怠け者",
+  "pos": "n.",
+  "en": "lazy person",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1325",
+  "kana": "はずかしがりや",
+  "kanji": "恥ずかしがり屋",
+  "pos": "n.",
+  "en": "shy person",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1342",
+  "kana": "はなし",
+  "kanji": "話",
+  "pos": "n.",
+  "en": "story; talk",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1343",
+  "kana": "はなしをする",
+  "kanji": "話をする",
+  "pos": "irr-v.",
+  "en": "to have a talk",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1357",
+  "kana": "はれる",
+  "kanji": "晴れる",
+  "pos": "ru-v.",
+  "en": "to become sunny",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1392",
+  "kana": "ひっこす",
+  "kanji": "引っ越す",
+  "pos": "u-v.",
+  "en": "to move (to another place to live)",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1431",
+  "kana": "ぶちょう",
+  "kanji": "部長",
+  "pos": "n.",
+  "en": "department manager",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1512",
+  "kana": "ほんとうは",
+  "kanji": "本当は",
+  "pos": "adv.",
+  "en": "in fact; originally",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1517",
+  "kana": "まいあさ",
+  "kanji": "毎朝",
+  "pos": "adv.",
+  "en": "every morning",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1528",
+  "kana": "まじめ（な）",
+  "kanji": null,
+  "pos": "な-adj.",
+  "en": "serious; sober; diligent",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1533",
+  "kana": "まだ",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "still",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1538",
+  "kana": "まちがい",
+  "kanji": "間違い",
+  "pos": "n.",
+  "en": "mistake",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1609",
+  "kana": "～めいさま",
+  "kanji": "～名様",
+  "pos": "suf.",
+  "en": "party of . . . people",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1614",
+  "kana": "めしあがる",
+  "kanji": "召し上がる",
+  "pos": "u-v.",
+  "en": "honorific expression for たべる and のむ",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1642",
+  "kana": "もてる",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to be popular (in terms of romantic interest)",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1690",
+  "kana": "ようこそ",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "Welcome.",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1707",
+  "kana": "よぶ",
+  "kanji": "呼ぶ",
+  "pos": "u-v.",
+  "en": "to call (one's name); to invite",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1712",
+  "kana": "よる",
+  "kanji": "寄る",
+  "pos": "u-v.",
+  "en": "to stop by",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v1714",
+  "kana": "よろしくおつたえください",
+  "kanji": "よろしくお伝えください",
+  "pos": "exp.",
+  "en": "Please give my best regards (to . . . ).",
+  "chapter": 19,
+  "source": "conv"
+ },
+ {
+  "id": "v87",
+  "kana": "いかが",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "how (polite expression of どう)",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v155",
+  "kana": "うける",
+  "kanji": "受ける",
+  "pos": "ru-v.",
+  "en": "to take (an examination)",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v244",
+  "kana": "おせわになる",
+  "kanji": "お世話になる",
+  "pos": "u-v.",
+  "en": "to be in someone's care",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v293",
+  "kana": "おもいだす",
+  "kanji": "思い出す",
+  "pos": "u-v.",
+  "en": "to recall",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v586",
+  "kana": "こくさい",
+  "kanji": "国際",
+  "pos": "n.",
+  "en": "international",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v731",
+  "kana": "しつもん",
+  "kanji": "質問",
+  "pos": "n.",
+  "en": "question",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v808",
+  "kana": "しょうぎ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "Japanese chess",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v948",
+  "kana": "それでは",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "well then",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v966",
+  "kana": "たいせつにする",
+  "kanji": "大切にする",
+  "pos": "irr-v.",
+  "en": "to take good care of",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v972",
+  "kana": "たいへん",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "greatly",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v992",
+  "kana": "たつ",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "(time) pass",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v1044",
+  "kana": "～ちゅう",
+  "kanji": "～中",
+  "pos": "suf.",
+  "en": "while . . .",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v1121",
+  "kana": "でんきこうがく",
+  "kanji": "電気工学",
+  "pos": "n.",
+  "en": "electrical engineering",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v1146",
+  "kana": "どうぞよろしくおねがいします",
+  "kanji": "どうぞよろしくお願いします",
+  "pos": "exp.",
+  "en": "Thank you in advance.",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v1174",
+  "kana": "とつぜん",
+  "kanji": "突然",
+  "pos": "adv.",
+  "en": "suddenly",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v1214",
+  "kana": "なつかしい",
+  "kanji": null,
+  "pos": "い-adj.",
+  "en": "to miss; to long for",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v1282",
+  "kana": "～のしょうかいで",
+  "kanji": "～の紹介で",
+  "pos": "exp.",
+  "en": "through the introduction of",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v1283",
+  "kana": "～のために",
+  "kanji": null,
+  "pos": "part.",
+  "en": "for . . .",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v1578",
+  "kana": "みなさま",
+  "kanji": "みな様",
+  "pos": "n.",
+  "en": "everyone (polite expression of みなさん)",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v1625",
+  "kana": "もうしこみ",
+  "kanji": "申し込み",
+  "pos": "n.",
+  "en": "application",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v1626",
+  "kana": "もうしわけありません",
+  "kanji": "申し訳ありません",
+  "pos": "exp.",
+  "en": "You have my apologies.",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v1634",
+  "kana": "もし～たら",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "if . . .",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v1679",
+  "kana": "ゆうじん",
+  "kanji": "友人",
+  "pos": "n.",
+  "en": "friend",
+  "chapter": 19,
+  "source": "read"
+ },
+ {
+  "id": "v35",
+  "kana": "あちら",
+  "kanji": null,
+  "pos": "n.",
+  "en": "that way (polite)",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v46",
+  "kana": "アニメ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "animation",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v100",
+  "kana": "いたす",
+  "kanji": "致す",
+  "pos": "u-v.",
+  "en": "extra-modest expression for する",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v102",
+  "kana": "いただく",
+  "kanji": "頂く",
+  "pos": "u-v.",
+  "en": "extra-modest expression for たべる and のむ",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v103",
+  "kana": "いただく",
+  "kanji": "頂く",
+  "pos": "u-v.",
+  "en": "humble expression for もらう",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v121",
+  "kana": "いっかい",
+  "kanji": "一階",
+  "pos": "n.",
+  "en": "first floor",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v153",
+  "kana": "うかがう",
+  "kanji": "伺う",
+  "pos": "u-v.",
+  "en": "to humbly visit; to humbly ask",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v162",
+  "kana": "うちゅうじん",
+  "kanji": "宇宙人",
+  "pos": "n.",
+  "en": "space alien",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v249",
+  "kana": "おたく",
+  "kanji": "お宅",
+  "pos": "n.",
+  "en": "(someone's) home/house",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v257",
+  "kana": "おと",
+  "kanji": "音",
+  "pos": "n.",
+  "en": "sound",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v272",
+  "kana": "おにぎり",
+  "kanji": null,
+  "pos": "n.",
+  "en": "rice ball",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v292",
+  "kana": "おもい",
+  "kanji": "重い",
+  "pos": "い-adj.",
+  "en": "heavy; serious (illness)",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v308",
+  "kana": "おる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "extra-modest expression for いる",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v321",
+  "kana": "～かい",
+  "kanji": "～階",
+  "pos": "suf.",
+  "en": ". . . th floor",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v340",
+  "kana": "かかりのもの",
+  "kanji": "係の者",
+  "pos": "n.",
+  "en": "our person in charge",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v360",
+  "kana": "かしこまりました",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "Certainly.",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v383",
+  "kana": "かど",
+  "kanji": "角",
+  "pos": "n.",
+  "en": "corner",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v416",
+  "kana": "かるい",
+  "kanji": "軽い",
+  "pos": "い-adj.",
+  "en": "light",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v447",
+  "kana": "きこえる",
+  "kanji": "聞こえる",
+  "pos": "ru-v.",
+  "en": "to be audible",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v571",
+  "kana": "こうかんする",
+  "kanji": "交換する",
+  "pos": "irr-v.",
+  "en": "to exchange",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v595",
+  "kana": "ござる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "extra-modest expression for ある",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v667",
+  "kana": "さしあげる",
+  "kanji": "差し上げる",
+  "pos": "ru-v.",
+  "en": "humble expression for あげる",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v701",
+  "kana": "じ",
+  "kanji": "字",
+  "pos": "n.",
+  "en": "letter; character",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v732",
+  "kana": "しつれいしました",
+  "kanji": "失礼しました",
+  "pos": "exp.",
+  "en": "I'm very sorry.",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v735",
+  "kana": "してん",
+  "kanji": "支店",
+  "pos": "n.",
+  "en": "branch office",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v800",
+  "kana": "しゅみ",
+  "kanji": "趣味",
+  "pos": "n.",
+  "en": "hobby; pastime",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v812",
+  "kana": "しょうせつ",
+  "kanji": "小説",
+  "pos": "n.",
+  "en": "novel",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v836",
+  "kana": "しんごう",
+  "kanji": "信号",
+  "pos": "n.",
+  "en": "traffic light",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v869",
+  "kana": "スニーカー",
+  "kanji": null,
+  "pos": "n.",
+  "en": "sneakers",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v886",
+  "kana": "せいかつする",
+  "kanji": "生活する",
+  "pos": "irr-v.",
+  "en": "to lead a life",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v915",
+  "kana": "せんす",
+  "kanji": "扇子",
+  "pos": "n.",
+  "en": "(hand) fan",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1065",
+  "kana": "つき",
+  "kanji": "月",
+  "pos": "n.",
+  "en": "moon",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1076",
+  "kana": "つたえる",
+  "kanji": "伝える",
+  "pos": "ru-v.",
+  "en": "to convey message",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1078",
+  "kana": "つづける",
+  "kanji": "続ける",
+  "pos": "ru-v.",
+  "en": "to continue",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1094",
+  "kana": "～ておる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "extra-modest expression for ～ている",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1099",
+  "kana": "できれば",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "if possible",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1101",
+  "kana": "～でござる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "extra-modest expression for です",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1109",
+  "kana": "では",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "well then (polite)",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1137",
+  "kana": "ドイツ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "Germany",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1148",
+  "kana": "どうぶつ",
+  "kanji": "動物",
+  "pos": "n.",
+  "en": "animal",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1425",
+  "kana": "ふしぎ（な）",
+  "kanji": "不思議",
+  "pos": "な-adj.",
+  "en": "mysterious",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1468",
+  "kana": "ヘッドホン",
+  "kanji": null,
+  "pos": "n.",
+  "en": "headphones",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1479",
+  "kana": "へんぴんする",
+  "kanji": "返品する",
+  "pos": "irr-v.",
+  "en": "to return (merchandise)",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1522",
+  "kana": "まいる",
+  "kanji": "参る",
+  "pos": "u-v.",
+  "en": "extra-modest expression for いく and くる",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1525",
+  "kana": "まがる",
+  "kanji": "曲がる",
+  "pos": "u-v.",
+  "en": "to turn (right/left)",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1527",
+  "kana": "まことに",
+  "kanji": "誠に",
+  "pos": "adv.",
+  "en": "really (very polite)",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1531",
+  "kana": "また",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "again",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1535",
+  "kana": "またせる",
+  "kanji": "待たせる",
+  "pos": "ru-v.",
+  "en": "to keep (someone) waiting",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1568",
+  "kana": "～みたいなX",
+  "kanji": null,
+  "pos": "suf.",
+  "en": "X like . . .",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1627",
+  "kana": "もうす",
+  "kanji": "申す",
+  "pos": "u-v.",
+  "en": "extra-modest expression for いう",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1651",
+  "kana": "～や",
+  "kanji": "～屋",
+  "pos": "suf.",
+  "en": ". . . shop",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v1713",
+  "kana": "よろしかったら",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "if it is okay (polite)",
+  "chapter": 20,
+  "source": "conv"
+ },
+ {
+  "id": "v77",
+  "kana": "あんなに",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "so; such",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v132",
+  "kana": "いなか",
+  "kanji": null,
+  "pos": "n.",
+  "en": "countryside",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v175",
+  "kana": "うれる",
+  "kanji": "売れる",
+  "pos": "ru-v.",
+  "en": "to be sold",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v190",
+  "kana": "えさ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "feed",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v193",
+  "kana": "えど",
+  "kanji": "江戸",
+  "pos": "n.",
+  "en": "former name of Tokyo",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v194",
+  "kana": "えどじだい",
+  "kanji": "江戸時代",
+  "pos": "n.",
+  "en": "Edo period (1603－1868)",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v375",
+  "kana": "がっかりする",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to be disappointed",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v594",
+  "kana": "こころ",
+  "kanji": "心",
+  "pos": "n.",
+  "en": "mind; heart",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v878",
+  "kana": "する",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to cost",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v904",
+  "kana": "ぜったいに",
+  "kanji": "絶対に",
+  "pos": "adv.",
+  "en": "definitely; no matter what",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v927",
+  "kana": "そうだ！",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "I have an idea!",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v980",
+  "kana": "だく",
+  "kanji": "抱く",
+  "pos": "u-v.",
+  "en": "to hold something in one's arm",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v1010",
+  "kana": "だます",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "to deceive",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v1042",
+  "kana": "ちゃみせ",
+  "kanji": "茶店",
+  "pos": "n.",
+  "en": "teahouse",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v1184",
+  "kana": "とまる",
+  "kanji": "止まる",
+  "pos": "u-v.",
+  "en": "to stop",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v1242",
+  "kana": "にこにこする",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to smile",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v1273",
+  "kana": "ねだん",
+  "kanji": "値段",
+  "pos": "n.",
+  "en": "price",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v1389",
+  "kana": "ひっかく",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "to scratch",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v1581",
+  "kana": "みぶり",
+  "kanji": "身ぶり",
+  "pos": "n.",
+  "en": "gesture",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v1666",
+  "kana": "やった！",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "I did it!",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v1723",
+  "kana": "らくご",
+  "kanji": "落語",
+  "pos": "n.",
+  "en": "comic monologue",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v1724",
+  "kana": "らくごか",
+  "kanji": "落語家",
+  "pos": "n.",
+  "en": "comic storyteller",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v1730",
+  "kana": "りょう",
+  "kanji": "両",
+  "pos": "n.",
+  "en": "a unit of currency used in the Edo period",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v1768",
+  "kana": "わたす",
+  "kanji": "渡す",
+  "pos": "u-v.",
+  "en": "to give; to hand",
+  "chapter": 20,
+  "source": "read"
+ },
+ {
+  "id": "v75",
+  "kana": "あんぜん（な）",
+  "kanji": "安全",
+  "pos": "な-adj.",
+  "en": "safe",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v83",
+  "kana": "いう（もんくを）",
+  "kanji": "言う（文句を）",
+  "pos": "u-v.",
+  "en": "to complain",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v92",
+  "kana": "いじめる",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to bully",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v220",
+  "kana": "おく",
+  "kanji": "置く",
+  "pos": "u-v.",
+  "en": "to put; to lay; to place",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v316",
+  "kana": "か",
+  "kanji": "蚊",
+  "pos": "n.",
+  "en": "mosquito",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v323",
+  "kana": "かいぎ",
+  "kanji": "会議",
+  "pos": "n.",
+  "en": "business meeting; conference",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v369",
+  "kana": "ガソリン",
+  "kanji": null,
+  "pos": "n.",
+  "en": "gasoline",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v426",
+  "kana": "かんきょう",
+  "kanji": "環境",
+  "pos": "n.",
+  "en": "environment",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v442",
+  "kana": "きがえる",
+  "kanji": "着替える",
+  "pos": "ru-v.",
+  "en": "to change clothes",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v443",
+  "kana": "きがつく",
+  "kanji": "気が付く",
+  "pos": "u-v.",
+  "en": "to notice",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v521",
+  "kana": "くらべる",
+  "kanji": "比べる",
+  "pos": "ru-v.",
+  "en": "to compare",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v535",
+  "kana": "けいさつ",
+  "kanji": "警察",
+  "pos": "n.",
+  "en": "police; police station",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v557",
+  "kana": "ける",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "to kick",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v576",
+  "kana": "こうじょう",
+  "kanji": "工場",
+  "pos": "n.",
+  "en": "factory",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v599",
+  "kana": "ごぜんちゅう",
+  "kanji": "午前中",
+  "pos": "n.",
+  "en": "in the morning",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v608",
+  "kana": "こと",
+  "kanji": null,
+  "pos": "n.",
+  "en": "things; matters",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v630",
+  "kana": "～ころ",
+  "kanji": null,
+  "pos": "suf.",
+  "en": "time of . . . ; when . . .",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v668",
+  "kana": "さす",
+  "kanji": "刺す",
+  "pos": "u-v.",
+  "en": "to bite",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v687",
+  "kana": "さわる",
+  "kanji": "触る",
+  "pos": "u-v.",
+  "en": "to touch",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v775",
+  "kana": "しゅうでん",
+  "kanji": "終電",
+  "pos": "n.",
+  "en": "last train (of the day)",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v789",
+  "kana": "じゅぎょうりょう",
+  "kanji": "授業料",
+  "pos": "n.",
+  "en": "tuition",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v838",
+  "kana": "しんじる",
+  "kanji": "信じる",
+  "pos": "ru-v.",
+  "en": "to believe",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v861",
+  "kana": "すこし",
+  "kanji": "少し",
+  "pos": "adv.",
+  "en": "a little",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v870",
+  "kana": "スピーチ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "speech",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v894",
+  "kana": "せいふ",
+  "kanji": "政府",
+  "pos": "n.",
+  "en": "government",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1014",
+  "kana": "ためる",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to save money",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1033",
+  "kana": "ちかん",
+  "kanji": null,
+  "pos": "n.",
+  "en": "groper; pervert",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1062",
+  "kana": "つかまる",
+  "kanji": "捕まる",
+  "pos": "u-v.",
+  "en": "to be arrested; to be caught",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1079",
+  "kana": "つつむ",
+  "kanji": "包む",
+  "pos": "u-v.",
+  "en": "to wrap; to cover",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1152",
+  "kana": "どうりょう",
+  "kanji": "同僚",
+  "pos": "n.",
+  "en": "colleague",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1154",
+  "kana": "とおい",
+  "kanji": "遠い",
+  "pos": "い-adj.",
+  "en": "far (away)",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1178",
+  "kana": "とにかく",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "anyhow; anyway",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1197",
+  "kana": "どろぼう",
+  "kanji": "泥棒",
+  "pos": "n.",
+  "en": "thief; burglar",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1209",
+  "kana": "なぐる",
+  "kanji": "殴る",
+  "pos": "u-v.",
+  "en": "to strike; to hit; to punch",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1269",
+  "kana": "ぬすむ",
+  "kanji": "盗む",
+  "pos": "u-v.",
+  "en": "to steal; to rob",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1309",
+  "kana": "ばかにする",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to insult; to make a fool of . . .",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1355",
+  "kana": "はる",
+  "kanji": "貼る",
+  "pos": "u-v.",
+  "en": "to post; to stick",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1369",
+  "kana": "はんにん",
+  "kanji": "犯人",
+  "pos": "n.",
+  "en": "criminal",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1390",
+  "kana": "びっくりする",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to be surprised",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1394",
+  "kana": "ひどい",
+  "kanji": null,
+  "pos": "い-adj.",
+  "en": "awful",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1410",
+  "kana": "ひるねをする",
+  "kanji": "昼寝をする",
+  "pos": "irr-v.",
+  "en": "to take a nap",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1443",
+  "kana": "ふむ",
+  "kanji": "踏む",
+  "pos": "u-v.",
+  "en": "to step on",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1447",
+  "kana": "ふる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "to turn down (somebody); to reject; to jilt",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1473",
+  "kana": "へん（な）",
+  "kanji": "変",
+  "pos": "な-adj.",
+  "en": "strange; unusual",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1499",
+  "kana": "ポスター",
+  "kanji": null,
+  "pos": "n.",
+  "en": "poster",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1503",
+  "kana": "ほめる",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to praise; to say nice things",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1539",
+  "kana": "まちがえる",
+  "kanji": "間違える",
+  "pos": "ru-v.",
+  "en": "to make a mistake",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1574",
+  "kana": "みつける",
+  "kanji": "見つける",
+  "pos": "ru-v.",
+  "en": "to find",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1593",
+  "kana": "むかし",
+  "kanji": "昔",
+  "pos": "n.",
+  "en": "old days; past",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1616",
+  "kana": "めちゃくちゃ（な）",
+  "kanji": null,
+  "pos": "な-adj.",
+  "en": "messy; disorganized",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1649",
+  "kana": "もんく",
+  "kanji": "文句",
+  "pos": "n.",
+  "en": "complaint",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1650",
+  "kana": "もんくをいう",
+  "kanji": "文句を言う",
+  "pos": "u-v.",
+  "en": "to complain",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1653",
+  "kana": "やく",
+  "kanji": "焼く",
+  "pos": "u-v.",
+  "en": "to bake; to burn; to grill",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1673",
+  "kana": "やる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "to give (to pets, plants, younger siblings, etc.)",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1743",
+  "kana": "るす",
+  "kanji": "留守",
+  "pos": "n.",
+  "en": "absence; not at home",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v1753",
+  "kana": "れんらくする",
+  "kanji": "連絡する",
+  "pos": "irr-v.",
+  "en": "to contact",
+  "chapter": 21,
+  "source": "conv"
+ },
+ {
+  "id": "v122",
+  "kana": "いっしょうけんめい",
+  "kanji": "一生懸命",
+  "pos": "adv.",
+  "en": "very hard",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v169",
+  "kana": "うらない",
+  "kanji": "占い",
+  "pos": "n.",
+  "en": "fortune-telling",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v208",
+  "kana": "おおくの～",
+  "kanji": "多くの～",
+  "pos": "pre.",
+  "en": "many . . .",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v228",
+  "kana": "おこる",
+  "kanji": "起こる",
+  "pos": "u-v.",
+  "en": "to occur; to happen",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v288",
+  "kana": "おまもり",
+  "kanji": "お守り",
+  "pos": "n.",
+  "en": "charm (against evils); amulet",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v405",
+  "kana": "かよう",
+  "kanji": "通う",
+  "pos": "u-v.",
+  "en": "to commute to",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v457",
+  "kana": "きにする",
+  "kanji": "気にする",
+  "pos": "irr-v.",
+  "en": "to worry",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v818",
+  "kana": "しょくじ",
+  "kanji": "食事",
+  "pos": "n.",
+  "en": "meal",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v841",
+  "kana": "しんぱい（な）",
+  "kanji": "心配",
+  "pos": "な-adj.",
+  "en": "worried about",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v893",
+  "kana": "ぜいたくをする",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to indulge in luxury",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v990",
+  "kana": "ただの～",
+  "kanji": null,
+  "pos": "pre.",
+  "en": "nothing more than . . .",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v999",
+  "kana": "たのしみ",
+  "kanji": "楽しみ",
+  "pos": "n.",
+  "en": "pleasure",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v1166",
+  "kana": "ところが",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "however; on the contrary",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v1204",
+  "kana": "ながいあいだ",
+  "kanji": "長い間",
+  "pos": "adv.",
+  "en": "long time",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v1260",
+  "kana": "にゅういんする",
+  "kanji": "入院する",
+  "pos": "irr-v.",
+  "en": "to be hospitalized",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v1442",
+  "kana": "ふべん（な）",
+  "kanji": "不便",
+  "pos": "な-adj.",
+  "en": "inconvenient",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v1610",
+  "kana": "めいしん",
+  "kanji": "迷信",
+  "pos": "n.",
+  "en": "superstition",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v1618",
+  "kana": "めったに～ない",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "seldom",
+  "chapter": 21,
+  "source": "read"
+ },
+ {
+  "id": "v6",
+  "kana": "あいて",
+  "kanji": "相手",
+  "pos": "n.",
+  "en": "partner; the other person",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v154",
+  "kana": "うけつけ",
+  "kanji": "受付",
+  "pos": "n.",
+  "en": "reception desk",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v173",
+  "kana": "うるさい",
+  "kanji": null,
+  "pos": "い-adj.",
+  "en": "noisy; annoying",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v182",
+  "kana": "えいかいわ",
+  "kanji": "英会話",
+  "pos": "n.",
+  "en": "English conversation",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v240",
+  "kana": "おじょうさん",
+  "kanji": "お嬢さん",
+  "pos": "n.",
+  "en": "(someone's) daughter (polite)",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v275",
+  "kana": "おねがいする",
+  "kanji": "お願いする",
+  "pos": "irr-v.",
+  "en": "to request help",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v359",
+  "kana": "かじ",
+  "kanji": "家事",
+  "pos": "n.",
+  "en": "housework",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v363",
+  "kana": "かぜ",
+  "kanji": "風",
+  "pos": "n.",
+  "en": "wind",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v365",
+  "kana": "かぜがふく",
+  "kanji": "風が吹く",
+  "pos": "u-v.",
+  "en": "the wind blows",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v374",
+  "kana": "かつ",
+  "kanji": "勝つ",
+  "pos": "u-v.",
+  "en": "to win",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v401",
+  "kana": "かみさま",
+  "kanji": "神様",
+  "pos": "n.",
+  "en": "God",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v438",
+  "kana": "き",
+  "kanji": "木",
+  "pos": "n.",
+  "en": "tree",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v531",
+  "kana": "けいかくをたてる",
+  "kanji": "計画を立てる",
+  "pos": "ru-v.",
+  "en": "to make a plan",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v580",
+  "kana": "こうはい",
+  "kanji": "後輩",
+  "pos": "n.",
+  "en": "junior member of a group",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v619",
+  "kana": "コピーをとる",
+  "kanji": "コピーを取る",
+  "pos": "u-v.",
+  "en": "to make a photocopy",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v646",
+  "kana": "こんなふう",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "like this",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v686",
+  "kana": "さる",
+  "kanji": "猿",
+  "pos": "n.",
+  "en": "monkey",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v694",
+  "kana": "さんせいする",
+  "kanji": "賛成する",
+  "pos": "irr-v.",
+  "en": "to agree",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v729",
+  "kana": "しっぱいする",
+  "kanji": "失敗する",
+  "pos": "irr-v.",
+  "en": "to fail; to be unsuccessful",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v759",
+  "kana": "じゆう",
+  "kanji": "自由",
+  "pos": "n.",
+  "en": "freedom",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v777",
+  "kana": "じゆうに",
+  "kanji": "自由に",
+  "pos": "adv.",
+  "en": "freely",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v790",
+  "kana": "じゅく",
+  "kanji": "塾",
+  "pos": "n.",
+  "en": "cram school",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v823",
+  "kana": "しょるい",
+  "kanji": "書類",
+  "pos": "n.",
+  "en": "document",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v864",
+  "kana": "ずっと",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "for a long time; all the time",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v934",
+  "kana": "そだてる",
+  "kanji": "育てる",
+  "pos": "ru-v.",
+  "en": "to raise; to bring up",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v953",
+  "kana": "そんなこと（は）ない",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "I don't think so.",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1043",
+  "kana": "～ちゃん",
+  "kanji": null,
+  "pos": "suf.",
+  "en": "suffix for names of children",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1107",
+  "kana": "てつやする",
+  "kanji": "徹夜する",
+  "pos": "irr-v.",
+  "en": "to stay up all night",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1158",
+  "kana": "～とか",
+  "kanji": null,
+  "pos": "part.",
+  "en": ". . . for example",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1313",
+  "kana": "はこぶ",
+  "kanji": "運ぶ",
+  "pos": "u-v.",
+  "en": "to carry",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1367",
+  "kana": "はんたいする",
+  "kanji": "反対する",
+  "pos": "irr-v.",
+  "en": "to oppose; to object to",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1399",
+  "kana": "ひとりぐらし",
+  "kanji": "一人暮らし",
+  "pos": "n.",
+  "en": "living alone",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1412",
+  "kana": "ひろう",
+  "kanji": "拾う",
+  "pos": "u-v.",
+  "en": "to pick up (something)",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1414",
+  "kana": "びんぼう（な）",
+  "kanji": "貧乏",
+  "pos": "な-adj.",
+  "en": "poor",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1421",
+  "kana": "ぶか",
+  "kanji": "部下",
+  "pos": "n.",
+  "en": "subordinate",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1423",
+  "kana": "ふくしゅう",
+  "kanji": "復習",
+  "pos": "n.",
+  "en": "review of a lesson",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1453",
+  "kana": "プロジェクト",
+  "kanji": null,
+  "pos": "n.",
+  "en": "project",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1471",
+  "kana": "ぺらぺら（な）",
+  "kanji": null,
+  "pos": "な-adj.",
+  "en": "fluent",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1483",
+  "kana": "ほ（う）っておく",
+  "kanji": "放っておく",
+  "pos": "u-v.",
+  "en": "to leave (someone/something) alone; to neglect",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1488",
+  "kana": "ボール",
+  "kanji": null,
+  "pos": "n.",
+  "en": "ball",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1514",
+  "kana": "ほんやくする",
+  "kanji": "翻訳する",
+  "pos": "irr-v.",
+  "en": "to translate",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1526",
+  "kana": "まける",
+  "kanji": "負ける",
+  "pos": "ru-v.",
+  "en": "to lose (a match)",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1547",
+  "kana": "まにあう",
+  "kanji": "間に合う",
+  "pos": "u-v.",
+  "en": "to be in time",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1601",
+  "kana": "むだづかい",
+  "kanji": "無駄遣い",
+  "pos": "n.",
+  "en": "waste (money)",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1621",
+  "kana": "めんきょ",
+  "kanji": "免許",
+  "pos": "n.",
+  "en": "license",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1629",
+  "kana": "もうすこし",
+  "kanji": "もう少し",
+  "pos": "adv.",
+  "en": "a little more",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1693",
+  "kana": "ヨーロッパ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "Europe",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1702",
+  "kana": "よしゅう",
+  "kanji": "予習",
+  "pos": "n.",
+  "en": "preparation of a lesson",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1722",
+  "kana": "らく（な）",
+  "kanji": "楽",
+  "pos": "な-adj.",
+  "en": "easy; comfortable",
+  "chapter": 22,
+  "source": "conv"
+ },
+ {
+  "id": "v1",
+  "kana": "あいかわらず",
+  "kanji": "相変わらず",
+  "pos": "adv.",
+  "en": "as usual",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v165",
+  "kana": "うまく",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "well; successfully; skillfully",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v166",
+  "kana": "うまくいく",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "to go well",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v171",
+  "kana": "うらやましがる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "(somebody is) envious",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v423",
+  "kana": "かわりに",
+  "kanji": "代わりに",
+  "pos": "adv.",
+  "en": "instead",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v710",
+  "kana": "しかたがない",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "cannot be helped",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v844",
+  "kana": "しんゆう",
+  "kanji": "親友",
+  "pos": "n.",
+  "en": "best friend",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v970",
+  "kana": "タイプ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "type",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v998",
+  "kana": "たのしそうに",
+  "kanji": "楽しそうに",
+  "pos": "adv.",
+  "en": "joyfully",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v1232",
+  "kana": "なんだか",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "somehow",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v1241",
+  "kana": "にげる",
+  "kanji": "逃げる",
+  "pos": "ru-v.",
+  "en": "to run away; to escape",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v1436",
+  "kana": "ふつかかん",
+  "kanji": "二日間",
+  "pos": "adv.",
+  "en": "for two days",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v1485",
+  "kana": "ホーム",
+  "kanji": null,
+  "pos": "n.",
+  "en": "platform",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v1540",
+  "kana": "まちどおしい",
+  "kanji": "待ち遠しい",
+  "pos": "い-adj.",
+  "en": "to wait eagerly for . . .",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v1617",
+  "kana": "メッセージ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "message; text",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v1676",
+  "kana": "ゆうき",
+  "kanji": "勇気",
+  "pos": "n.",
+  "en": "courage",
+  "chapter": 22,
+  "source": "read"
+ },
+ {
+  "id": "v59",
+  "kana": "あめがやむ",
+  "kanji": "雨がやむ",
+  "pos": "u-v.",
+  "en": "the rain stops",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v84",
+  "kana": "いう（わるぐちを）",
+  "kanji": "言う（悪口を）",
+  "pos": "u-v.",
+  "en": "to talk behind someone's back",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v133",
+  "kana": "いなくなる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "(someone) is gone; to disappear",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v269",
+  "kana": "おなかをこわす",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "to have a stomachache",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v294",
+  "kana": "おもいで",
+  "kanji": "思い出",
+  "pos": "n.",
+  "en": "memory",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v322",
+  "kana": "かいがいりょこう",
+  "kanji": "海外旅行",
+  "pos": "n.",
+  "en": "trip to a foreign country",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v330",
+  "kana": "かいだん",
+  "kanji": "階段",
+  "pos": "n.",
+  "en": "stairs",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v339",
+  "kana": "～かおをする",
+  "kanji": "～顔をする",
+  "pos": "irr-v.",
+  "en": "to look . . . (facial expression)",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v397",
+  "kana": "がまんする",
+  "kanji": "我慢する",
+  "pos": "irr-v.",
+  "en": "to be tolerant/patient",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v422",
+  "kana": "かわいそう（な）",
+  "kanji": null,
+  "pos": "な-adj.",
+  "en": "pitiful; feel sorry for; poor thing",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v435",
+  "kana": "カンニングする",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to cheat in an exam",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v456",
+  "kana": "きにいる",
+  "kanji": "気に入る",
+  "pos": "u-v.",
+  "en": "to find something agreeable",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v468",
+  "kana": "きゅうこう",
+  "kanji": "休講",
+  "pos": "n.",
+  "en": "class cancellation",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v513",
+  "kana": "くつした",
+  "kanji": "靴下",
+  "pos": "n.",
+  "en": "socks",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v550",
+  "kana": "けっか",
+  "kanji": "結果",
+  "pos": "n.",
+  "en": "result",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v561",
+  "kana": "げんきでね",
+  "kanji": "元気でね",
+  "pos": "exp.",
+  "en": "Take care of yourself.",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v565",
+  "kana": "けんこう",
+  "kanji": "健康",
+  "pos": "n.",
+  "en": "health",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v601",
+  "kana": "こたえる",
+  "kanji": "答える",
+  "pos": "ru-v.",
+  "en": "to answer",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v658",
+  "kana": "さいごに",
+  "kanji": "最後に",
+  "pos": "adv.",
+  "en": "finally; lastly",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v749",
+  "kana": "しゃかい",
+  "kanji": "社会",
+  "pos": "n.",
+  "en": "society",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v807",
+  "kana": "しょうがっこう",
+  "kanji": "小学校",
+  "pos": "n.",
+  "en": "elementary school",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v910",
+  "kana": "せわをする",
+  "kanji": "世話をする",
+  "pos": "irr-v.",
+  "en": "to take care of . . .",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v926",
+  "kana": "そうそう",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "You are right.",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v951",
+  "kana": "そろそろ",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "it is about time to . . .",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v988",
+  "kana": "ただ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "free of charge",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1013",
+  "kana": "～ために",
+  "kanji": null,
+  "pos": "exp.",
+  "en": "for . . . ; for the sake of . . .",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1025",
+  "kana": "チェックする",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to check",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1050",
+  "kana": "ちょうさ",
+  "kanji": "調査",
+  "pos": "n.",
+  "en": "survey",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1144",
+  "kana": "どうじょうする",
+  "kanji": "同情する",
+  "pos": "irr-v.",
+  "en": "to sympathize",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1208",
+  "kana": "なくなる",
+  "kanji": null,
+  "pos": "u-v.",
+  "en": "to be lost; to disappear",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1347",
+  "kana": "はなれる",
+  "kanji": "離れる",
+  "pos": "ru-v.",
+  "en": "(something/someone) separates; parts from",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1424",
+  "kana": "ふくろ",
+  "kanji": "袋",
+  "pos": "n.",
+  "en": "bag; sack; plastic/paper bag",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1509",
+  "kana": "ぼんおどり",
+  "kanji": "盆踊り",
+  "pos": "n.",
+  "en": "Bon dance (Japanese traditional dance)",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1530",
+  "kana": "まずい",
+  "kanji": null,
+  "pos": "い-adj.",
+  "en": "(food is) terrible",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1622",
+  "kana": "めんせつ",
+  "kanji": "面接",
+  "pos": "n.",
+  "en": "interview",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1643",
+  "kana": "もどってくる",
+  "kanji": "戻ってくる",
+  "pos": "irr-v.",
+  "en": "(something/someone) comes back",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1646",
+  "kana": "ものすごく",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "extremely",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1677",
+  "kana": "ゆうしょうする",
+  "kanji": "優勝する",
+  "pos": "irr-v.",
+  "en": "to win a championship",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1678",
+  "kana": "ゆうしょく",
+  "kanji": "夕食",
+  "pos": "n.",
+  "en": "dinner",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1727",
+  "kana": "りそう",
+  "kanji": "理想",
+  "pos": "n.",
+  "en": "ideal",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1744",
+  "kana": "るすばん",
+  "kanji": "留守番",
+  "pos": "n.",
+  "en": "looking after a house during someone's absence",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v1773",
+  "kana": "わるぐちをいう",
+  "kanji": "悪口を言う",
+  "pos": "u-v.",
+  "en": "to talk behind someone's back",
+  "chapter": 23,
+  "source": "conv"
+ },
+ {
+  "id": "v2",
+  "kana": "あいさつ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "greetings",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v63",
+  "kana": "あらわす",
+  "kanji": "表す",
+  "pos": "u-v.",
+  "en": "to express; to show",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v130",
+  "kana": "いっぽう",
+  "kanji": "一方",
+  "pos": "adv.",
+  "en": "on the other hand",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v192",
+  "kana": "エスエヌエス",
+  "kanji": "SNS",
+  "pos": "n.",
+  "en": "social media",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v195",
+  "kana": "えもじ",
+  "kanji": "絵文字",
+  "pos": "n.",
+  "en": "emoji",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v338",
+  "kana": "かおもじ",
+  "kanji": "顔文字",
+  "pos": "n.",
+  "en": "emoticon",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v431",
+  "kana": "かんじょう",
+  "kanji": "感情",
+  "pos": "n.",
+  "en": "feeling; emotion",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v446",
+  "kana": "きごう",
+  "kanji": "記号",
+  "pos": "n.",
+  "en": "symbol",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v448",
+  "kana": "キスをする",
+  "kanji": null,
+  "pos": "irr-v.",
+  "en": "to kiss",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v600",
+  "kana": "こたえ",
+  "kanji": "答／答え",
+  "pos": "n.",
+  "en": "answer",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v612",
+  "kana": "ことわざ",
+  "kanji": null,
+  "pos": "n.",
+  "en": "proverb",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v617",
+  "kana": "このように",
+  "kanji": null,
+  "pos": "adv.",
+  "en": "like this; this way",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v899",
+  "kana": "せかいじゅう",
+  "kanji": "世界中",
+  "pos": "n.",
+  "en": "all over the world",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v994",
+  "kana": "たて",
+  "kanji": "縦",
+  "pos": "n.",
+  "en": "vertical",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v1136",
+  "kana": "（～は）…といういみだ",
+  "kanji": "（～は）…という意味だ",
+  "pos": "exp.",
+  "en": "～ means that . . .",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v1295",
+  "kana": "～は…といういみだ",
+  "kanji": "～は…という意味だ",
+  "pos": "exp.",
+  "en": "～ means that . . .",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v1407",
+  "kana": "ひょうじょう",
+  "kanji": "表情",
+  "pos": "n.",
+  "en": "expression",
+  "chapter": 23,
+  "source": "read"
+ },
+ {
+  "id": "v1698",
+  "kana": "よこ",
+  "kanji": "横",
+  "pos": "n.",
+  "en": "side; horizontal",
+  "chapter": 23,
+  "source": "read"
+ }
+]

@@ -1,0 +1,563 @@
+{
+ "v112": [
+  "all day",
+  "whole day",
+  "the whole day",
+  "throughout the day",
+  "entire day"
+ ],
+ "v113": [
+  "day one",
+  "1st day",
+  "day 1",
+  "the first day"
+ ],
+ "v148": [
+  "the internet",
+  "net"
+ ],
+ "v179": [
+  "illustration",
+  "artwork"
+ ],
+ "v183": [
+  "movie theatre",
+  "cinema",
+  "theater",
+  "theatre",
+  "movie house"
+ ],
+ "v311": [
+  "take out money",
+  "withdraw money",
+  "take out",
+  "draw money"
+ ],
+ "v326": [
+  "non-japanese",
+  "foreign person",
+  "foreign national",
+  "gaijin"
+ ],
+ "v345": [
+  "sketch",
+  "illustrate"
+ ],
+ "v381": [
+  "activities"
+ ],
+ "v427": [
+  "sightseeing",
+  "sightsee",
+  "go sightseeing",
+  "see the sights",
+  "tour"
+ ],
+ "v479": [
+  "class room"
+ ],
+ "v491": [
+  "be careful",
+  "be cautious",
+  "careful",
+  "cautious",
+  "take care",
+  "watch out",
+  "look out"
+ ],
+ "v532": [
+  "experiences"
+ ],
+ "v552": [
+  "wedding ceremony",
+  "marriage ceremony",
+  "wedding party"
+ ],
+ "v555": [
+  "although",
+  "though",
+  "however",
+  "even though",
+  "but"
+ ],
+ "v657": [
+  "lately",
+  "these days",
+  "nowadays",
+  "of late",
+  "not long ago",
+  "recent"
+ ],
+ "v660": [
+  "search",
+  "search for",
+  "seek",
+  "look",
+  "hunt for"
+ ],
+ "v669": [
+  "ask out",
+  "invite out",
+  "ask along"
+ ],
+ "v689": [
+  "take part",
+  "take part in",
+  "participate in",
+  "join",
+  "attend",
+  "join in"
+ ],
+ "v718": [
+  "quake",
+  "tremor"
+ ],
+ "v745": [
+  "due date",
+  "closing date",
+  "cutoff",
+  "cut-off",
+  "due"
+ ],
+ "v755": [
+  "talk",
+  "chatter",
+  "chitchat",
+  "chit-chat",
+  "gossip",
+  "converse",
+  "natter",
+  "have a chat"
+ ],
+ "v765": [
+  "habit",
+  "tradition",
+  "practice",
+  "customs",
+  "convention"
+ ],
+ "v824": [
+  "investigate",
+  "examine",
+  "check",
+  "check out",
+  "research",
+  "look up",
+  "find out",
+  "look into",
+  "look into a matter"
+ ],
+ "v879": [
+  "decide",
+  "choose",
+  "pick",
+  "decide on",
+  "go with",
+  "settle on",
+  "select"
+ ],
+ "v889": [
+  "taxes"
+ ],
+ "v935": [
+  "graduation",
+  "commencement",
+  "graduation exercise"
+ ],
+ "v936": [
+  "graduate from",
+  "finish school",
+  "complete school"
+ ],
+ "v940": [
+  "buckwheat noodles",
+  "buckwheat",
+  "japanese noodles"
+ ],
+ "v995": [
+  "buildings",
+  "structure"
+ ],
+ "v1000": [
+  "can't wait",
+  "can not wait",
+  "look forward to it",
+  "looking forward to it",
+  "looking forward",
+  "i can't wait",
+  "i look forward to it"
+ ],
+ "v1070": [
+  "get to",
+  "reach",
+  "get there"
+ ],
+ "v1126": [
+  "batteries"
+ ],
+ "v1263": [
+  "yard",
+  "backyard"
+ ],
+ "v1338": [
+  "present",
+  "give a presentation",
+  "announce",
+  "presentation",
+  "publish",
+  "make an announcement",
+  "make known"
+ ],
+ "v1420": [
+  "the pool",
+  "swim pool"
+ ],
+ "v1467": [
+  "pets"
+ ],
+ "v1495": [
+  "get insurance",
+  "take out insurance",
+  "enroll in insurance",
+  "sign up for insurance",
+  "join insurance",
+  "purchase insurance",
+  "enter insurance",
+  "take insurance",
+  "have insurance"
+ ],
+ "v1505": [
+  "volunteering",
+  "volunteer work"
+ ],
+ "v1555": [
+  "visible",
+  "can be seen",
+  "can see",
+  "be seen",
+  "come into view",
+  "appear"
+ ],
+ "v1607": [
+  "th",
+  "-th",
+  "ordinal",
+  "ordinal suffix",
+  "nth",
+  "ordinal number",
+  "ordinal marker"
+ ],
+ "v1624": [
+  "once more",
+  "again",
+  "one more",
+  "another time",
+  "once again"
+ ],
+ "v1706": [
+  "plans",
+  "schedules",
+  "arrangement",
+  "itinerary",
+  "agenda"
+ ],
+ "v1710": [
+  "book",
+  "make a reservation",
+  "reservation",
+  "make reservation",
+  "booking"
+ ],
+ "v1736": [
+  "ryokan",
+  "inn",
+  "traditional inn",
+  "japanese-style inn",
+  "traditional japanese inn"
+ ],
+ "v1771": [
+  "discount ticket",
+  "coupon",
+  "discount voucher",
+  "voucher",
+  "discount card"
+ ],
+ "v128": [
+  "one night two meals",
+  "1 night 2 meals",
+  "one night with dinner and breakfast",
+  "one night with 2 meals",
+  "two meals included",
+  "one night including two meals",
+  "one night and two meals"
+ ],
+ "v453": [
+  "smoke",
+  "smoking allowed",
+  "smoking section",
+  "smoking area",
+  "smoking permitted"
+ ],
+ "v494": [
+  "no smoking",
+  "nonsmoking",
+  "non smoking",
+  "smoking prohibited",
+  "smoking ban",
+  "no-smoking",
+  "smoke-free",
+  "smokefree"
+ ],
+ "v835": [
+  "single bed",
+  "single occupancy"
+ ],
+ "v974": [
+  "spa",
+  "big spa",
+  "large bath",
+  "big bath",
+  "large public bath",
+  "public bath",
+  "communal bath",
+  "bathhouse",
+  "large communal bath"
+ ],
+ "v1005": [
+  "double bed"
+ ],
+ "v1023": [
+  "check out",
+  "checkout",
+  "check-out",
+  "check out of hotel",
+  "check out of a hotel"
+ ],
+ "v1024": [
+  "check in",
+  "checkin",
+  "check-in",
+  "check in to hotel",
+  "check in to a hotel"
+ ],
+ "v1051": [
+  "breakfast included",
+  "includes breakfast",
+  "breakfast",
+  "including breakfast",
+  "breakfast provided",
+  "comes with breakfast"
+ ],
+ "v1058": [
+  "twin",
+  "twin beds",
+  "twin bed room"
+ ],
+ "v1312": [
+  "night",
+  "counter for nights",
+  "nights counter",
+  "overnight stay",
+  "overnight stays"
+ ],
+ "v1456": [
+  "reception",
+  "reception desk",
+  "front",
+  "front office",
+  "hotel reception",
+  "hotel front desk"
+ ],
+ "v1608": [
+  "people",
+  "persons",
+  "counter for people",
+  "counter for persons",
+  "people counter",
+  "number of people",
+  "counter for person"
+ ],
+ "v114": [
+  "all year round",
+  "year round",
+  "year-round",
+  "the whole year",
+  "all year long",
+  "throughout the year",
+  "whole year"
+ ],
+ "v167": [
+  "born",
+  "be born in",
+  "get born"
+ ],
+ "v261": [
+  "dropped",
+  "get dropped",
+  "be dropped on"
+ ],
+ "v544": [
+  "view",
+  "landscape",
+  "scene",
+  "vista",
+  "scenic view"
+ ],
+ "v566": [
+  "a-bomb",
+  "a bomb",
+  "atom bomb",
+  "atomic bombing",
+  "nuclear bomb",
+  "nuke",
+  "the bomb"
+ ],
+ "v581": [
+  "autumn leaves",
+  "autumn colors",
+  "autumn colours",
+  "fall leaves",
+  "fall colors",
+  "fall colours",
+  "fall foliage",
+  "autumn foliage",
+  "foliage",
+  "red leaves",
+  "maple leaves"
+ ],
+ "v623": [
+  "crowded",
+  "become crowded",
+  "be crowded",
+  "get congested",
+  "crowd"
+ ],
+ "v643": [
+  "crowded",
+  "is crowded",
+  "congested",
+  "be congested",
+  "packed",
+  "jammed"
+ ],
+ "v743": [
+  "isle"
+ ],
+ "v794": [
+  "head of a family",
+  "head of the family",
+  "head of household",
+  "head of the household",
+  "husband",
+  "master of the house",
+  "household head",
+  "family head",
+  "man of the house"
+ ],
+ "v858": [
+  "scramble intersection",
+  "scramble crosswalk",
+  "scramble",
+  "shibuya crossing",
+  "pedestrian scramble"
+ ],
+ "v1002": [
+  "have fun",
+  "enjoy oneself",
+  "have a good time"
+ ],
+ "v1026": [
+  "basement",
+  "below ground",
+  "under ground",
+  "beneath the ground",
+  "subterranean"
+ ],
+ "v1157": [
+  "pass through",
+  "pass by",
+  "go past",
+  "go by",
+  "pass",
+  "travel through",
+  "traverse"
+ ],
+ "v1196": [
+  "sightseeing train",
+  "tourist train",
+  "small tourist train",
+  "trolley train",
+  "trolley",
+  "toroko train",
+  "toroko",
+  "little tourist train",
+  "small train",
+  "scenic train",
+  "tourist railway"
+ ],
+ "v1281": [
+  "leave behind",
+  "keep",
+  "save",
+  "retain",
+  "hand down",
+  "pass down"
+ ],
+ "v1321": [
+  "location",
+  "spot",
+  "site",
+  "venue",
+  "position"
+ ],
+ "v1371": [
+  "days",
+  "date"
+ ],
+ "v1416": [
+  "style",
+  "fashions"
+ ],
+ "v1463": [
+  "peace memorial hall",
+  "hiroshima peace memorial museum",
+  "hiroshima peace museum",
+  "peace museum",
+  "peace memorial",
+  "museum of peace"
+ ],
+ "v1537": [
+  "meet",
+  "meet up with",
+  "arrange to meet",
+  "get together",
+  "rendezvous",
+  "make plans to meet",
+  "agree to meet",
+  "meetup",
+  "set up a meeting"
+ ],
+ "v1577": [
+  "greenery"
+ ],
+ "v1761": [
+  "young person",
+  "youth",
+  "youths",
+  "youngsters",
+  "the young",
+  "young adults",
+  "young folks",
+  "young generation"
+ ],
+ "v1769": [
+  "go across",
+  "cross over",
+  "go over",
+  "pass over",
+  "traverse",
+  "cross the street",
+  "cross the road",
+  "cross a bridge"
+ ]
+}
