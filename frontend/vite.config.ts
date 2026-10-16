@@ -5,6 +5,6 @@ export default defineConfig({
   base: './',
   server: {
     fs: { allow: ['..'] },
-    proxy: { '/api': 'http://localhost:8080' },
+    proxy: { '/api': 'http://localhost:3002' },
   },
 });

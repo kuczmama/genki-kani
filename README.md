@@ -19,7 +19,7 @@ scripts/extract_vocab.py regenerates data/vocab.json from the spreadsheet
 ```sh
 cd frontend && npm install && npm run build && cd ..
 cd backend && cargo run --release
-# → http://localhost:8080
+# → http://localhost:3002
 ```
 
 > On this Mac, Homebrew's Rust (1.81) shadows rustup's and is too old for the dependencies.
@@ -29,7 +29,7 @@ Server env vars:
 
 | var | default | |
 |---|---|---|
-| `PORT` | `8080` | |
+| `PORT` | `3002` | |
 | `DATA_FILE` | `./genki-kani-progress.json` | your progress |
 | `STATIC_DIR` | `../frontend/dist` | built frontend |
 | `GENKI_KANI_TOKEN` | *(unset)* | if set, the API requires `Authorization: Bearer <token>`; enter it under Settings → Sync |
@@ -40,7 +40,7 @@ API: `GET /api/state`, `POST /api/state` (merges items by `updatedAt`), `DELETE 
 
 ```sh
 docker build -t genki-kani .
-docker run -p 8080:8080 -v genki-kani-data:/data genki-kani
+docker run -p 3002:3002 -v genki-kani-data:/data genki-kani
 ```
 
 ## Run it as a purely static site
@@ -52,8 +52,8 @@ To host the static site separately from the server, set **Settings → Sync → 
 ## Dev
 
 ```sh
-cd backend && cargo run          # API on :8080
-cd frontend && npm run dev       # Vite on :5173, proxies /api to :8080
+cd backend && cargo run          # API on :3002
+cd frontend && npm run dev       # Vite on :5173, proxies /api to :3002
 ```
 
 ## Kanji

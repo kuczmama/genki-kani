@@ -17,7 +17,7 @@ FROM debian:bookworm-slim
 WORKDIR /app
 COPY --from=server /app/backend/target/release/genki-kani-server /usr/local/bin/
 COPY --from=web /app/frontend/dist ./dist
-ENV STATIC_DIR=/app/dist DATA_FILE=/data/genki-kani-progress.json PORT=8080
+ENV STATIC_DIR=/app/dist DATA_FILE=/data/genki-kani-progress.json PORT=3002
 VOLUME /data
-EXPOSE 8080
+EXPOSE 3002
 CMD ["genki-kani-server"]

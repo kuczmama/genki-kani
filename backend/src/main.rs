@@ -6,7 +6,7 @@
 //! other.
 //!
 //! Env vars:
-//!   PORT              (default 8080)
+//!   PORT              (default 3002)
 //!   DATA_FILE         (default ./genki-kani-progress.json)
 //!   STATIC_DIR        (default ../frontend/dist)
 //!   GENKI_KANI_TOKEN  (optional; if set, API requests need `Authorization: Bearer <token>`)
@@ -119,7 +119,7 @@ async fn require_token(State(st): State<Shared>, req: Request, next: Next) -> Re
 
 #[tokio::main]
 async fn main() {
-    let port: u16 = std::env::var("PORT").ok().and_then(|p| p.parse().ok()).unwrap_or(8080);
+    let port: u16 = std::env::var("PORT").ok().and_then(|p| p.parse().ok()).unwrap_or(3002);
     let path = PathBuf::from(std::env::var("DATA_FILE").unwrap_or_else(|_| "genki-kani-progress.json".into()));
     let static_dir = PathBuf::from(std::env::var("STATIC_DIR").unwrap_or_else(|_| "../frontend/dist".into()));
     let token = std::env::var("GENKI_KANI_TOKEN").ok().filter(|t| !t.is_empty());
