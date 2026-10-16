@@ -22,7 +22,8 @@ export interface Settings {
   currentChapter: number;
   includeReading: boolean;
   includeExtra: boolean;
-  includeKanji: boolean;
+  /** Kanji are opt-in. (Renamed from includeKanji so browsers that saved the old default start with them off.) */
+  studyKanji: boolean;
   batchSize: number;
   questionTypes: QuestionTypes;
   updatedAt: number;
@@ -50,7 +51,7 @@ const DEFAULT_SETTINGS: Settings = {
   currentChapter: 14,
   includeReading: true,
   includeExtra: true,
-  includeKanji: true,
+  studyKanji: false,
   batchSize: 5,
   questionTypes: 'both',
   updatedAt: 0,
@@ -105,7 +106,7 @@ export const exportDoc = (): Doc => structuredClone(doc);
 /** Items that are part of the user's current study scope (chapter <= current, source/kanji filters). */
 export function inScope(item: Item, s = doc.settings): boolean {
   if (item.chapter > s.currentChapter) return false;
-  if (item.kind === 'kanji') return s.includeKanji;
+  if (item.kind === 'kanji') return s.studyKanji;
   if (item.source === 'read' && !s.includeReading) return false;
   if (item.source === 'extra' && !s.includeExtra) return false;
   return true;
@@ -118,6 +119,7 @@ export function lessonQueue(): Item[] {
 
 export function dueReviews(now = Date.now()): Item[] {
   return ITEMS.filter((v) => {
+    if (v.kind === 'kanji' && !doc.settings.studyKanji) return false; // kanji turned off: keep progress, skip reviews
     const p = doc.items[v.id];
     return p && p.nextReview !== null && p.nextReview <= now;
   });

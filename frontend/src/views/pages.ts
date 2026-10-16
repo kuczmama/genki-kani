@@ -67,7 +67,7 @@ export function renderChapter(root: HTMLElement, chapter: number): void {
     ${chapter > s.currentChapter ? `<p class="notice">This chapter is past your current chapter, so its words aren't in your lessons yet. <a href="#/chapters">Unlock it from Chapters.</a></p>` : ''}
     ${kanji.length ? `
     <section class="card">
-      <div class="card-head"><h2>Kanji</h2><span class="muted">${kanji.length} kanji first seen in this chapter${s.includeKanji ? '' : ' · excluded in settings'}</span></div>
+      <div class="card-head"><h2>Kanji</h2><span class="muted">${kanji.length} kanji first seen in this chapter${s.studyKanji ? '' : ' · not in your lessons (turn on “Study kanji” in Settings)'}</span></div>
       <div class="kanji-grid">${kanji
         .map((k) => {
           const p = progress(k.id);
@@ -149,7 +149,7 @@ export function renderSettings(root: HTMLElement): void {
       </label>
       <label class="field check"><input type="checkbox" data-k="includeReading" ${s.includeReading ? 'checked' : ''}/> <span>Include Reading &amp; Writing (読み書き編) vocab</span></label>
       <label class="field check"><input type="checkbox" data-k="includeExtra" ${s.includeExtra ? 'checked' : ''}/> <span>Include end-of-chapter extra vocab</span></label>
-      <label class="field check"><input type="checkbox" data-k="includeKanji" ${s.includeKanji ? 'checked' : ''}/> <span>Include kanji (meaning, on'yomi and kun'yomi) — each chapter's kanji come before its words</span></label>
+      <label class="field check"><input type="checkbox" data-k="studyKanji" ${s.studyKanji ? 'checked' : ''}/> <span>Study kanji too (meaning, on'yomi and kun'yomi). Off by default. When on, each chapter's kanji come before its words; turning it off pauses kanji reviews but keeps their progress.</span></label>
       <label class="field"><span>Lesson batch size</span>
         <input type="number" min="1" max="20" data-k="batchSize" value="${s.batchSize}" /></label>
       <label class="field"><span>Questions</span>

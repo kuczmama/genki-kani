@@ -58,12 +58,12 @@ cd frontend && npm run dev       # Vite on :5173, proxies /api to :8080
 
 ## Kanji
 
-Every kanji used in the chapter 14–23 words (498) is its own SRS item, unlocked with the chapter where it first appears. Within a chapter, its kanji come before its words in lessons, as on WaniKani. Each kanji is quizzed on:
+Kanji are **opt-in** (Settings → Study kanji); by default the app is vocabulary only. When turned on, every kanji used in the chapter 14–23 words (498) is its own SRS item, unlocked with the chapter where it first appears, and a chapter's kanji come before its words in lessons, as on WaniKani. Turning it off again pauses kanji lessons and reviews but keeps their progress. Each kanji is quizzed on:
 
 - **meaning** (any KANJIDIC meaning, with the same typo/synonym rules as words), and
 - **on'yomi** and **kun'yomi**, asked separately. A type is asked only if your Genki words actually use it. Any listed reading is accepted (kun'yomi with or without okurigana: た or たべる). Typing the other type gets a nudge ("That's a kun'yomi. We want the on'yomi.") instead of a wrong mark.
 
-Kanji pages show all readings (with the ones Genki uses highlighted), stroke count, grade, frequency, and every Genki word containing the kanji. Word pages link to their kanji. Chapter pages have separate **Practice words** and **Practice kanji** buttons. Kanji can be turned off in Settings.
+Kanji pages show all readings (with the ones Genki uses highlighted), stroke count, grade, frequency, and every Genki word containing the kanji. Word pages link to their kanji. Chapter pages have separate **Practice words** and **Practice kanji** buttons (kanji practice works even with kanji study turned off).
 
 `data/kanji.json` is built from [KANJIDIC2](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project) (© EDRDG, CC BY-SA 4.0):
 
