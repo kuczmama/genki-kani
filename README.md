@@ -3,6 +3,8 @@
 A WaniKani-style SRS for **Genki II vocabulary (chapters 14–23)**, grouped by chapter.
 Every word has two questions — type the **English** for the Japanese, and type the **Japanese** (romaji auto-converts to kana) for the English — plus two example sentences with furigana and audio.
 
+https://kuczmama.github.io/genki-kani/
+
 ## Layout
 
 ```
