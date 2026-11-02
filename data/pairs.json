@@ -1,0 +1,45 @@
+{
+ "_comment": "Genki ch. 18 transitive/intransitive pairs: [intransitive id, transitive id].",
+ "pairs": [
+  [
+   "v18",
+   "s1"
+  ],
+  [
+   "v744",
+   "s2"
+  ],
+  [
+   "s3",
+   "v145"
+  ],
+  [
+   "s4",
+   "v985"
+  ],
+  [
+   "v1071",
+   "s5"
+  ],
+  [
+   "v440",
+   "s6"
+  ],
+  [
+   "v636",
+   "v635"
+  ],
+  [
+   "v1700",
+   "v1699"
+  ],
+  [
+   "v252",
+   "v262"
+  ],
+  [
+   "v304",
+   "v305"
+  ]
+ ]
+}

@@ -159,7 +159,7 @@ export function startLessons(root: HTMLElement, fresh = false): Cleanup {
       </div>
       <div class="character meaning lesson-char ${v.kind}" lang="ja">
         <div class="char-main ${v.kind === 'kanji' ? 'kanji' : ''}">${esc(display(v))}</div>
-        <div class="char-sub en">${esc(gloss(v))}</div>
+        <div class="char-sub en" data-gloss="${v.id}">${esc(gloss(v))}</div>
       </div>
       <div class="lesson-body container">
         ${itemDetailHtml(v)}

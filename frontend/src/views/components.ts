@@ -2,9 +2,12 @@ import {
   POS_LABEL,
   SOURCE_LABEL,
   VOCAB_BY_ID,
+  BY_ID,
+  bookGloss,
   display,
   gloss,
   kanjiInWord,
+  pairOf,
   sentencesFor,
   splitKun,
   type Item,
@@ -12,7 +15,7 @@ import {
   type Vocab,
 } from '../data';
 import { groupOf, stageName } from '../srs';
-import { dueReviews, lessonQueue, localPrefs, progress, syncStatus, updatePrefs } from '../store';
+import { customMeaning, dueReviews, lessonQueue, localPrefs, progress, setCustomMeaning, syncStatus, updatePrefs } from '../store';
 import { esc, furiganaClass, jaReading, playAudio, relTime, renderJa, sentenceAudio, wordAudio } from '../util';
 
 export function navHtml(active: string, query = ''): string {
@@ -65,6 +68,60 @@ export function bindCommon(root: HTMLElement): void {
       b.textContent = localPrefs().furigana ? 'Hide furigana' : 'Show furigana';
     }),
   );
+  root.querySelectorAll<HTMLElement>('[data-meaning-section]').forEach(bindMeaningSection);
+}
+
+/** The Meaning block of an item: your definition (if any), Genki's, and an editor for your own. */
+function meaningSectionHtml(item: Item): string {
+  const custom = customMeaning(item.id);
+  const book = bookGloss(item);
+  return `
+    <h3>Meaning</h3>
+    <p class="big-meaning">${esc(gloss(item))}</p>
+    ${custom ? `<p class="book-meaning"><span>Genki:</span> ${esc(item.kind === 'kanji' ? item.meanings.join(', ') : book)}</p>` : ''}
+    ${synonymsLine(item)}
+    <button type="button" class="link-btn" data-edit-meaning>${custom ? 'Edit your definition' : 'Write your own definition'}</button>
+    <form class="meaning-form" data-meaning-form hidden>
+      <input value="${esc(custom ?? '')}" placeholder="${esc(book)}" aria-label="Your definition" maxlength="120" />
+      <button class="btn small">Save</button>
+      ${custom ? '<button type="button" class="link-btn" data-reset-meaning>Use Genki’s</button>' : ''}
+      <small class="muted">Shown instead of Genki’s everywhere, and accepted as an answer. Separate alternatives with “;”.</small>
+    </form>`;
+}
+
+function bindMeaningSection(section: HTMLElement): void {
+  const id = section.dataset.meaningSection!;
+  const item = BY_ID.get(id);
+  if (!item) return;
+  const form = section.querySelector<HTMLFormElement>('[data-meaning-form]')!;
+  const input = form.querySelector('input')!;
+  const save = (text: string) => {
+    setCustomMeaning(id, text);
+    // Sessions don't re-render on store changes, so refresh this block and any headline for the item.
+    section.innerHTML = meaningSectionHtml(item);
+    bindMeaningSection(section);
+    document.querySelectorAll<HTMLElement>(`[data-gloss="${id}"]`).forEach((el) => (el.textContent = gloss(item)));
+  };
+  section.querySelector('[data-edit-meaning]')!.addEventListener('click', (e) => {
+    (e.currentTarget as HTMLElement).hidden = true;
+    form.hidden = false;
+    input.focus();
+    input.select();
+  });
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    save(input.value);
+  });
+  // Keep Enter/F/R in this box from reaching the lesson and quiz shortcuts.
+  input.addEventListener('keydown', (e) => {
+    e.stopPropagation();
+    if (e.key === 'Escape') {
+      form.hidden = true;
+      section.querySelector<HTMLElement>('[data-edit-meaning]')!.hidden = false;
+    }
+  });
+  form.querySelector('[data-reset-meaning]')?.addEventListener('click', () => save(''));
 }
 
 export function sentencesHtml(v: Vocab): string {
@@ -123,16 +180,13 @@ function vocabDetailHtml(v: Vocab, opts: { stats?: boolean }): string {
   const pos = POS_LABEL[v.pos] ?? v.pos;
   const kanji = kanjiInWord(v);
   return `
-    <section class="detail-section">
-      <h3>Meaning</h3>
-      <p class="big-meaning">${esc(v.en)}</p>
-      ${synonymsLine(v)}
-    </section>
+    <section class="detail-section" data-meaning-section="${v.id}">${meaningSectionHtml(v)}</section>
     <section class="detail-section">
       <h3>Reading</h3>
       <p class="big-reading" lang="ja">${speakButton(wordAudio(v.id), v.kana.replace(/[（）()～]/g, ''))}${esc(v.kana)}${v.kanji ? ` <span class="muted">· ${esc(v.kanji)}</span>` : ''}</p>
       <p class="meta"><span class="pill">${esc(pos)}</span> <span class="pill">Chapter ${v.chapter}</span> <span class="pill">${SOURCE_LABEL[v.source]}</span></p>
     </section>
+    ${pairSectionHtml(v)}
     ${kanji.length ? `
     <section class="detail-section">
       <h3>Kanji in this word</h3>
@@ -143,6 +197,27 @@ function vocabDetailHtml(v: Vocab, opts: { stats?: boolean }): string {
       ${sentencesHtml(v)}
     </section>
     ${opts.stats ? statsHtml(v) : ''}`;
+}
+
+/** For a verb in a transitive/intransitive pair: both halves side by side. */
+function pairSectionHtml(v: Vocab): string {
+  const pair = pairOf(v.id);
+  const partner = pair && VOCAB_BY_ID.get(pair.partner);
+  if (!pair || !partner) return '';
+  const [vi, vt] = pair.transitive ? [partner, v] : [v, partner];
+  const row = (w: Vocab, label: string, particle: string) => `
+    <a class="pair-row ${w.id === v.id ? 'this' : ''}" href="#/item/${w.id}">
+      <span class="pair-label">${label} <span class="muted">(${particle})</span></span>
+      <span class="ja" lang="ja">${esc(w.kanji ?? w.kana)}</span>
+      <span class="kana" lang="ja">${w.kanji ? esc(w.kana) : ''}</span>
+      <span class="en">${esc(gloss(w))}</span>
+    </a>`;
+  return `
+    <section class="detail-section">
+      <h3>Transitive / intransitive pair</h3>
+      <div class="pair">${row(vi, 'Intransitive', 'X が')}${row(vt, 'Transitive', 'X を')}</div>
+      <p class="muted small">Intransitive: something happens by itself (ドアが開く). Transitive: someone does it to something (ドアを開ける).</p>
+    </section>`;
 }
 
 /** "た.べる" with the okurigana dimmed; "-" markers become ～. */
@@ -166,11 +241,7 @@ function kanjiDetailHtml(k: Kanji, opts: { stats?: boolean }): string {
   const words = k.words.flatMap((id) => VOCAB_BY_ID.get(id) ?? []);
   const asked = (t: 'onyomi' | 'kunyomi') => (k.ask.includes(t) ? '<span class="pill quizzed">quizzed</span>' : '');
   return `
-    <section class="detail-section">
-      <h3>Meaning</h3>
-      <p class="big-meaning">${esc(k.meanings.join(', '))}</p>
-      ${synonymsLine(k)}
-    </section>
+    <section class="detail-section" data-meaning-section="${k.id}">${meaningSectionHtml(k)}</section>
     <section class="detail-section">
       <h3>Readings</h3>
       <div class="readings" lang="ja">

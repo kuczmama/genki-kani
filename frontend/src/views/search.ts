@@ -1,5 +1,5 @@
 import { isKana, toHiragana } from 'wanakana';
-import { ITEMS, type Item } from '../data';
+import { ITEMS, bookGloss, gloss, type Item } from '../data';
 import { kanjiReadings } from '../answer';
 import { esc } from '../util';
 import { itemRow } from './components';
@@ -12,7 +12,9 @@ const cleanJa = (s: string) => toHiragana(s.replace(/[（）()～〜…！X\s]/g
 function score(v: Item, q: string, qJa: string | null): number {
   let best = Infinity;
   if (v.kind === 'kanji' && q.includes(v.char)) best = q === v.char ? 0 : 2;
-  const glosses = v.kind === 'kanji' ? v.meanings : [v.en, ...v.en.split(';')];
+  const base = v.kind === 'kanji' ? v.meanings : [v.en, ...v.en.split(';')];
+  const custom = gloss(v) !== bookGloss(v) ? [gloss(v), ...gloss(v).split(';')] : [];
+  const glosses = [...base, ...custom];
   for (const part of glosses) {
     const en = part.trim().toLowerCase().replace(/\([^)]*\)/g, '').trim();
     const bare = en.replace(/^to /, '');

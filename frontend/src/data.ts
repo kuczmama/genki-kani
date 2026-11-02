@@ -1,5 +1,6 @@
 import vocabJson from '../../data/vocab.json';
 import kanjiJson from '../../data/kanji.json';
+import pairsJson from '../../data/pairs.json';
 
 export type Source = 'conv' | 'read' | 'extra';
 
@@ -119,9 +120,20 @@ export function display(item: Item): string {
   return item.kind === 'kanji' ? item.char : (item.kanji ?? item.kana);
 }
 
-/** A short English label for an item. */
-export function gloss(item: Item): string {
+let glossOverride: (id: string) => string | undefined = () => undefined;
+/** Lets the store plug in the user's own definitions without data.ts depending on it. */
+export function setGlossOverride(fn: (id: string) => string | undefined): void {
+  glossOverride = fn;
+}
+
+/** The book's English for an item, ignoring any custom definition. */
+export function bookGloss(item: Item): string {
   return item.kind === 'kanji' ? item.meanings.slice(0, 3).join(', ') : item.en;
+}
+
+/** A short English label for an item: the user's own definition if they set one, else the book's. */
+export function gloss(item: Item): string {
+  return glossOverride(item.id) ?? bookGloss(item);
 }
 
 /** Kanji in a word that we have entries for, in order, without repeats. */
@@ -133,4 +145,24 @@ export function kanjiInWord(v: Vocab): Kanji[] {
 export function splitKun(r: string): { stem: string; okurigana: string } {
   const [stem, okurigana = ''] = r.replace(/-/g, '').split('.');
   return { stem, okurigana };
+}
+
+/** Transitive/intransitive verb pairs (Genki ch. 18), as [intransitive id, transitive id]. */
+export const VERB_PAIRS: [string, string][] = pairsJson.pairs as [string, string][];
+const PAIR_BY_ID = new Map<string, { partner: string; transitive: boolean }>(
+  VERB_PAIRS.flatMap(([vi, vt]) => [
+    [vi, { partner: vt, transitive: false }],
+    [vt, { partner: vi, transitive: true }],
+  ]),
+);
+
+/** The other half of an item's transitive/intransitive pair, and whether this item is the transitive one. */
+export function pairOf(id: string): { partner: string; transitive: boolean } | undefined {
+  return PAIR_BY_ID.get(id);
+}
+
+/** True for words written in katakana (カーテン, ワンルームマンション), so typed romaji should become katakana. */
+export function isKatakanaWord(v: Vocab): boolean {
+  const core = v.kana.replace(/[（）()～〜・ー\s]/g, '');
+  return /[\u30a1-\u30fa]/.test(core) && !/[\u3041-\u3096]/.test(core);
 }

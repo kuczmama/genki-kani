@@ -36,6 +36,10 @@ struct Doc {
     items: Map<String, Value>,
     #[serde(default)]
     settings: Option<Value>,
+    /// The user's own definitions, by item id: `{ "meaning": "...", "updatedAt": ms }`.
+    /// An empty meaning is kept as a tombstone so clearing one syncs too.
+    #[serde(default)]
+    meanings: Map<String, Value>,
 }
 
 struct AppState {
@@ -50,16 +54,21 @@ fn updated_at(v: &Value) -> f64 {
     v.get("updatedAt").and_then(Value::as_f64).unwrap_or(0.0)
 }
 
-fn merge(doc: &mut Doc, incoming: Doc) {
-    for (id, item) in incoming.items {
-        let newer = doc
-            .items
+/// Keep whichever copy of each entry has the later `updatedAt`.
+fn merge_map(into: &mut Map<String, Value>, incoming: Map<String, Value>) {
+    for (id, item) in incoming {
+        let newer = into
             .get(&id)
             .map_or(true, |cur| updated_at(&item) >= updated_at(cur));
         if newer {
-            doc.items.insert(id, item);
+            into.insert(id, item);
         }
     }
+}
+
+fn merge(doc: &mut Doc, incoming: Doc) {
+    merge_map(&mut doc.items, incoming.items);
+    merge_map(&mut doc.meanings, incoming.meanings);
     if let Some(s) = incoming.settings {
         let newer = doc
             .settings

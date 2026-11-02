@@ -1,6 +1,6 @@
-import { bind, unbind, toHiragana } from 'wanakana';
+import { bind, unbind, toHiragana, toKatakana } from 'wanakana';
 import { checkKanjiReading, checkMeaning, checkReading, type Verdict } from '../answer';
-import { display, gloss, POS_LABEL } from '../data';
+import { display, gloss, isKatakanaWord, POS_LABEL } from '../data';
 import { localPrefs, progress, updateItem } from '../store';
 import type { ItemResult, Question, Session } from '../session';
 import { esc, playAudio, wordAudio } from '../util';
@@ -60,12 +60,15 @@ export function runQuiz(root: HTMLElement, session: Session, opts: QuizOptions):
   let q: Question | null = null;
   let answered: Verdict | null = null;
   let typed = '';
-  let kanaBound = false;
+  type KanaMode = 'toHiragana' | 'toKatakana' | null;
+  let kanaMode: KanaMode = null;
 
-  function setKana(on: boolean) {
-    if (on && !kanaBound) bind(input, { IMEMode: 'toHiragana' });
-    if (!on && kanaBound) unbind(input);
-    kanaBound = on;
+  /** Turn romaji into kana as you type: katakana for katakana words, hiragana otherwise, or off for English. */
+  function setKana(mode: KanaMode) {
+    if (mode === kanaMode) return;
+    if (kanaMode) unbind(input);
+    if (mode) bind(input, { IMEMode: mode });
+    kanaMode = mode;
   }
 
   function updateStats() {
@@ -80,7 +83,7 @@ export function runQuiz(root: HTMLElement, session: Session, opts: QuizOptions):
   function show() {
     q = session.next();
     if (!q) {
-      setKana(false);
+      setKana(null);
       opts.onFinish(session);
       return;
     }
@@ -100,17 +103,18 @@ export function runQuiz(root: HTMLElement, session: Session, opts: QuizOptions):
       prompt.innerHTML = 'Vocabulary <b>Meaning</b>';
       input.placeholder = 'Your Response';
     } else {
-      const long = v.en.length > 28;
-      character.innerHTML = `<div class="char-main en ${long ? 'long' : ''}">${esc(v.en)}</div><div class="char-sub">${esc(POS_LABEL[v.pos] ?? v.pos)}</div>`;
+      const en = gloss(v);
+      const long = en.length > 28;
+      character.innerHTML = `<div class="char-main en ${long ? 'long' : ''}">${esc(en)}</div><div class="char-sub">${esc(POS_LABEL[v.pos] ?? v.pos)}</div>`;
       prompt.className = 'prompt reading';
       prompt.innerHTML = 'Vocabulary <b>Japanese</b>';
-      input.placeholder = '答え';
+      input.placeholder = isKatakanaWord(v) ? 'カタカナ' : '答え';
     }
     input.value = '';
     input.disabled = false;
     input.className = '';
     input.lang = q.type === 'meaning' ? 'en' : 'ja';
-    setKana(q.type !== 'meaning');
+    setKana(q.type === 'meaning' ? null : v.kind === 'vocab' && isKatakanaWord(v) ? 'toKatakana' : 'toHiragana');
     msg.textContent = '';
     actions.hidden = true;
     infoPanel.hidden = true;
@@ -129,7 +133,7 @@ export function runQuiz(root: HTMLElement, session: Session, opts: QuizOptions):
     const v = q.item;
     let value = input.value;
     if (q.type !== 'meaning') {
-      value = toHiragana(value, { IMEMode: true });
+      value = kanaMode === 'toKatakana' ? toKatakana(value, { IMEMode: true }) : toHiragana(value, { IMEMode: true });
       input.value = value;
     }
     const verdict =
@@ -251,6 +255,7 @@ export function runQuiz(root: HTMLElement, session: Session, opts: QuizOptions):
 
   const onKey = (e: KeyboardEvent) => {
     if (!answered || e.metaKey || e.ctrlKey || e.altKey) return;
+    if ((e.target as HTMLElement).tagName === 'INPUT') return; // e.g. editing a definition in the info panel
     if (e.key === 'Enter') {
       e.preventDefault();
       advance();
@@ -269,6 +274,6 @@ export function runQuiz(root: HTMLElement, session: Session, opts: QuizOptions):
   show();
   return () => {
     document.removeEventListener('keydown', onKey);
-    setKana(false);
+    setKana(null);
   };
 }
