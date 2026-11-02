@@ -1,6 +1,6 @@
 // Progress storage: always cached in localStorage, synced to the Rust backend when one is reachable.
 
-import { ITEMS, type Item } from './data';
+import { ITEMS, setGlossOverride, type Item } from './data';
 
 export interface ItemProgress {
   stage: number;
@@ -29,9 +29,16 @@ export interface Settings {
   updatedAt: number;
 }
 
+/** A definition the user wrote to replace the Genki one. An empty meaning means "cleared" (kept so it syncs). */
+export interface CustomMeaning {
+  meaning: string;
+  updatedAt: number;
+}
+
 export interface Doc {
   items: Record<string, ItemProgress>;
   settings: Settings;
+  meanings: Record<string, CustomMeaning>;
 }
 
 /** Per-device preferences; never synced. */
@@ -82,6 +89,7 @@ const stored = readJson<Partial<Doc>>(DOC_KEY);
 let doc: Doc = {
   items: stored?.items ?? {},
   settings: { ...DEFAULT_SETTINGS, ...stored?.settings },
+  meanings: stored?.meanings ?? {},
 };
 let prefs: LocalPrefs = { ...DEFAULT_PREFS, ...readJson<Partial<LocalPrefs>>(PREFS_KEY) };
 let status: SyncStatus = { state: 'offline', message: 'Saved in this browser only' };
@@ -102,6 +110,9 @@ export const localPrefs = (): LocalPrefs => prefs;
 export const syncStatus = (): SyncStatus => status;
 export const progress = (id: string): ItemProgress | undefined => doc.items[id];
 export const exportDoc = (): Doc => structuredClone(doc);
+/** The user's own definition for an item, if they've set one. */
+export const customMeaning = (id: string): string | undefined => doc.meanings[id]?.meaning || undefined;
+setGlossOverride(customMeaning);
 
 /** Items that are part of the user's current study scope (chapter <= current, source/kanji filters). */
 export function inScope(item: Item, s = doc.settings): boolean {
@@ -151,6 +162,12 @@ export function updateItem(id: string, patch: Partial<ItemProgress>): void {
   save();
 }
 
+/** Set (or, with an empty string, clear) the user's own definition for an item. */
+export function setCustomMeaning(id: string, meaning: string): void {
+  doc.meanings[id] = { meaning: meaning.trim(), updatedAt: Date.now() };
+  save();
+}
+
 export function updateSettings(patch: Partial<Settings>): void {
   doc.settings = { ...doc.settings, ...patch, updatedAt: Date.now() };
   save();
@@ -169,7 +186,7 @@ export function importDoc(incoming: Doc): void {
 }
 
 export async function resetAll(): Promise<void> {
-  doc = { items: {}, settings: { ...DEFAULT_SETTINGS, updatedAt: Date.now() } };
+  doc = { items: {}, settings: { ...DEFAULT_SETTINGS, updatedAt: Date.now() }, meanings: {} };
   writeJson(DOC_KEY, doc);
   if (status.state === 'synced') {
     try {
@@ -187,6 +204,10 @@ function mergeInto(incoming: Partial<Doc>): void {
   for (const [id, item] of Object.entries(incoming.items ?? {})) {
     const cur = doc.items[id];
     if (!cur || item.updatedAt > cur.updatedAt) doc.items[id] = item;
+  }
+  for (const [id, m] of Object.entries(incoming.meanings ?? {})) {
+    const cur = doc.meanings[id];
+    if (!cur || m.updatedAt > cur.updatedAt) doc.meanings[id] = m;
   }
   if (incoming.settings && incoming.settings.updatedAt > doc.settings.updatedAt) {
     doc.settings = { ...DEFAULT_SETTINGS, ...incoming.settings };

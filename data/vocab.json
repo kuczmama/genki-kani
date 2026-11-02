@@ -157,7 +157,7 @@
   "kana": "～こ",
   "kanji": "～個",
   "pos": "suf.",
-  "en": "[generic counter for smaller items]",
+  "en": "counter for small items",
   "chapter": 14,
   "source": "conv"
  },
@@ -193,7 +193,7 @@
   "kana": "～さつ",
   "kanji": "～冊",
   "pos": "suf.",
-  "en": "[counter for bound volumes]",
+  "en": "counter for books",
   "chapter": 14,
   "source": "conv"
  },
@@ -229,7 +229,7 @@
   "kana": "～だい",
   "kanji": "～台",
   "pos": "suf.",
-  "en": "[counter for equipment]",
+  "en": "counter for machines",
   "chapter": 14,
   "source": "conv"
  },
@@ -346,7 +346,7 @@
   "kana": "～ひき",
   "kanji": "～匹",
   "pos": "suf.",
-  "en": "[counter for smaller animals]",
+  "en": "counter for small animals",
   "chapter": 14,
   "source": "conv"
  },
@@ -382,7 +382,7 @@
   "kana": "～ほん",
   "kanji": "～本",
   "pos": "suf.",
-  "en": "[counter for long objects]",
+  "en": "counter for long objects",
   "chapter": 14,
   "source": "conv"
  },
@@ -3028,7 +3028,7 @@
   "kana": "おつかれさま（でした）",
   "kanji": "お疲れ様（でした）",
   "pos": "exp.",
-  "en": "You must be tired after working so hard. (greeting between friends and coworkers)",
+  "en": "good work; thanks for your hard work",
   "chapter": 18,
   "source": "conv"
  },
@@ -3416,6 +3416,60 @@
   "kanji": null,
   "pos": "n.",
   "en": "candle",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "s1",
+  "kana": "あける",
+  "kanji": "開ける",
+  "pos": "ru-v.",
+  "en": "to open (something)",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "s2",
+  "kana": "しめる",
+  "kanji": "閉める",
+  "pos": "ru-v.",
+  "en": "to close (something)",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "s3",
+  "kana": "はいる",
+  "kanji": "入る",
+  "pos": "u-v.",
+  "en": "(something) goes in; to enter",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "s4",
+  "kana": "でる",
+  "kanji": "出る",
+  "pos": "ru-v.",
+  "en": "(something) comes out; to exit",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "s5",
+  "kana": "つける",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to turn on (something)",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "s6",
+  "kana": "けす",
+  "kanji": "消す",
+  "pos": "u-v.",
+  "en": "to turn off (something); to erase",
   "chapter": 18,
   "source": "conv"
  },

@@ -1,5 +1,5 @@
-import { isKana, toHiragana } from 'wanakana';
-import { VOCAB, alternatesFor, meaningsFor, splitKun, type Kanji, type ReadingType, type Vocab } from './data';
+import { isKana, toHiragana, toKatakana } from 'wanakana';
+import { VOCAB, VOCAB_BY_ID, alternatesFor, bookGloss, gloss, meaningsFor, pairOf, splitKun, type Kanji, type ReadingType, type Vocab } from './data';
 
 export type Verdict =
   /** `note` is extra feedback shown even though the answer counts (e.g. a rarer valid reading). */
@@ -32,14 +32,9 @@ function expandSlashes(s: string): string[] {
   return [...expandSlashes(before + m[1] + after), ...expandSlashes(before + m[2] + after)];
 }
 
-const memoEn = new Map<string, string[]>();
-
-/** All acceptable normalized English answers for a word or kanji (without user synonyms). */
-export function meaningVariants(v: Vocab | Kanji): string[] {
-  const cached = memoEn.get(v.id);
-  if (cached) return cached;
+/** Normalized answers a gloss allows: each `;` part, with/without "to", parentheticals, slashes. */
+function glossVariants(glosses: string[]): Set<string> {
   const out = new Set<string>();
-  const glosses = v.kind === 'kanji' ? v.meanings : [v.en];
   const parts = glosses.flatMap((g) => [g, ...g.split(';')]).map((p) => p.trim()).filter(Boolean);
   for (const p of parts.flatMap(expandSlashes)) {
     const unbracketed = p.replace(/[[\]]/g, '');
@@ -55,6 +50,16 @@ export function meaningVariants(v: Vocab | Kanji): string[] {
       }
     }
   }
+  return out;
+}
+
+const memoEn = new Map<string, string[]>();
+
+/** All acceptable normalized English answers for a word or kanji (without user synonyms or definitions). */
+export function meaningVariants(v: Vocab | Kanji): string[] {
+  const cached = memoEn.get(v.id);
+  if (cached) return cached;
+  const out = glossVariants(v.kind === 'kanji' ? v.meanings : [v.en]);
   for (const extra of meaningsFor(v.id)) {
     const n = normEn(extra);
     if (n) {
@@ -96,7 +101,8 @@ export function checkMeaning(v: Vocab | Kanji, input: string, synonyms: string[]
   const raw = input.trim();
   if (!raw) return { kind: 'shake', message: 'Type an answer first.' };
   const ans = stripTo(normEn(raw));
-  const targets = [...meaningVariants(v), ...synonyms.map((s) => stripTo(normEn(s)))];
+  const custom = gloss(v) !== bookGloss(v) ? [...glossVariants([gloss(v)])] : [];
+  const targets = [...meaningVariants(v), ...custom, ...synonyms.map((s) => stripTo(normEn(s)))];
   // An explicitly accepted answer wins, even if it's romaji (～君 → "kun").
   if (targets.includes(ans)) return { kind: 'correct', close: false };
   if (isKana(raw.replace(/\s/g, '')) || (v.kind === 'vocab' && readingVariants(v).includes(normJa(raw)))) {
@@ -111,7 +117,8 @@ export function checkMeaning(v: Vocab | Kanji, input: string, synonyms: string[]
 // ---------- Japanese ----------
 
 export function normJa(s: string): string {
-  return toHiragana(s.trim(), { passRomaji: false })
+  // Round-trip through katakana so ー reads the same either way: カーテン and かーてん both → かあてん.
+  return toHiragana(toKatakana(toHiragana(s.trim().replace(/X$/, ''), { passRomaji: false })))
     .replace(/[\s　]/g, '')
     .replace(/[～〜~…・！!？?。、,.X]/g, '');
 }
@@ -186,6 +193,14 @@ export function checkReading(v: Vocab, input: string): Verdict {
   if (!ans) return { kind: 'shake', message: 'Type an answer first.' };
   if (/[a-z]/i.test(ans)) return { kind: 'shake', message: 'We want the Japanese — type it in romaji and it turns into kana.' };
   if (readingVariants(v).includes(ans)) return { kind: 'correct', close: false };
+
+  // Typed the other half of a transitive/intransitive pair (あく ↔ あける)?
+  const pair = pairOf(v.id);
+  const partner = pair && VOCAB_BY_ID.get(pair.partner);
+  if (pair && partner && readingVariants(partner).includes(ans)) {
+    const [mine, theirs] = pair.transitive ? ['transitive', 'intransitive'] : ['intransitive', 'transitive'];
+    return { kind: 'shake', message: `That's the ${theirs} verb (“${partner.en}”). We want the ${mine} one.` };
+  }
 
   // Typed a different Genki word with an overlapping meaning? Nudge rather than fail.
   const mine = contentWords(v);

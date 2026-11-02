@@ -1,0 +1,56 @@
+[
+ {
+  "id": "s1",
+  "kana": "あける",
+  "kanji": "開ける",
+  "pos": "ru-v.",
+  "en": "to open (something)",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "s2",
+  "kana": "しめる",
+  "kanji": "閉める",
+  "pos": "ru-v.",
+  "en": "to close (something)",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "s3",
+  "kana": "はいる",
+  "kanji": "入る",
+  "pos": "u-v.",
+  "en": "(something) goes in; to enter",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "s4",
+  "kana": "でる",
+  "kanji": "出る",
+  "pos": "ru-v.",
+  "en": "(something) comes out; to exit",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "s5",
+  "kana": "つける",
+  "kanji": null,
+  "pos": "ru-v.",
+  "en": "to turn on (something)",
+  "chapter": 18,
+  "source": "conv"
+ },
+ {
+  "id": "s6",
+  "kana": "けす",
+  "kanji": "消す",
+  "pos": "u-v.",
+  "en": "to turn off (something); to erase",
+  "chapter": 18,
+  "source": "conv"
+ }
+]

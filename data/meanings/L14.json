@@ -56,7 +56,8 @@
   "generic counter",
   "counter for smaller items",
   "small items counter",
-  "general counter"
+  "general counter",
+  "generic counter for smaller items"
  ],
  "v597": [
   "husband",
@@ -155,7 +156,8 @@
   "counter for small animals",
   "counter for animals",
   "small animals counter",
-  "animals counter"
+  "animals counter",
+  "counter for smaller animals"
  ],
  "v1455": [
   "propose",
@@ -170,7 +172,8 @@
   "counter for long things",
   "long objects counter",
   "counter for long thin objects",
-  "counter for cylindrical objects"
+  "counter for cylindrical objects",
+  "counter for long objects"
  ],
  "v1548": [
   "scarf",

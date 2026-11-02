@@ -105,7 +105,7 @@ export function renderItem(root: HTMLElement, id: string): void {
   root.innerHTML = `
   <div class="character meaning item-hero ${v.kind}" lang="ja">
     <div class="char-main ${v.kind === 'kanji' ? 'kanji' : ''}">${esc(display(v))}</div>
-    <div class="char-sub en">${esc(gloss(v))}</div>
+    <div class="char-sub en" data-gloss="${v.id}">${esc(gloss(v))}</div>
   </div>
   <main class="container item-page">
     <p><a href="#/chapter/${v.chapter}">← Chapter ${v.chapter}</a></p>

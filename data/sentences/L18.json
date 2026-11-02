@@ -708,5 +708,65 @@
    "ja": "{ワンルームマンション}は狭[せま]いけど安[やす]いです。",
    "en": "Studio apartments are small but cheap."
   }
+ ],
+ "s1": [
+  {
+   "ja": "暑[あつ]いので、窓[まど]を{開[あ]けて}もいいですか。",
+   "en": "It's hot, so may I open the window?"
+  },
+  {
+   "ja": "だれがドアを{開[あ]けた}んですか。",
+   "en": "Who opened the door?"
+  }
+ ],
+ "s2": [
+  {
+   "ja": "寒[さむ]いから、窓[まど]を{閉[し]めて}ください。",
+   "en": "It's cold, so please close the window."
+  },
+  {
+   "ja": "出[で]かける前[まえ]に、かぎを{閉[し]めました}。",
+   "en": "I locked the door before going out."
+  }
+ ],
+ "s3": [
+  {
+   "ja": "かばんに本[ほん]が{入[はい]って}います。",
+   "en": "There is a book in the bag."
+  },
+  {
+   "ja": "冷蔵庫[れいぞうこ]に何[なに]が{入[はい]って}いますか。",
+   "en": "What is in the refrigerator?"
+  }
+ ],
+ "s4": [
+  {
+   "ja": "このボタンを押[お]すと、切符[きっぷ]が{出[で]ます}。",
+   "en": "When you press this button, the ticket comes out."
+  },
+  {
+   "ja": "蛇口[じゃぐち]から水[みず]が{出[で]ません}。",
+   "en": "No water comes out of the faucet."
+  }
+ ],
+ "s5": [
+  {
+   "ja": "暗[くら]いから、電気[でんき]を{つけて}ください。",
+   "en": "It's dark, so please turn on the light."
+  },
+  {
+   "ja": "部屋[へや]に入[はい]って、エアコンを{つけました}。",
+   "en": "I went into the room and turned on the air conditioner."
+  }
+ ],
+ "s6": [
+  {
+   "ja": "寝[ね]る前[まえ]に、テレビを{消[け]して}ください。",
+   "en": "Please turn off the TV before going to bed."
+  },
+  {
+   "ja": "部屋[へや]を出[で]る時[とき]、電気[でんき]を{消[け]しました}。",
+   "en": "I turned off the light when I left the room."
+  }
  ]
 }

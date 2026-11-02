@@ -71,7 +71,8 @@
   "great work",
   "nice work",
   "well done",
-  "thanks for all your work"
+  "thanks for all your work",
+  "you must be tired after working so hard"
  ],
  "v262": [
   "drop",
@@ -542,5 +543,55 @@
   "studio condo",
   "studio unit",
   "studio room"
+ ],
+ "s1": [
+  "open",
+  "open something",
+  "to open something",
+  "open up"
+ ],
+ "s2": [
+  "close",
+  "shut",
+  "close something",
+  "shut something",
+  "to shut"
+ ],
+ "s3": [
+  "enter",
+  "go in",
+  "come in",
+  "get in",
+  "goes in",
+  "enters",
+  "to go into",
+  "be put in"
+ ],
+ "s4": [
+  "exit",
+  "leave",
+  "go out",
+  "come out",
+  "comes out",
+  "get out",
+  "to leave",
+  "appear",
+  "attend"
+ ],
+ "s5": [
+  "turn on",
+  "switch on",
+  "turn something on",
+  "put on",
+  "light"
+ ],
+ "s6": [
+  "turn off",
+  "switch off",
+  "erase",
+  "turn something off",
+  "put out",
+  "extinguish",
+  "delete"
  ]
 }
